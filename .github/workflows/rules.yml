@@ -7,7 +7,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '50 6,20 * * *'
+    - cron: '15 6,23 * * *'
     
 # Controls when the workflow will run
   # Triggers the workflow on push or pull request events but only for the "main" branch
