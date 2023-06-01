@@ -9,7 +9,7 @@ for rawresult in rawDirect:
     result.extend([item for item in rawresult.split("\n") if not item.startswith('#')])
 result_text = '\n'.join(result)
 
-with open("./direct.txt", "w") as f:
+with open("./Loon/direct.txt", "w") as f:
     f.write("\n".join(result))
  
 result.clear()
@@ -18,7 +18,7 @@ for rawresult in rawProxy:
     result.extend([item for item in rawresult.split("\n") if not item.startswith('#')])
 result_text = '\n'.join(result)
 
-with open("./proxy.txt", "w") as f:
+with open("./Loon/proxy.txt", "w") as f:
     f.write("\n".join(result))
  
 result.clear()
@@ -27,7 +27,7 @@ for rawresult in rawReject:
     result.extend([item for item in rawresult.split("\n") if not item.startswith('#')])
 result_text = '\n'.join(result)
 
-with open("./reject.txt", "w") as f:
+with open("./Loon/reject.txt", "w") as f:
     f.write("\n".join(result))
  
 result.clear()
