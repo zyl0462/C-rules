@@ -2,11 +2,15 @@
 
 name: CI
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "main" ]
+    branches:
+      - master
+  schedule:
+    - cron: '30 06 * * *'
+    
+# Controls when the workflow will run
+  # Triggers the workflow on push or pull request events but only for the "main" branch
   pull_request:
     branches: [ "main" ]
 
@@ -27,10 +31,16 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: echo Hello, world!
+        run: for f in action/*.py; do python "$f"; done
 
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Commit files
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          git config --local user.email "zy0462@gmail.com"
+          git config --local user.name "zyl0462"
+          git add ./*
+          git commit -m "Add changes" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
