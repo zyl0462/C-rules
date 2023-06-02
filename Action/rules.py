@@ -2,6 +2,10 @@ import requests
 
 Reject_URL = "https://anti-ad.net/surge2.txt"
 
+GFW_URL = "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt"
+TLD_URL = "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/tld-not-cn.txt"
+TELEGRAM_URL = "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt"
+
 directRule = requests.get("https://raw.githubusercontent.com/Code-Dramatist/Rule_Actions/main/Direct_Rule/Direct_Rule.rule").text
 proxyRule = requests.get("https://raw.githubusercontent.com/Code-Dramatist/Rule_Actions/main/Proxy_Rule/Proxy_Rule.rule").text
 rejectRule = requests.get("https://raw.githubusercontent.com/Code-Dramatist/Rule_Actions/main/Reject_Rule/Reject_Rule.rule").text
