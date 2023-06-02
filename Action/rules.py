@@ -3,7 +3,7 @@ import requests
 Reject_URL = "https://anti-ad.net/domains.txt"
 
 Reject_Rules = requests.get(Reject_URL).text    
-r_rules= set([item for item in Reject_Rules.strip.split("\n") if not item.startswith('#')])
+r_rules= set([item for item in Reject_Rules.strip().split("\n") if not item.startswith('#')])
 reject_text = '\n'.join(r_rules)
 
 with open("./Rules/reject.txt", "w") as f:
