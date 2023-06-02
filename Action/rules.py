@@ -19,8 +19,8 @@ GFW_rules = requests.get("https://raw.githubusercontent.com/Loyalsoldier/clash-r
 TLD_rules = requests.get("https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/tld-not-cn.txt").text  
 TELEGRAM_rules = requests.get("https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt").text
 
-p_rules= set([item for item in Reject1_Rules.strip().split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
-p_rules1= set([item for item in Reject2_Rules.strip().split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
+p_rules= set([item for item in GFW_rules.split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
+p_rules1= set([item for item in TLD_rules.split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
 p_rules.symmetric_difference_update(p_rules1)
 lists = sorted(p_rules)
 lists.insert(0,'payload:')
