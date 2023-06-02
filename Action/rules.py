@@ -1,6 +1,9 @@
+import os
+import time
 import requests
 
-Reject_URL = "https://anti-ad.net/surge2.txt"
+Reject_URL = "https://anti-ad.net/domains.txt"
+
 
 GFW_URL = "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt"
 TLD_URL = "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/tld-not-cn.txt"
