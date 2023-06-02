@@ -9,7 +9,6 @@ r_rules.symmetric_difference_update(r_rules1)
 reject_text = '\n'.join(sorted(r_rules))
 
 del(r_rules1)
-del(r_rules2)
 del(r_rules)
 
 with open("./Rules/reject.txt", "w") as f:
@@ -23,9 +22,12 @@ TELEGRAM_rules = requests.get("https://raw.githubusercontent.com/Loyalsoldier/cl
 p_rules= set([item for item in Reject1_Rules.strip().split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
 p_rules1= set([item for item in Reject2_Rules.strip().split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
 p_rules.symmetric_difference_update(p_rules1)
-list = sorted(p_rules)
-list.insert(0,'payload:')
-proxy_text = '\n'.join(list)
+lists = sorted(p_rules)
+lists.insert(0,'payload:')
+proxy_text = '\n'.join(lists)
+del(p_rules1)
+del(p_rules)
+lists.clear()
 
 with open("./Rules/proxy.yaml", "w") as f:
     f.write(proxy_text)
