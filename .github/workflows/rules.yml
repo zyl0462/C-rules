@@ -17,18 +17,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Print current directory
-        run: |
-          pwd
-          ls -a
+      
       - name: Run a one-line script
         run: python Action/rules.py
+        
       - name: Commit files
         run: |
           git config --local user.email "zy0462@gmail.com"
           git config --local user.name "zyl0462"
           git add ./*
           git commit -m "Update rules" -a
+      
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
