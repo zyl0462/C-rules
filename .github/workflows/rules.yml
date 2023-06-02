@@ -23,7 +23,6 @@ jobs:
         
       - name: Commit files
         run: |
-          date
           git config --local user.email "zy0462@gmail.com"
           git config --local user.name "zyl0462"
           git add ./*
