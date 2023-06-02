@@ -14,7 +14,7 @@ with open("./Rules/reject.txt", "w") as f:
 
 Proxy_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Proxy/Proxy_Domain.list").text
 #Proxy_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Global/Global_Domain.list").text
-#Proxy_Rules2 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GlobalMedia/GlobalMedia_Domain.list").text
+Proxy_Rules3 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GlobalMedia/GlobalMedia_Domain.list").text
 Proxy_Rules1 = requests.get("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt").text
 #Proxy_Rules1 = requests.get("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/proxy.txt").text
 Proxy_Rules2 = requests.get("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/tld-not-cn.txt").text
@@ -22,7 +22,7 @@ Proxy_Rules2 = requests.get("https://raw.githubusercontent.com/Loyalsoldier/surg
 p_rules= set([item for item in Proxy_Rules.strip().split("\n") if not item.startswith('#')])
 p_rules.update([item for item in Proxy_Rules1.strip().split("\n") if not item.startswith('#')])
 p_rules.update([item for item in Proxy_Rules2.strip().split("\n") if not item.startswith('#')])
-#p_rules.update([item for item in Proxy_Rules3.strip().split("\n") if not item.startswith('#')])
+p_rules.update([item for item in Proxy_Rules3.strip().split("\n") if not item.startswith('#')])
 #p_rules.update([item for item in Proxy_Rules4.strip().split("\n") if not item.startswith('#')])
 #p_rules.update([item for item in Proxy_Rules5.strip().split("\n") if not item.startswith('#')])
 
