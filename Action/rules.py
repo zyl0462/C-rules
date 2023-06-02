@@ -42,8 +42,8 @@ c_rules.symmetric_difference_update(c_rules1)
 lists = sorted(c_rules)
 lists.insert(0,'payload:')
 c_text = '\n'.join(lists)
-del(p_rules1)
-del(p_rules)
+del(c_rules1)
+del(c_rules)
 lists.clear()
 
 with open("./Rules/proxy.yaml", "w") as f:
