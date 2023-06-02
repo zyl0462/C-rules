@@ -1,16 +1,24 @@
 import requests
 
-Reject_Rules = requests.get("https://anti-ad.net/domains.txt").text    
-r_rules= set([item for item in Reject_Rules.strip().split("\n") if not item.startswith('#')])
-reject_text = '\n'.join(sorted(r_rules))
+Reject1_Rules = requests.get("https://anti-ad.net/domains.txt").text
+Reject2_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/EasyPrivacy/EasyPrivacy_Domain.list").text
 
+r_rules1= set([item for item in Reject1_Rules.strip().split("\n") if not item.startswith('#')])
+r_rules2= set([item for item in Reject2_Rules.strip().split("\n") if not item.startswith('#')])
+
+r_rules = r_rules1.union(r_rules2)
+del(r_rules1)
+del(r_rules2)
+reject_text = '\n'.join(sorted(r_rules))
 with open("./Rules/reject.txt", "w") as f:
     f.write(reject_text)
 
+del(r_rules)
 
-GFW_URL = "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt"
-TLD_URL = "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/tld-not-cn.txt"
-TELEGRAM_URL = "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt"
+
+GFW_rules = requests.get("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/gfw.txt").text  
+TLD_rules = requests.get("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/tld-not-cn.txt").text  
+TELEGRAM_rules = requests.get("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/telegramcidr.txt").text  
 
 
 
