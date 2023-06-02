@@ -2,10 +2,10 @@ import requests
 
 Reject_Rules = requests.get("https://anti-ad.net/domains.txt").text    
 r_rules= set([item for item in Reject_Rules.strip().split("\n") if not item.startswith('#')])
-reject_text = '\n'.join(r_rules)
+reject_text = '\n'.join(sorted(r_rules))
 
 with open("./Rules/reject.txt", "w") as f:
-    f.write(sorted(reject_text))
+    f.write(reject_text)
 
 
 GFW_URL = "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt"
