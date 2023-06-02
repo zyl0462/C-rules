@@ -20,6 +20,7 @@ jobs:
       - name: Print current directory
         run: |
           pwd
+          ls -a
       - name: Run a one-line script
         run: python Action/rules.py
       - name: Commit files
