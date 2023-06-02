@@ -1,6 +1,6 @@
 import requests
 
-ROCKET_URL = "https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/"
+Reject_URL = "https://anti-ad.net/surge2.txt"
 
 directRule = requests.get("https://raw.githubusercontent.com/Code-Dramatist/Rule_Actions/main/Direct_Rule/Direct_Rule.rule").text
 proxyRule = requests.get("https://raw.githubusercontent.com/Code-Dramatist/Rule_Actions/main/Proxy_Rule/Proxy_Rule.rule").text
@@ -11,16 +11,16 @@ directModule = requests.get("https://raw.githubusercontent.com/GMOogway/shadowro
 proxyModule = requests.get("https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module").text
 rejectModule = requests.get("https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_reject_list.module").text
 
-with open("./Rules/direct.txt", "w") as f:
+with open("./Rules/Loon/direct.txt", "w") as f:
     f.write(directRule)
-with open("./Rules/proxy.txt", "w") as f:
+with open("./Rules/Loon/proxy.txt", "w") as f:
     f.write(proxyRule)
-with open("./Rules/reject.txt", "w") as f:
+with open("./Rules/Loon/reject.txt", "w") as f:
     f.write(rejectRule)
 
-with open("./Rules/direct.module", "w") as f:
+with open("./Rules/Rocket/direct.module", "w") as f:
     f.write(directModule)
-with open("./Rules/proxy.module", "w") as f:
+with open("./Rules/Rocket/proxy.module", "w") as f:
     f.write(proxyModule)
-with open("./Rules/reject.module", "w") as f:
+with open("./Rules/Rocket/reject.module", "w") as f:
     f.write(rejectModule)
