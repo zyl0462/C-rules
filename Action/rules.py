@@ -1,5 +1,7 @@
 import requests
 
+ROCKET_URL = "https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/"
+
 directRule = requests.get("https://raw.githubusercontent.com/Code-Dramatist/Rule_Actions/main/Direct_Rule/Direct_Rule.rule").text
 proxyRule = requests.get("https://raw.githubusercontent.com/Code-Dramatist/Rule_Actions/main/Proxy_Rule/Proxy_Rule.rule").text
 rejectRule = requests.get("https://raw.githubusercontent.com/Code-Dramatist/Rule_Actions/main/Reject_Rule/Reject_Rule.rule").text
