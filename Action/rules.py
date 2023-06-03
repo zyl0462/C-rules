@@ -39,7 +39,7 @@ p_rules= [item for item in p_text.split("\n")]
 p_rules1= [item for item in p_text1.split("\n")]
 p_rules.insert(0,'DOMAIN,'+p_rules.pop(0))
 p_rules.insert(-1,p_rules.pop()+',PROXY')
-p_rules1.insert(0,'DOMAIN,'+p_rules1.pop(0))
+p_rules1.insert(0,'DOMAIN-SUFFIX,'+p_rules1.pop(0))
 p_rules1.insert(-1,p_rules1.pop()+',PROXY')
 
 p_text ='\n'.join(sorted(p_rules))
