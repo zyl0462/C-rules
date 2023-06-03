@@ -34,7 +34,7 @@ DOMAIN,rthklive2-lh.akamaihd.net,PROXY
 DOMAIN,testflight.apple.com,PROXY
 DOMAIN,tv.applemusic.com,PROXY
 DOMAIN,voice.telephony.goog,PROXY
-DOMAIN,000webhost.com,PROXY
+DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,030buy.com,PROXY
 DOMAIN-SUFFIX,0rz.tw,PROXY
 DOMAIN-SUFFIX,1-apple.com.tw,PROXY
