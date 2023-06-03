@@ -12,6 +12,21 @@ del(r_rules)
 with open("./Rules/reject.txt", "w") as f:
     f.write(reject_text)
 
+r_rules= [item for item in reject_text.strip().split("\n")]
+reject_text = ',REJECT\n'.join(r_rules)
+r_rules= [item for item in reject_text.strip().split("\n")]
+reject_text = '\nDOMAIN,'.join(r_rules)
+r_rules= [item for item in reject_text.split("\n")]
+r_rules.insert(0,'DOMAIN,'+r_rules.pop(0))
+r_rules.insert(-1,r_rules.pop()+',REJECT')
+t_now = datetime.datetime.now()
+timestamp = t_now.strftime("%Y-%m-%d")
+tmp = '#!name=reject rules\n#!homepage=https://github.com/zyl0462/V-rules\n#!desc=Rules:' + str(len(r_rules)) + '\nCreated:'+timestamp+' Publisher:zyl0462\n[Rule]\n'
+reject_text = tmp + '\n'.join(r_rules)
+with open("./Rules/reject.module", "w") as f:
+    f.write(reject_text)
+
+
 Proxy_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Proxy/Proxy_Domain.list").text
 Proxy_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GlobalMedia/GlobalMedia_Domain.list").text
 Proxy_Rules2 = requests.get("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt").text
@@ -49,9 +64,6 @@ with open("./Rules/video.txt", "w") as f:
     f.write(video_text)
 
 proxyModule = requests.get("https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module").text
-rejectModule = requests.get("https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_reject_list.module").text
 
 with open("./Rules/proxy.module", "w") as f:
     f.write(proxyModule)
-with open("./Rules/reject.module", "w") as f:
-    f.write(rejectModule)
