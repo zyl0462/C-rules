@@ -47,8 +47,6 @@ p_text1 ='\n'.join(sorted(p_rules1))
 with open("./rreject.text", "w") as f:
     f.write(p_text+'\n'+p_text1)
 
-
-
 Social_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram_Resolve.list").text
 Social_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI.list").text
 Social_Rules2 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google_Resolve.list").text
@@ -71,8 +69,3 @@ video_text = '\n'.join(sorted(v_rules))
 del(v_rules)
 with open("./Rules/video.txt", "w") as f:
     f.write(video_text)
-
-proxyModule = requests.get("https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module").text
-
-with open("./Rules/proxy.module", "w") as f:
-    f.write(proxyModule)
