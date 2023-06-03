@@ -1,6 +1,5 @@
 import requests
 
-######reject_text
 Reject1_Rules = requests.get("https://anti-ad.net/domains.txt").text
 Reject2_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/EasyPrivacy/EasyPrivacy_Domain.list").text
 
@@ -12,8 +11,7 @@ del(r_rules)
 
 with open("./Rules/reject.txt", "w") as f:
     f.write(reject_text)
-    
-######proxy_text
+
 Proxy_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Proxy/Proxy_Domain.list").text
 Proxy_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GlobalMedia/GlobalMedia_Domain.list").text
 Proxy_Rules2 = requests.get("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt").text
@@ -27,7 +25,6 @@ del(p_rules)
 with open("./Rules/proxy.txt", "w") as f:
     f.write(proxy_text)
 
-######social
 Social_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram_Resolve.list").text
 Social_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI.list").text
 Social_Rules2 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google_Resolve.list").text
@@ -42,7 +39,6 @@ TELEGRAM_rules = requests.get("https://raw.githubusercontent.com/Loyalsoldier/cl
 with open("./Rules/telegramcidr.yaml", "w") as f:
     f.write(TELEGRAM_rules)
 
-######video
 Video_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TikTok/TikTok.list").text
 Video_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTube/YouTube_Resolve.list").text
 v_rules= set([item for item in Video_Rules.strip().split("\n") if not item.startswith('#')])
@@ -52,7 +48,6 @@ del(v_rules)
 with open("./Rules/video.txt", "w") as f:
     f.write(video_text)
 
-######shadowrocket-rules
 proxyModule = requests.get("https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module").text
 rejectModule = requests.get("https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_reject_list.module").text
 
