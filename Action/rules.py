@@ -44,7 +44,7 @@ p_rules1.insert(-1,p_rules1.pop()+',PROXY')
 
 p_text ='\n'.join(sorted(p_rules))
 p_text1 ='\n'.join(sorted(p_rules1))
-with open("./Rules/rreject.text", "w") as f:
+with open("./Rules/rproxy.text", "w") as f:
     f.write(p_text+'\n'+p_text1)
 
 Social_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram_Resolve.list").text
