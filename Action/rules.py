@@ -12,21 +12,6 @@ del(r_rules)
 with open("./Rules/reject.txt", "w") as f:
     f.write(reject_text)
 
-r_rules= [item for item in reject_text.strip().split("\n")]
-reject_text = ',REJECT\n'.join(r_rules)
-r_rules= [item for item in reject_text.strip().split("\n")]
-reject_text = '\nDOMAIN,'.join(r_rules)
-r_rules= [item for item in reject_text.split("\n")]
-r_rules.insert(0,'DOMAIN,'+r_rules.pop(0))
-r_rules.insert(-1,r_rules.pop()+',REJECT')
-t_now = datetime.datetime.now()
-timestamp = t_now.strftime("%Y-%m-%d")
-tmp = '#!name=reject rules\n#!homepage=https://github.com/zyl0462/V-rules\n#!desc=Rules:' + str(len(r_rules)) + '\nCreated:'+timestamp+' Publisher:zyl0462\n[Rule]\n'
-reject_text = tmp + '\n'.join(r_rules)
-with open("./Rules/reject.module", "w") as f:
-    f.write(reject_text)
-
-
 Proxy_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Proxy/Proxy_Domain.list").text
 Proxy_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GlobalMedia/GlobalMedia_Domain.list").text
 Proxy_Rules2 = requests.get("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt").text
@@ -39,6 +24,30 @@ proxy_text = '\n'.join(sorted(p_rules))
 del(p_rules)
 with open("./Rules/proxy.txt", "w") as f:
     f.write(proxy_text)
+p_rules= [item for item in proxy_text.strip().split("\n") if not item.startswith('.')]
+p_rules1= [item[1:] for item in Proxy_Rules.strip().split("\n") if  item.startswith('.')]
+p_text = ',PROXY\n'.join(p_rules)
+p_text1 = ',PROXY\n'.join(p_rules1)
+del(p_rules)
+del(p_rules1)
+p_rules= set([item for item in p_text.strip().split("\n")])
+p_rules1= set([item for item in p_text1.strip().split("\n")])
+p_text = '\nDOMAIN,'.join(sorted(p_rules))
+p_text1 = '\nDOMAIN-SUFFIX,'.join(sorted(p_rules1))
+
+p_rules= [item for item in p_text.split("\n")]
+p_rules1= [item for item in p_text1.split("\n")]
+p_rules.insert(0,'DOMAIN,'+p_rules.pop(0))
+p_rules.insert(-1,p_rules.pop()+',PROXY')
+p_rules1.insert(0,'DOMAIN,'+p_rules1.pop(0))
+p_rules1.insert(-1,p_rules1.pop()+',PROXY')
+
+p_text ='\n'.join(sorted(p_rules))
+p_text1 ='\n'.join(sorted(p_rules1))
+with open("./rreject.text", "w") as f:
+    f.write(p_text+'\n'+p_text1)
+
+
 
 Social_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram_Resolve.list").text
 Social_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI.list").text
