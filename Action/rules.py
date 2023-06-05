@@ -25,7 +25,7 @@ del(p_rules)
 with open("./Rules/proxy.txt", "w") as f:
     f.write(proxy_text)
 p_rules= [item for item in proxy_text.strip().split("\n") if not item.startswith('.')]
-p_rules1= [item[1:] for item in Proxy_Rules.strip().split("\n") if  item.startswith('.')]
+p_rules1= [item[1:] for item in proxy_text.strip().split("\n") if  item.startswith('.')]
 p_text = ',PROXY\n'.join(p_rules)
 p_text1 = ',PROXY\n'.join(p_rules1)
 del(p_rules)
