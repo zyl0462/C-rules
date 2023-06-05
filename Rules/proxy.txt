@@ -1937,6 +1937,7 @@
 .disney.io
 .disney.it
 .disney.my
+.disney.my.sentry.io
 .disney.nl
 .disney.no
 .disney.ph
@@ -6533,6 +6534,7 @@
 .seat
 .seatguru.com
 .seattlefdc.com
+.seattlespheres.com
 .secretchina.com
 .secretgarden.no
 .secretsline.biz
@@ -6555,7 +6557,6 @@
 .sendspace.com
 .sener
 .sensortower.com
-.sentry.io
 .seraph.me
 .servehttp.com
 .serveuser.com
