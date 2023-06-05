@@ -30,11 +30,12 @@ p_text = ',PROXY\n'.join(p_rules)
 p_text1 = ',PROXY\n'.join(p_rules1)
 del(p_rules)
 del(p_rules1)
-p_rules= set([item for item in p_text.strip().split("\n")])
-p_rules1= set([item for item in p_text1.strip().split("\n")])
+p_rules= [item for item in p_text.strip().split("\n")]
+p_rules1= [item for item in p_text1.strip().split("\n")]
 p_text = '\nDOMAIN,'.join(sorted(p_rules))
 p_text1 = '\nDOMAIN-SUFFIX,'.join(sorted(p_rules1))
-
+del(p_rules)
+del(p_rules1)
 p_rules= [item for item in p_text.split("\n")]
 p_rules1= [item for item in p_text1.split("\n")]
 p_rules.insert(0,'DOMAIN,'+p_rules.pop(0))
@@ -44,6 +45,9 @@ p_rules1.insert(-1,p_rules1.pop()+',PROXY')
 
 p_text ='\n'.join(sorted(p_rules))
 p_text1 ='\n'.join(sorted(p_rules1))
+del(p_rules)
+del(p_rules1)
+
 with open("./Rules/rproxy.text", "w") as f:
     f.write(p_text+'\n'+p_text1)
 
