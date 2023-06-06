@@ -1,4 +1,5 @@
 import requests
+from datetime import datetime
 
 Reject1_Rules = requests.get("https://anti-ad.net/domains.txt").text
 Reject2_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/EasyPrivacy/EasyPrivacy_Domain.list").text
@@ -47,9 +48,10 @@ p_text ='\n'.join(sorted(p_rules))
 p_text1 ='\n'.join(sorted(p_rules1))
 del(p_rules)
 del(p_rules1)
+current_time = '#' + datetime.now().strftime("%Y/%m/%d %H:%M:%S") + '\n'
 
 with open("./Rules/rproxy.text", "w") as f:
-    f.write(p_text+'\n'+p_text1)
+    f.write(current_time + p_text + '\n' + p_text1)
 
 Social_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram_Resolve.list").text
 Social_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI.list").text
