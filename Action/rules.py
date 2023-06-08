@@ -51,7 +51,7 @@ del(p_rules1)
 current_time = '#' + datetime.now().strftime("%Y/%m/%d %H:%M:%S") + '\n'
 
 with open("./Rules/rproxy.text", "w") as f:
-    f.write(current_time + p_text + '\n' + p_text1)
+    f.write(current_time + p_text1 + '\n' + p_text)
 
 Social_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram_Resolve.list").text
 Social_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI.list").text
