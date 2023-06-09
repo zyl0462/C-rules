@@ -83,3 +83,6 @@ with open("./Rules/video.txt", "w") as f:
     f.write(video_text)
 
 current_time = '#' + datetime.now().strftime("%Y/%m/%d %H:%M:%S") + '\n'
+STR_stat = "reject rules: {};\n proxy rules: {};\n social rules: {};\n video rules: {};\n".format(LEN_reject, LEN_proxy, LEN_social,LEN_video)
+with open("./Rules/stat.txt", "w") as f:
+    f.write(current_time + STR_stat)
