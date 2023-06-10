@@ -23,7 +23,7 @@ s_rules.update([item for item in Social_Rules2.strip().split("\n") if not item.s
 LEN_social= len(s_rules)
 
 social_text = '\n'.join(sorted(s_rules))
-#del(s_rules)
+del(s_rules)
 with open("./Rules/social.txt", "w") as f:
     f.write(social_text)
 TELEGRAM_rules = requests.get("https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt").text
@@ -37,7 +37,7 @@ v_rules.update([item for item in Video_Rules1.strip().split("\n") if not item.st
 LEN_video= len(v_rules)
 
 video_text = '\n'.join(sorted(v_rules))
-#del(v_rules)
+del(v_rules)
 with open("./Rules/video.txt", "w") as f:
     f.write(video_text)
 
@@ -49,14 +49,12 @@ p_rules= set([item for item in Proxy_Rules.strip().split("\n") if not item.start
 p_rules.update([item for item in Proxy_Rules1.strip().split("\n") if not item.startswith('#')])
 p_rules.update([item for item in Proxy_Rules2.strip().split("\n") if not item.startswith('#')])
 p_rules.update([item for item in Proxy_Rules3.strip().split("\n") if not item.startswith('#')])
-p_rules.__isub__(s_rules)
-p_rules.__isub__(v_rules)
+#p_rules.__isub__(s_rules)
+#p_rules.__isub__(v_rules)
 LEN_proxy = len(p_rules)
 
 proxy_text = '\n'.join(sorted(p_rules))
 del(p_rules)
-del(s_rules)
-del(v_rules)
 with open("./Rules/proxy.txt", "w") as f:
     f.write(proxy_text)
 
