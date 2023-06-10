@@ -49,8 +49,8 @@ p_rules= set([item for item in Proxy_Rules.strip().split("\n") if not item.start
 p_rules.update([item for item in Proxy_Rules1.strip().split("\n") if not item.startswith('#')])
 p_rules.update([item for item in Proxy_Rules2.strip().split("\n") if not item.startswith('#')])
 p_rules.update([item for item in Proxy_Rules3.strip().split("\n") if not item.startswith('#')])
-p_rules.__ixor__(s_rules)
-p_rules.__ixor__(v_rules)
+p_rules.__isub__(s_rules)
+p_rules.__isub__(v_rules)
 LEN_proxy = len(p_rules)
 
 proxy_text = '\n'.join(sorted(p_rules))
