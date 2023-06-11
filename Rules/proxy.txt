@@ -1883,6 +1883,7 @@
 .directv.com
 .disco-api.com
 .discoins.com
+.discomax.com
 .disconnect.me
 .discord.co
 .discord.com
@@ -4852,6 +4853,7 @@
 .mattwilcox.net
 .maturejp.com
 .maven.org
+.max.com
 .maxgo.com
 .maxing.jp
 .maybelline
