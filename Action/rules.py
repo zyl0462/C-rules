@@ -84,7 +84,7 @@ s_rules.update([item for item in Social_Rules1.strip().split("\n") if not (item.
 s_rules.update([item for item in Social_Rules2.strip().split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
 social_text = '\n'.join(sorted(s_rules))
 with open("./Rules/social.yaml", "w") as f:
-    f.write('payload:'+social_text)
+    f.write('payload:\n'+social_text)
 del Social_Rules,Social_Rules1,Social_Rules2,s_rules,social_text
 
 Video_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml").text
@@ -93,5 +93,5 @@ v_rules= set([item for item in Video_Rules.strip().split("\n") if not (item.star
 v_rules.update([item for item in Video_Rules.strip().split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
 video_text = '\n'.join(sorted(v_rules))
 with open("./Rules/video.yaml", "w") as f:
-    f.write('payload:'+video_text)
+    f.write('payload:\n'+video_text)
 del Video_Rules,Video_Rules1,v_rules,video_text
