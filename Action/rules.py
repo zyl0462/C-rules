@@ -79,9 +79,9 @@ with open("./stat.dat", "w") as f:
 Social_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml").text
 Social_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml").text
 Social_Rules2 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.yaml").text
-s_rules= set([item for item in Social_Rules.split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
-s_rules.update([item for item in Social_Rules1.split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
-s_rules.update([item for item in Social_Rules2.split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
+s_rules= set([item for item in Social_Rules.strip().split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
+s_rules.update([item for item in Social_Rules1.strip().split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
+s_rules.update([item for item in Social_Rules2.strip().split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
 social_text = '\n'.join(sorted(s_rules))
 with open("./Rules/social.yaml", "w") as f:
     f.write('payload:'+social_text)
@@ -89,8 +89,8 @@ del Social_Rules,Social_Rules1,Social_Rules2,s_rules,social_text
 
 Video_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml").text
 Video_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.yaml").text
-v_rules= set([item for item in Video_Rules.split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
-v_rules.update([item for item in Video_Rules.split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
+v_rules= set([item for item in Video_Rules.strip().split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
+v_rules.update([item for item in Video_Rules.strip().split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
 video_text = '\n'.join(sorted(v_rules))
 with open("./Rules/video.yaml", "w") as f:
     f.write('payload:'+video_text)
