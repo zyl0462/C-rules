@@ -62,9 +62,9 @@ s_rules.update([item for item in Social_Rules2.strip().split("\n") if not item.s
 LEN_social= len(s_rules)
 del Social_Rules,Social_Rules1,Social_Rules2
 social_text = '\n'.join(sorted(s_rules))
-del s_rules
 with open("./Rules/social.txt", "w") as f:
     f.write(social_text)
+del s_rules
 del social_text
 
 Video_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TikTok/TikTok.list").text
@@ -74,9 +74,10 @@ v_rules.update([item for item in Video_Rules1.strip().split("\n") if not item.st
 LEN_video= len(v_rules)
 del Video_Rules,Video_Rules1
 video_text = '\n'.join(sorted(v_rules))
-del v_rules
+
 with open("./Rules/video.txt", "w") as f:
     f.write(video_text)
+del v_rules
 del video_text
 
 current_time = '#UTC time: ' + datetime.now().strftime("%Y/%m/%d %H:%M:%S") + '\n'
@@ -92,18 +93,19 @@ s_rules.update([item for item in Social_Rules1.split("\n") if not (item.startswi
 s_rules.update([item for item in Social_Rules2.split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
 del Social_Rules,Social_Rules1,Social_Rules2
 social_text = '\n'.join(sorted(s_rules))
-del s_rules
+
 with open("./Rules/social.yaml", "w") as f:
-    f.write('payload:\n'+social_text)
+    f.write('payload:'+social_text)
+del s_rules
 del social_text
 
-Video_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TikTok/TikTok.list").text
-Video_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTube/YouTube_Resolve.list").text
+Video_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml").text
+Video_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.yaml").text
 v_rules= set([item for item in Video_Rules.split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
 v_rules.update([item for item in Video_Rules.split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
 del Video_Rules,Video_Rules1
 video_text = '\n'.join(sorted(v_rules))
-del v_rules
 with open("./Rules/video.yaml", "w") as f:
-    f.write('payload:\n'+video_text)
+    f.write('payload:'+video_text)
+del v_rules
 del video_text
