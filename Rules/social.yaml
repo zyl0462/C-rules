@@ -1,5 +1,4 @@
-payload:
-  - DOMAIN,cdn.auth0.com
+payload:  - DOMAIN,cdn.auth0.com
   - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN-KEYWORD,appspot
   - DOMAIN-KEYWORD,blogspot
