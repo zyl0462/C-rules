@@ -10,9 +10,10 @@ r_rules.update([item for item in Reject3_Rules.strip().split("\n") if not item.s
 LEN_reject = len(r_rules)
 del Reject1_Rules,Reject2_Rules,Reject3_Rules
 reject_text = '\n'.join(sorted(r_rules))
-del(r_rules)
+del r_rules
 with open("./Rules/reject.txt", "w") as f:
     f.write(reject_text)
+del reject_text
 
 Proxy_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Proxy/Proxy_Domain.list").text
 Proxy_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GlobalMedia/GlobalMedia_Domain.list").text
@@ -25,7 +26,7 @@ p_rules.update([item for item in Proxy_Rules3.strip().split("\n") if not item.st
 LEN_proxy = len(p_rules)
 del Proxy_Rules,Proxy_Rules1,Proxy_Rules2,Proxy_Rules3
 proxy_text = '\n'.join(sorted(p_rules))
-del(p_rules)
+del p_rules
 with open("./Rules/proxy.txt", "w") as f:
     f.write(proxy_text)
 
@@ -33,28 +34,24 @@ p_rules= [item for item in proxy_text.strip().split("\n") if not item.startswith
 p_rules1= [item[1:] for item in proxy_text.strip().split("\n") if  item.startswith('.')]
 p_text = ',PROXY\n'.join(p_rules)
 p_text1 = ',PROXY\n'.join(p_rules1)
-del(p_rules)
-del(p_rules1)
+del p_rules,p_rules1
 p_rules= [item for item in p_text.strip().split("\n")]
 p_rules1= [item for item in p_text1.strip().split("\n")]
 p_text = '\nDOMAIN,'.join(sorted(p_rules))
 p_text1 = '\nDOMAIN-SUFFIX,'.join(sorted(p_rules1))
-del(p_rules)
-del(p_rules1)
+del p_rules,p_rules1
 p_rules= [item for item in p_text.split("\n")]
 p_rules1= [item for item in p_text1.split("\n")]
 p_rules.insert(0,'DOMAIN,'+p_rules.pop(0))
 p_rules.insert(-1,p_rules.pop()+',PROXY')
 p_rules1.insert(0,'DOMAIN-SUFFIX,'+p_rules1.pop(0))
 p_rules1.insert(-1,p_rules1.pop()+',PROXY')
-
 p_text ='\n'.join(sorted(p_rules))
 p_text1 ='\n'.join(sorted(p_rules1))
-del(p_rules)
-del(p_rules1)
-
+del p_rules,p_rules1
 with open("./Rules/rproxy.text", "w") as f:
     f.write(p_text + '\n' + p_text1)
+del p_text,p_text1
 
 Social_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram_Resolve.list").text
 Social_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI.list").text
@@ -65,9 +62,10 @@ s_rules.update([item for item in Social_Rules2.strip().split("\n") if not item.s
 LEN_social= len(s_rules)
 del Social_Rules,Social_Rules1,Social_Rules2
 social_text = '\n'.join(sorted(s_rules))
-del(s_rules)
+del s_rules
 with open("./Rules/social.txt", "w") as f:
     f.write(social_text)
+del social_text
 
 Video_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TikTok/TikTok.list").text
 Video_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTube/YouTube_Resolve.list").text
@@ -76,16 +74,36 @@ v_rules.update([item for item in Video_Rules1.strip().split("\n") if not item.st
 LEN_video= len(v_rules)
 del Video_Rules,Video_Rules1
 video_text = '\n'.join(sorted(v_rules))
-del(v_rules)
+del v_rules
 with open("./Rules/video.txt", "w") as f:
     f.write(video_text)
+del video_text
 
 current_time = '#UTC time: ' + datetime.now().strftime("%Y/%m/%d %H:%M:%S") + '\n'
 STR_stat = "reject rules: {}\nproxy rules: {}\nsocial rules: {}\nvideo rules: {}\ntotal rules: {}".format(LEN_reject, LEN_proxy, LEN_social,LEN_video,LEN_reject+LEN_proxy+LEN_social+LEN_video)
 with open("./stat.dat", "w") as f:
     f.write(current_time + STR_stat)
 
-TELEGRAM_rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml").text
+Social_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml").text
+Social_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml").text
+Social_Rules2 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.yaml").text
+s_rules= set([item for item in Social_Rules.split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
+s_rules.update([item for item in Social_Rules1.split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
+s_rules.update([item for item in Social_Rules2.split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
+del Social_Rules,Social_Rules1,Social_Rules2
+social_text = '\n'.join(sorted(s_rules))
+del s_rules
+with open("./Rules/social.yaml", "w") as f:
+    f.write('payload:\n'+social_text)
+del social_text
 
-with open("./Rules/telegramcidr.yaml", "w") as f:
-    f.write(TELEGRAM_rules)
+Video_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TikTok/TikTok.list").text
+Video_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTube/YouTube_Resolve.list").text
+v_rules= set([item for item in Video_Rules.split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
+v_rules.update([item for item in Video_Rules.split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
+del Video_Rules,Video_Rules1
+video_text = '\n'.join(sorted(v_rules))
+del v_rules
+with open("./Rules/video.yaml", "w") as f:
+    f.write('payload:\n'+video_text)
+del video_text
