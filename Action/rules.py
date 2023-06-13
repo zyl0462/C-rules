@@ -3,20 +3,22 @@ from datetime import datetime
 
 Reject1_Rules = requests.get("https://anti-ad.net/domains.txt").text
 Reject2_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/EasyPrivacy/EasyPrivacy_Domain.list").text
-Reject3_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdGuardSDNSFilter/AdGuardSDNSFilter_Domain.list").text
+Reject3_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Privacy/Privacy_Domain.list").text
+Reject4_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdGuardSDNSFilter/AdGuardSDNSFilter_Domain.list").text
 r_rules= set([item for item in Reject1_Rules.strip().split("\n") if not item.startswith('#')])
 r_rules.update([item for item in Reject2_Rules.strip().split("\n") if not item.startswith('#')])
 r_rules.update([item for item in Reject3_Rules.strip().split("\n") if not item.startswith('#')])
+r_rules.update([item for item in Reject4_Rules.strip().split("\n") if not item.startswith('#')])
 LEN_reject = len(r_rules)
 reject_text = '\n'.join(sorted(r_rules))
 with open("./Rules/reject.txt", "w") as f:
     f.write(reject_text)
-del Reject1_Rules,Reject2_Rules,Reject3_Rules,r_rules,reject_text
+del Reject1_Rules,Reject2_Rules,Reject3_Rules,Reject4_Rules,r_rules,reject_text
 
 Proxy_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Proxy/Proxy_Domain.list").text
 Proxy_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GlobalMedia/GlobalMedia_Domain.list").text
 Proxy_Rules2 = requests.get("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt").text
-Proxy_Rules3 = requests.get("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/tld-not-cn.txt").text
+Proxy_Rules3 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Global/Global_Domain.list").text
 p_rules= set([item for item in Proxy_Rules.strip().split("\n") if not item.startswith('#')])
 p_rules.update([item for item in Proxy_Rules1.strip().split("\n") if not item.startswith('#')])
 p_rules.update([item for item in Proxy_Rules2.strip().split("\n") if not item.startswith('#')])
