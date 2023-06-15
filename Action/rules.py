@@ -88,7 +88,7 @@ del Social_Rules,Social_Rules1,Social_Rules2,s_rules,social_text
 Video_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml").text
 Video_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.yaml").text
 v_rules= set([item for item in Video_Rules.strip().split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
-v_rules.update([item for item in Video_Rules.strip().split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
+v_rules.update([item for item in Video_Rules1.strip().split("\n") if not (item.startswith('#') or item.startswith('payload:'))])
 video_text = '\n'.join(sorted(v_rules))
 with open("./Rules/video.yaml", "w") as f:
     f.write('payload:\n'+video_text)
