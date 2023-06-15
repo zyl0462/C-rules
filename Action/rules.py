@@ -16,16 +16,14 @@ del Reject1_Rules,Reject2_Rules,Reject3_Rules,r_rules,reject_text
 Proxy_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Proxy/Proxy_Domain.list").text
 Proxy_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GlobalMedia/GlobalMedia_Domain.list").text
 Proxy_Rules2 = requests.get("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt").text
-Proxy_Rules3 = requests.get("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/proxy.txt").text
 p_rules= set([item for item in Proxy_Rules.strip().split("\n") if not item.startswith('#')])
 p_rules.update([item for item in Proxy_Rules1.strip().split("\n") if not item.startswith('#')])
 p_rules.update([item for item in Proxy_Rules2.strip().split("\n") if not item.startswith('#')])
-p_rules.update([item for item in Proxy_Rules3.strip().split("\n") if not item.startswith('#')])
 LEN_proxy = len(p_rules)
 proxy_text = '\n'.join(sorted(p_rules))
 with open("./Rules/proxy.txt", "w") as f:
     f.write(proxy_text)
-del Proxy_Rules,Proxy_Rules1,Proxy_Rules2,Proxy_Rules3,p_rules
+del Proxy_Rules,Proxy_Rules1,Proxy_Rules2,p_rules
 
 p_rules= [item for item in proxy_text.strip().split("\n") if not item.startswith('.')]
 p_rules1= [item[1:] for item in proxy_text.strip().split("\n") if  item.startswith('.')]
