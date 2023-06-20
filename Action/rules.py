@@ -43,7 +43,7 @@ p_rules1.insert(0,'DOMAIN-SUFFIX,'+p_rules1.pop(0))
 p_rules1.insert(-1,p_rules1.pop()+',PROXY')
 p_text ='\n'.join(sorted(p_rules))
 p_text1 ='\n'.join(sorted(p_rules1))
-with open("./Rules/rproxy.text", "w") as f:
+with open("./Rules/rproxy.txt", "w") as f:
     f.write(p_text + '\n' + p_text1)
 del p_rules,p_rules1,p_text,p_text1
 
