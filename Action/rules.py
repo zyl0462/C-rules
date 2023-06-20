@@ -47,9 +47,9 @@ with open("./Rules/rproxy.txt", "w") as f:
     f.write(p_text + '\n' + p_text1)
 del p_rules,p_rules1,p_text,p_text1
 
-Social_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram_Resolve.list").text
+Social_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram.list").text
 Social_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI.list").text
-Social_Rules2 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google_Resolve.list").text
+Social_Rules2 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google.list").text
 s_rules= set([item for item in Social_Rules.strip().split("\n") if not item.startswith('#')])
 s_rules.update([item for item in Social_Rules1.strip().split("\n") if not item.startswith('#')])
 s_rules.update([item for item in Social_Rules2.strip().split("\n") if not item.startswith('#')])
@@ -60,7 +60,7 @@ with open("./Rules/social.txt", "w") as f:
 del s_rules,Social_Rules,Social_Rules1,Social_Rules2,social_text
 
 Video_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TikTok/TikTok.list").text
-Video_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTube/YouTube_Resolve.list").text
+Video_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTube/YouTube.list").text
 v_rules= set([item for item in Video_Rules.strip().split("\n") if not item.startswith('#')])
 v_rules.update([item for item in Video_Rules1.strip().split("\n") if not item.startswith('#')])
 LEN_video= len(v_rules)
