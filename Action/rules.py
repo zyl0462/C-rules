@@ -29,7 +29,7 @@ p_rules= [item for item in proxy_text.strip().split("\n") if not item.startswith
 p_rules1= [item[1:] for item in proxy_text.strip().split("\n") if  item.startswith('.')]
 p_text = ',PROXY\n'.join(p_rules)
 p_text1 = ',PROXY\n'.join(p_rules1)
-del p_rules,p_rules1
+del p_rules,p_rules1,proxy_text
 p_rules= [item for item in p_text.strip().split("\n")]
 p_rules1= [item for item in p_text1.strip().split("\n")]
 p_text = '\nDOMAIN,'.join(sorted(p_rules))
@@ -41,6 +41,7 @@ p_rules.insert(0,'DOMAIN,'+p_rules.pop(0))
 p_rules.insert(-1,p_rules.pop()+',PROXY')
 p_rules1.insert(0,'DOMAIN-SUFFIX,'+p_rules1.pop(0))
 p_rules1.insert(-1,p_rules1.pop()+',PROXY')
+del p_text,p_text1
 p_text ='\n'.join(sorted(p_rules))
 p_text1 ='\n'.join(sorted(p_rules1))
 with open("./Rules/rproxy.txt", "w") as f:
@@ -73,6 +74,7 @@ current_time = '#UTC time: ' + datetime.now().strftime("%Y/%m/%d %H:%M:%S") + '\
 STR_stat = "reject rules: {}\nproxy rules: {}\nsocial rules: {}\nvideo rules: {}\ntotal rules: {}".format(LEN_reject, LEN_proxy, LEN_social,LEN_video,LEN_reject+LEN_proxy+LEN_social+LEN_video)
 with open("./stat", "w") as f:
     f.write(current_time + STR_stat)
+del STR_stat,current_time
 
 Social_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml").text
 Social_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml").text
