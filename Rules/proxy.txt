@@ -1295,6 +1295,7 @@
 .clinica-tibet.ru
 .clipfish.de
 .cloakpoint.com
+.cloud.cupronickel.goog
 .cloud.mail.ru
 .cloudcone.com
 .cloudflare-ipfs.com
