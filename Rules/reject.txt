@@ -1,3 +1,14 @@
+! Checksum: NmnM9e77dixpG7D+wmHTBw
+! Expires: 1 day (update frequency)
+! Homepage: https://github.com/Cats-Team/AdRules
+! Powerd by CatsTeam
+! Title: AdRules Ad Domains List
+! Total count: 124790
+! Version: 2023-07-03 08:04:12(GMT+8) 
+#TITLE=anti-AD
+#TOTAL_LINES=73189
+#URL=https://github.com/privacy-protection-tools/anti-AD
+#VER=20230702023445
 0--skitch--0.tt.omtrdc.net
 0-000.store
 0-4-80-0.jamf.tt.omtrdc.net
