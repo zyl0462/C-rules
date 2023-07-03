@@ -1,3 +1,3 @@
 # V-rules
 
-Thanks @blackmatrix7、 @Loyalsoldier、@https://anti-ad.net/
+Thanks @blackmatrix7、 @Loyalsoldier、@Cats-Team
