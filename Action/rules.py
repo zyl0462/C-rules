@@ -1,10 +1,10 @@
 import requests
 from datetime import datetime
 
-Reject_Rules = requests.get("https://anti-ad.net/domains.txt").text.lower()
+Reject_Rules = requests.get("https://anti-ad.net/domains.txt").text
 Reject1_Rules = requests.get("https://raw.githubusercontent.com/Cats-Team/AdRules/main/ad-domains.txt").text.lower()
-Reject2_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/EasyPrivacy/EasyPrivacy_Domain.list").text.lower()
-Reject3_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdGuardSDNSFilter/AdGuardSDNSFilter_Domain.list").text.lower()
+Reject2_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/EasyPrivacy/EasyPrivacy_Domain.list").text
+Reject3_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdGuardSDNSFilter/AdGuardSDNSFilter_Domain.list").text
 r_rules= set([item for item in Reject_Rules.strip().split("\n") if not (item.startswith('#') or item.startswith('!'))])
 r_rules.update([item for item in Reject1_Rules.strip().split("\n") if not (item.startswith('#') or item.startswith('!'))])
 r_rules.update([item for item in Reject2_Rules.strip().split("\n") if not (item.startswith('#') or item.startswith('!'))])
