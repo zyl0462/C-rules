@@ -25,28 +25,12 @@ with open("./Rules/proxy.txt", "w",encoding='utf-8') as f:
     f.write(proxy_text)
 del Proxy_Rules,Proxy_Rules1,Proxy_Rules2,p_rules
 
-p_rules= [item for item in proxy_text.strip().split("\n") if not item.startswith('.')]
-p_rules1= [item[1:] for item in proxy_text.strip().split("\n") if  item.startswith('.')]
-p_text = ',PROXY\n'.join(p_rules)
-p_text1 = ',PROXY\n'.join(p_rules1)
-del p_rules,p_rules1,proxy_text
-p_rules= [item for item in p_text.strip().split("\n")]
-p_rules1= [item for item in p_text1.strip().split("\n")]
-p_text = '\nDOMAIN,'.join(sorted(p_rules))
-p_text1 = '\nDOMAIN-SUFFIX,'.join(sorted(p_rules1))
-del p_rules,p_rules1
-p_rules= [item for item in p_text.split("\n")]
-p_rules1= [item for item in p_text1.split("\n")]
-p_rules.insert(0,'DOMAIN,'+p_rules.pop(0))
-p_rules.insert(-1,p_rules.pop()+',PROXY')
-p_rules1.insert(0,'DOMAIN-SUFFIX,'+p_rules1.pop(0))
-p_rules1.insert(-1,p_rules1.pop()+',PROXY')
-del p_text,p_text1
+p_rules= [('DOMAIN,' + item + ',PROXY') for item in proxy_text.strip().split("\n") if not item.startswith('.')]
+p_rules.extend([('DOMAIN-SUFFIX,'+ item[1:] + ',PROXY') for item in proxy_text.strip().split("\n") if item.startswith('.')])
 p_text ='\n'.join(sorted(p_rules))
-p_text1 ='\n'.join(sorted(p_rules1))
 with open("./Rules/rproxy.txt", "w",encoding='utf-8') as f:
-    f.write(p_text + '\n' + p_text1)
-del p_rules,p_rules1,p_text,p_text1
+    f.write(p_text)
+del p_rules,p_text
 
 Social_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram.list").text
 Social_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI.list").text
