@@ -30,7 +30,7 @@ p_rules.extend([('DOMAIN-SUFFIX,'+ item[1:] + ',PROXY') for item in proxy_text.s
 p_text ='\n'.join(sorted(p_rules))
 with open("./Rules/rproxy.txt", "w",encoding='utf-8') as f:
     f.write(p_text)
-del p_rules,p_text
+del p_rules, proxy_text, p_text
 
 Social_Rules = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Telegram/Telegram.list").text
 Social_Rules1 = requests.get("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI.list").text
