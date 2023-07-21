@@ -1,6 +1,4 @@
 payload:
-  - DOMAIN,cdn.auth0.com
-  - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN-KEYWORD,appspot
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,gmail
@@ -52,6 +50,7 @@ payload:
   - DOMAIN-SUFFIX,apture.com
   - DOMAIN-SUFFIX,area120.com
   - DOMAIN-SUFFIX,asp-cc.com
+  - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,autodraw.com
   - DOMAIN-SUFFIX,avail.googleflights.net
   - DOMAIN-SUFFIX,bandpage.com
@@ -167,6 +166,7 @@ payload:
   - DOMAIN-SUFFIX,chroniclesec.com
   - DOMAIN-SUFFIX,clickserve.cc-dt.com
   - DOMAIN-SUFFIX,clickserver.googleads.com
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com
   - DOMAIN-SUFFIX,cloudburstresearch.com
   - DOMAIN-SUFFIX,cloudfunctions.net
   - DOMAIN-SUFFIX,cloudproxy.app
@@ -216,8 +216,10 @@ payload:
   - DOMAIN-SUFFIX,download.qcpp1.net
   - DOMAIN-SUFFIX,download.qpdp1.net
   - DOMAIN-SUFFIX,episodic.com
+  - DOMAIN-SUFFIX,events.statsigapi.net
   - DOMAIN-SUFFIX,fastlane.ci
   - DOMAIN-SUFFIX,fastlane.tools
+  - DOMAIN-SUFFIX,featuregates.org
   - DOMAIN-SUFFIX,feedburner.com
   - DOMAIN-SUFFIX,fflick.com
   - DOMAIN-SUFFIX,financeleadsonline.com
@@ -559,6 +561,8 @@ payload:
   - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,igoogle.com
   - DOMAIN-SUFFIX,impermium.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-SUFFIX,itasoftware.com
   - DOMAIN-SUFFIX,j2objc.org
   - DOMAIN-SUFFIX,jibemobile.com
@@ -616,6 +620,7 @@ payload:
   - DOMAIN-SUFFIX,pixate.com
   - DOMAIN-SUFFIX,pki.goog
   - DOMAIN-SUFFIX,plus.codes
+  - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,polymer-project.org
   - DOMAIN-SUFFIX,polymerproject.org
   - DOMAIN-SUFFIX,postini.com
@@ -662,6 +667,7 @@ payload:
   - DOMAIN-SUFFIX,schemer.com
   - DOMAIN-SUFFIX,screenwisetrends.com
   - DOMAIN-SUFFIX,screenwisetrendspanel.com
+  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,shattered.io
   - DOMAIN-SUFFIX,snapseed.com
   - DOMAIN-SUFFIX,solveforx.com
