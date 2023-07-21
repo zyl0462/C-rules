@@ -6,7 +6,7 @@ def get_text(url):
     if response.status_code == 200:
         return response.text.strip()
     else:
-        return None
+        return ''
 
 REJECT_URL = ("https://anti-ad.net/domains.txt",
          "https://raw.githubusercontent.com/Cats-Team/AdRules/main/ad-domains.txt",
