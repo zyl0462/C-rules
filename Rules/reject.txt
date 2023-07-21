@@ -18870,6 +18870,7 @@ am.siemensplmevents.com
 am.streamdj.ru
 am.szhome.com
 am.titsx.com
+am.yahoo.co.jp
 am.zdnet.com.cn
 am01-af.recsys.tt.omtrdc.net
 am10.ru
@@ -27032,6 +27033,7 @@ b95.s79.research.de.com
 b9645fef65.com
 b97.yahoo.co.jp
 b97482f4b9.com
+b99.yahoo.co.jp
 b9msljkxf96s.ru
 ba-1c-4.idmapper.api.api.tt.omtrdc.net
 ba-content.de
@@ -54253,6 +54255,7 @@ eeme7j.win
 eemedlikeama.xyz
 eemmlhcuydso.com
 eempacmy.com
+eemreyrwkqwnv.top
 eemsoods.com
 eengange.com
 eengbalu.fun
@@ -60178,6 +60181,7 @@ fourier.alibaba.com
 fourier.taobao.com
 fourlaile.com
 fourmtagservices.appspot.com
+fourtimessmelly.com
 fourtuneo.fr
 fourwhenstatistics.com
 fout.jp
@@ -60696,7 +60700,6 @@ frontier.musical.ly
 frontiercomm.tt.omtrdc.net
 frontierconsul02.tsunagaru-office.com
 frontiermetal.actonservice.com
-frontman.tmobiapi.com
 fronttoad.com
 frookshop-winsive.com
 froomle.com
@@ -90558,6 +90561,7 @@ mrysogsix.uno
 mrz-lu.tt.omtrdc.net
 mrzhao.life
 mrzikj.com
+ms*.applvn.com
 ms-0.4.tt.omtrdc.net
 ms-ads-events.presage.io
 ms-ads.presage.io
@@ -91652,6 +91656,7 @@ mysecurify.com
 myseostats.com
 myservicebooster.com
 myshou.com
+mysingleromance.com
 mysite.irkdsu.ru
 mysite.webroot.com
 mysitetraffic.net
@@ -109702,6 +109707,7 @@ roelikewimpler.com
 roesdwaibly.com
 roewnand.biz
 roeye.com
+roeyecdn.com
 rof77skt5zo0.com
 rog4.com
 rogerscommunicaitonp.tt.omtrdc.net
@@ -156466,6 +156472,7 @@ zantracker.com
 zanzibar.trekkww.fun
 zaoyx.jrchiji.cn
 zap.buzz
+zap.cdn.zynga.com
 zapadserver1.com
 zaparena.com
 zapbox.ru
