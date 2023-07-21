@@ -3,10 +3,10 @@ from datetime import datetime
 
 def get_text(url):
      response = requests.get(url)
-    if response.status_code == 200:
-        return response.text
-    else:
-        return None
+     if response.status_code == 200:
+          return response.text
+     else:
+          return None
 
 Reject_Rules = get_text("https://anti-ad.net/domains.txt")
 Reject_Rules1 = get_text("https://raw.githubusercontent.com/Cats-Team/AdRules/main/ad-domains.txt").lower()
