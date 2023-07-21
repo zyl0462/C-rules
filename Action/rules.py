@@ -2,15 +2,10 @@ import requests
 from datetime import datetime
 
 def get_text(url):
-    try:
-        response = requests.get(url)
-        response.raise_for_status()
+     response = requests.get(url)
+    if response.status_code == 200:
         return response.text
-    except requests.exceptions.RequestException as he:
-        print("Error fetching content:", he)
-    except Exception as e:
-        print("Error content:", e)
-    finally:
+    else:
         return None
 
 Reject_Rules = get_text("https://anti-ad.net/domains.txt")
