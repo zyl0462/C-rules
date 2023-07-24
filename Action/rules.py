@@ -5,13 +5,9 @@ from datetime import datetime
 def get_text(url):
     response = requests.get(url, stream=True)
     if response.status_code == 200:
-        with open("./tmp", "wb+") as f:
-          for chunk in response.iter_content(chunk_size=512):
-            if chunk:
-              f.write(chunk)
-          str_url = f.read()
-        return str_url.strip()
+        return response.text.strip()
     else:
+        sys.exit()
         return ''
 
 REJECT_URL = ("https://anti-ad.net/domains.txt",
