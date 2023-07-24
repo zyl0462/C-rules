@@ -3108,6 +3108,7 @@
 .greenreadings.com
 .greenvpn.net
 .greenvpn.org
+.grindr.com
 .grotty-monday.com
 .groups.google.cn
 .grow.google
@@ -3622,6 +3623,7 @@
 .imdb.com
 .img.dlsite.jp
 .img.ly
+.imgasd.com
 .imgchili.net
 .imgmega.com
 .imgur.com
@@ -7546,6 +7548,7 @@
 .xiaohexie.com
 .xiaolan.me
 .xiaoma.org
+.xiaomi.eu
 .xiaxiaoqiang.net
 .xiezhua.com
 .xihua.es
