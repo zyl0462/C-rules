@@ -74,10 +74,8 @@ with open("./Rules/video.txt", "w",encoding='utf-8') as f:
 del video_set,video_text,VIDEO_URL,social_set,social_text,SOCIAL_URL
 
 STR_stat = f'#UTC time: {datetime.now().strftime("%Y/%m/%d %H:%M:%S")}\n\
-reject rules: {LEN_reject}\n\
-proxy rules: {LEN_proxy}\n\
-social rules: {LEN_social}\n\
-video rules: {LEN_video}\n\
+reject rules: {LEN_reject}\nproxy rules: {LEN_proxy}\n\
+social rules: {LEN_social}\nvideo rules: {LEN_video}\n\
 total rules: {LEN_reject+LEN_proxy+LEN_social+LEN_video}'
 with open("./stat", "w",encoding='utf-8') as f:
     f.write(STR_stat)
