@@ -1,4 +1,5 @@
 import requests
+import sys
 from datetime import datetime
 
 def get_text(url):
@@ -6,6 +7,7 @@ def get_text(url):
     if response.status_code == 200:
         return response.text.strip()
     else:
+        sys.exit()
         return ''
 
 REJECT_URL = ("https://anti-ad.net/domains.txt",
