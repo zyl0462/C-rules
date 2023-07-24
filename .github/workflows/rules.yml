@@ -22,6 +22,7 @@ jobs:
         run: |
           git config --local user.email "zy0462@gmail.com"
           git config --local user.name "zyl0462"
+          git rm -r --cached Rules/tmp
           git add ./*
           git commit -a -m "Update rules"
 
