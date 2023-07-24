@@ -8,7 +8,7 @@ def get_text(url):
         with open("./tmp", "wb+",encoding='utf-8') as f:
           for chunk in r.iter_content(chunk_size=512):
             if chunk:
-              f.write(chunk))
+              f.write(chunk)
           str_url = f.read()
         return str_url.strip()
     else:
