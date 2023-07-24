@@ -1,5 +1,6 @@
 import requests
 import sys
+import time
 from datetime import datetime
 
 def get_text(url):
@@ -9,6 +10,7 @@ def get_text(url):
             for chunk in r.iter_content(chunk_size=1024):
                 if chunk:
                     f.write(chunk)
+        time.sleep(1)
         with open("./Rules/tmp", "r",encoding='utf-8') as f:
             return f.read().strip()
     else:
