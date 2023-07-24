@@ -15,7 +15,6 @@ def get_text(url):
             return f.read().strip()
     else:
         sys.exit(0)
-        return ''
 
 REJECT_URL = ("https://anti-ad.net/domains.txt",
          "https://raw.githubusercontent.com/Cats-Team/AdRules/main/ad-domains.txt",
