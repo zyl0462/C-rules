@@ -6,7 +6,7 @@ def get_text(url):
     response = requests.get(url, stream=True)
     if response.status_code == 200:
         with open("./tmp", "wb+") as f:
-          for chunk in r.iter_content(chunk_size=512):
+          for chunk in response.iter_content(chunk_size=512):
             if chunk:
               f.write(chunk)
           str_url = f.read()
