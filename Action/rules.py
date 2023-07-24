@@ -1,6 +1,4 @@
-import requests
-import sys
-import time
+import requests,sys,time
 from datetime import datetime
 
 def get_text(url):
