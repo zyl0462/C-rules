@@ -3,9 +3,14 @@ import sys
 from datetime import datetime
 
 def get_text(url):
-    response = requests.get(url, stream=True)
-    if response.status_code == 200:
-        return response.text.strip()
+    r = requests.get(url, stream= True)
+    if r.status_code == 200:
+        with open("./tmp", "wb") as f:
+            for chunk in r.iter_content(chunk_size=1024):
+                if chunk:
+                    f.write(chunk)
+        with open("./tmp", "r",encoding='utf-8') as f:
+            return f.read().strip()
     else:
         sys.exit()
         return ''
