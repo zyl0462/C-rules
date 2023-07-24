@@ -14,7 +14,7 @@ def get_text(url):
         with open("./Rules/tmp", "r",encoding='utf-8') as f:
             return f.read().strip()
     else:
-        sys.exit()
+        sys.exit(0)
         return ''
 
 REJECT_URL = ("https://anti-ad.net/domains.txt",
