@@ -12,7 +12,6 @@
 0-iplaw.bna.com.hopac.tt.omtrdc.net
 0-mmxvi-p-p.tt.omtrdc.net
 0.0.0.0.creative.hpyrdr.com
-0.0.0.0.hitbox.com
 0.0.0.0.hpyrdr.com
 0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 0.0.1pluralsight.hb.tt.omtrdc.net
@@ -1567,6 +1566,7 @@
 1redirc.com
 1rt0n.news
 1rtl.info
+1rx.i812ee54afcabd.com
 1rx.io
 1rxntv.io
 1s1r7hr1k.de
@@ -1575,7 +1575,6 @@
 1sputnik.ru
 1sqfobn52.de
 1startfiledownload1.com
-1startistracted.com
 1starwarstx1.com
 1stireland.com
 1stparty.equifax.co.uk
@@ -23683,7 +23682,6 @@ appcpa.net
 appcpi.net
 appd-dev-origin.tt.omtrdc.net
 appd12.tt.omtrdc.net
-appd5.com
 appdatum.com
 appdeumext.tdameritrade.com
 appdev-test.tt.omtrdc.net
@@ -27039,6 +27037,7 @@ awtks.com
 awtltwjmmo.242cbcca.hb.tt.omtrdc.net
 awuapj.landwatch.com
 awugxvrmsdalpx.com
+awutohkhu.com
 awvnhoa.com
 awvpapjucr.com
 awvtzezarm.com
@@ -28669,6 +28668,7 @@ bbk.pnc.com
 bbk5921.yncjsc.cn
 bbkrsm.crucerosnet.com
 bbmlhsehxwi.com
+bbmrraevnevnk.top
 bbn.gzblogger.cn
 bbnaut.bbelements.com
 bbnaut.ibillboard.com
@@ -30033,6 +30033,7 @@ biancasunlit.com
 bianxianmao.com
 biaritz.fr
 biaugerme.fr
+bibberbummler.com
 bibblio.org
 bibbybegazes.com
 biberukalap.com
@@ -31817,6 +31818,7 @@ boutique-dev.asrunapirelease.spotlight-app.eu.eu.tt.omtrdc.net
 boutique-papillon.fr
 boutique.ricoh.fr
 boutiqueondemand.com
+bouwehee.xyz
 bouygiestelecom.fr
 bovemtou.xyz
 bovhzz.xyz
@@ -35070,6 +35072,7 @@ cauyuksehink.info
 cavalryconvincing.com
 cavecredentialdeer.com
 cavecurtain.com
+caveestate.com
 cavenders-op.tt.omtrdc.net
 cavernousshift.pro
 caviaresquerda.tt.omtrdc.net
@@ -35684,7 +35687,6 @@ cdn.asdfix.com
 cdn.asdnow.xyz
 cdn.asecv.xyz
 cdn.asrop.xyz
-cdn.assets.ca.pl
 cdn.assets.craveonline.com
 cdn.at.atwola.com
 cdn.atdmt.com
@@ -44762,6 +44764,7 @@ d3tfz9q9zlwk84.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
 d3tjml0i5ek35w.cloudfront.net
 d3tozt7si7bmf7.cloudfront.net
+d3tu4h3aa52h5s.cloudfront.net
 d3u43fn5cywbyv.cloudfront.net
 d3u598arehftfk.cloudfront.net
 d3u5zn5k9864p0.cloudfront.net
@@ -50709,6 +50712,7 @@ dlinsuranceservicesl.tt.omtrdc.net
 dljqqk.newmood.lv
 dlmewheniyv.xyz
 dlmonitize.com
+dlmr7hpb2buud.cloudfront.net
 dlne6myudrxi1.cloudfront.net
 dload.qd.qingting.fm
 dlog.hiido.com
@@ -54546,7 +54550,6 @@ ehg-macromedia.hitbox.com
 ehg-magicalia.hitbox.com
 ehg-maplesoft.hitbox.com
 ehg-mgnlimited.hitbox.com
-ehg-mindshare.0.0serv2.ad-rotator.com
 ehg-mindshare.hitbox.com
 ehg-moma.hitbox.com.112.2o7.net
 ehg-mtv.hitbox.com
@@ -54693,7 +54696,6 @@ ejhijgfghbeeidddadb.ru
 ejhyhg.travelist.pl
 ejieban.com
 ejimtl.costway.com
-ejipaifaurga.cfiledownload1.com
 ejipaifaurga.com
 ejjek.top
 ejmovec.ru
@@ -60985,7 +60987,6 @@ fukkad.com
 fulabachu.com
 fulbe-whs.com
 fulfilleddetrimentpot.com
-fulfillgift.com
 fulhamscaboose.website
 fulheaddedfea.com
 fuliwang.cc
@@ -64223,6 +64224,7 @@ goat.sigr.li
 goat.studiobruikbaar.nl
 goat.vrds.app
 goatcounter.com
+goatmod.xyz
 goatse.ca
 goatse.ru
 goatsegirl.org
@@ -74905,7 +74907,6 @@ jnbasajikmd.xyz
 jncacp.cn
 jndczg.com
 jndfrqz.com
-jne-express.my.id
 jngapkf.cn
 jngdg.top
 jnhdmksj.top
@@ -78267,7 +78268,6 @@ lapsmnl.cyou
 lapstour.quickbytegames.com
 laptopmag.122.2o7.net
 laptopreportcard.com
-laptopreportcard.com.0.0serv2.ad-rotator.com
 laptoprewards.com
 laptoprewardsgroup.com
 laptoprewardszone.com
@@ -81287,8 +81287,10 @@ loggingapi.spingo.com
 loggingservices.tribune.com
 loggly.cheatsheet.com
 loggw-ex.alipay.com
+loggw-exsdk.alipay.com
 loggw.alipay.com
 loggw.alipay.com.cn
+loggw.alipaydns.com
 loggychops.paulsmith.site
 logi6.xiti.com
 logi7.xiti.com
@@ -91110,7 +91112,6 @@ msite.baidu.com
 msl-cf.id
 mslpoknyco.18.0.20dupont.hb.tt.omtrdc.net
 mslridgifu.www.att.hb.tt.omtrdc.net
-msmcompare.com
 msmetrics.ws.sonos.com
 msn-cdn.effectivemeasure.net
 msn.oewabox.at
@@ -92379,6 +92380,7 @@ naesaeicmgt-api-api-mgmtd.tt.omtrdc.net
 naetoris.pw
 naewynn.com
 nafaec.com
+naffor.com
 nagaaspirin.com
 nagamedesign.blog.tt.omtrdc.net
 naganoadigei.com
@@ -92676,6 +92678,7 @@ navi30.ru
 navi32.com
 navi35.com
 navi35.ru
+navi36.ru
 navi38.com
 navi38.ru
 navi39.ru
@@ -95373,6 +95376,7 @@ oaujswgofu.com
 oauth.datorama.com
 oaxoulro.com
 oaxpcohp.com
+oazartie.com
 oazoorse.com
 ob.cheqzone.com
 ob.freyrclogs.com
@@ -97962,6 +97966,7 @@ outstanding-tie.pro
 outstandingincome.com
 outstandingsnails.com
 outster.com
+outtaskhautein.guru
 outtimburrtor.com
 outtunova.com
 outube.com
@@ -105087,6 +105092,7 @@ puffypull.com
 puffypurpose.com
 pufhzpt.cn
 pugdisguise.com
+pugehjjxdr.xyz
 puggedproses.com
 pughoomo.xyz
 pugmillcolitis.website
@@ -133019,7 +133025,6 @@ tiger.devlib.se
 tiger2.web.tt.omtrdc.net
 tiger32.tt.omtrdc.net
 tigerdirect-divas-direct.shop.tt.omtrdc.net
-tigerkash.com
 tigerpush.net
 tigersgold-5.tt.omtrdc.net
 tigershark.advaya.co
@@ -153878,6 +153883,7 @@ wz.bergallgenion.com
 wz.tynt.com
 wz8g.top
 wzbwps.racechip.de
+wzctuv.xyz
 wzdy.xyz
 wzdzht7am5.com
 wzelkaekmoman.com
@@ -155191,6 +155197,7 @@ xobr219pa.com
 xoemvfgjhpwea.com
 xogepg.com
 xogogowebcams.com
+xoimmmhfha.com
 xokcaxw.cn
 xokpzpfofy.251aem.hb.tt.omtrdc.net
 xoktditxsmr.xyz
@@ -157717,6 +157724,7 @@ zhougong.info
 zhould.com
 zhoz.com
 zhpfl.cn
+zhqmctfwip.com
 zhtjdl.com
 zhuahu.com
 zhuanfakong.com
