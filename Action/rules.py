@@ -34,7 +34,7 @@ VIDEO_YMAL = ("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/ma
 reject_set = set([i for i in get_text(REJECT_URL[0]).split("\n") if not (i.startswith('#') or i.startswith('!'))])
 reject_set .update([i for i in get_text(REJECT_URL[1]).lower().split("\n") if not (i.startswith('#') or i.startswith('!'))])
 reject_set .update([i[2:-1] for i in get_text(REJECT_URL[2]).split("\n") if (i.startswith('||') and i.endswith('^'))])
-LEN_reject = len(reject_set )
+LEN_reject = len(reject_set)
 reject_text = '\n'.join(sorted(reject_set))
 with open("./Rules/reject.txt", "w",encoding='utf-8') as f:
     f.write(reject_text)
