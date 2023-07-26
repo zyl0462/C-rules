@@ -1,5 +1,5 @@
 import requests,sys,time
-from datetime import datetime, timedelta
+from datetime import datetime,timezone,timedelta
 
 def get_text(url):
     with requests.get(url, stream= True) as r:
