@@ -1,5 +1,5 @@
 import requests,sys,time
-from datetime import datetime
+from datetime import datetime, timedelta
 
 def get_text(url):
     with requests.get(url, stream= True) as r:
@@ -70,7 +70,7 @@ with open("./Rules/video.txt", "w",encoding='utf-8') as f:
     f.write(video_text)
 del video_set,video_text,VIDEO_URL,social_set,social_text,SOCIAL_URL
 
-STR_stat = f'#UTC time: {datetime.now().strftime("%Y/%m/%d %H:%M:%S")}\n\
+STR_stat = f'#Date: {(datetime.utcnow().astimezone(timezone(timedelta(hours=8)))).strftime("%Y/%m/%d %H:%M:%S")}\n\
 reject rules: {LEN_reject}\nproxy rules: {LEN_proxy}\n\
 social rules: {LEN_social}\nvideo rules: {LEN_video}\n\
 total rules: {LEN_reject+LEN_proxy+LEN_social+LEN_video}'
