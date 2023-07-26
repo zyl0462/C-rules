@@ -2,17 +2,17 @@ import requests,sys,time
 from datetime import datetime
 
 def get_text(url):
-    r = requests.get(url, stream= True)
-    if r.status_code == 200:
-        with open("./Rules/tmp", "wb") as f:
-            for chunk in r.iter_content(chunk_size=1024):
-                if chunk:
-                    f.write(chunk)
-        time.sleep(0.25)
-        with open("./Rules/tmp", "r",encoding='utf-8') as f:
-            return f.read().strip()
-    else:
-        sys.exit(0)
+    with requests.get(url, stream= True) as r:
+        if r.status_code == 200:
+            with open("./Rules/tmp", "wb") as f:
+                for chunk in r.iter_content(chunk_size=1024):
+                    if chunk:
+                        f.write(chunk)
+            time.sleep(0.25)
+            with open("./Rules/tmp", "r",encoding='utf-8') as f:
+                return f.read().strip()
+        else:
+            sys.exit(0)
 
 REJECT_URL = ("https://anti-ad.net/domains.txt",
          "https://raw.githubusercontent.com/Cats-Team/AdRules/main/ad-domains.txt",
