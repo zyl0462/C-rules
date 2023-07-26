@@ -10489,12 +10489,9 @@ access.hikaritv.net
 access.ingress.newt.sci.tt.omtrdc.net
 access.ipro.net
 access.iprolive.com
-access.pangolin-sdk-toutiao-b.com
 access.sunpower.com
-access.toggle.qq.com
 access.vidox.net
 access03.kdc.tt.omtrdc.net
-access1.tpns.tencent.com
 access2.ipro.net
 access361.tt.omtrdc.net
 accessashdqt23.tt.omtrdc.net
@@ -22944,11 +22941,9 @@ apm-sign.cloud.tt.omtrdc.net
 apm.adasiaholdings.com
 apm.bama.ir
 apm.crittercism.com
-apm.douyucdn.cn
 apm.suning.cn
 apm.tnet.nl
 apmap-1psn1.tt.omtrdc.net
-apmconfig.douyucdn.cn
 apmebf.com
 apmediacao-gamboaa.tt.omtrdc.net
 apmotorsdiniscar.tt.omtrdc.net
@@ -35683,6 +35678,7 @@ cdn.asdfix.com
 cdn.asdnow.xyz
 cdn.asecv.xyz
 cdn.asrop.xyz
+cdn.assets.c.hitbox.com
 cdn.assets.craveonline.com
 cdn.at.atwola.com
 cdn.atdmt.com
@@ -53939,7 +53935,6 @@ eco.vng25.xyz
 ecodemitter.website
 ecoefh.com
 ecologi.link
-ecom.snssdk.com
 ecomadserver.com
 ecomgxh.kuwo.cn
 ecomm.events
@@ -71064,7 +71059,6 @@ imymobi.com
 imyqb.cn
 imzahrwl.xyz
 imzhide.net.cn
-in-addr.arpa
 in-appadvertising.com
 in-business.vodafone.com
 in-data-10.tt.omtrdc.net
@@ -79130,7 +79124,6 @@ lezntf.heydudeshoesusa.com
 lezpress.fr
 leztc.com
 lf.minyascannat.com
-lf.snssdk.com
 lf.unvenomangst.com
 lfd-media.ru
 lfeeder.com
@@ -80847,7 +80840,6 @@ log-ads.r7.com
 log-anninhthudo.zadn.vn
 log-api.aillis.net
 log-api.newrelic.com
-log-api.pangolin-sdk-toutiao-b.com
 log-api.pangolin-sdk-toutiao.com
 log-baobackan.zadn.vn
 log-baodauthau.epicdn.me
@@ -81024,7 +81016,6 @@ log.invodo.com
 log.isnssdk.com
 log.iyunmai.com
 log.jd.com
-log.jd.com.gslb.qianxun.com
 log.juicer.cc
 log.kaayun.com
 log.kajicam.com
@@ -81213,14 +81204,11 @@ log2.ru
 log2.sina.cn
 log2.spotify.com
 log22.makeshop.co.kr
-log3-misc-lq.amemv.com
 log3-normal-hl.toutiaoapi.com
-log3-normal-lq.toutiaoapi.com
 log3.adsplay.net
 log4.adsplay.net
 log4x.nixcdn.com
 log5-acc.tt.omtrdc.net
-log5-misc-lq.amemv.com
 log5.interactive-circle.jp
 log6.reader.qq.com
 log8-dc.tt.omtrdc.net
@@ -90333,7 +90321,6 @@ mon.snssdk.com
 mon.tiktokv.com
 mon.us.tiktokv.com
 mon.xtgreat.com
-mon11-misc-lf.toutiaoapi.com
 mon11-normal-c-useast2a.tt.omtrdc.net
 mon41.tt.omtrdc.net
 monaco.trekkeeee.fun
@@ -91167,7 +91154,6 @@ msrv.su
 msrvt.net
 msrx-am3.tt.omtrdc.net
 mssdhde.cn
-mssdk-bu.snssdk.com
 mssdk11-normal-useast1a.tt.omtrdc.net
 mssdkrt.xyz
 mssdx13bsa.tt.omtrdc.net
@@ -102631,7 +102617,6 @@ polarbyte.com
 polarcdn-pentos.com
 polarcdn-terrax.com
 polardemeanour.com
-polaris3-normal-lq.zijieapi.com
 polarmobile.com
 pole.6rooms.com
 poleaxefoamers.com
@@ -112258,7 +112243,6 @@ s2strk.info
 s2whyufxmzam.chatpay.com.br
 s3-analytics-events.easybrain.com
 s3-ap-southeast-1-amazonaws.com
-s3-fe-scm.pglstatp-toutiao.com
 s3-metrics.hb.tt.omtrdc.net
 s3-us.servebom.com
 s3.adbers.com
@@ -112302,7 +112286,6 @@ s37.cnzz.com
 s38.cnzz.com
 s385.mxcdn.net
 s39.cnzz.com
-s3a.pstatp.com
 s3cf.flashtalking.com
 s3cp.xyz
 s3m.mediav.com
@@ -115365,7 +115348,6 @@ security-update.ocry.com
 security-update.qhigh.com
 security.browser.miui.com
 security.bskyb.hb.tt.omtrdc.net
-security.snssdk.com
 security.solutions.jci.com
 security.tt.omtrdc.net
 securityins.actonservice.com
@@ -116510,7 +116492,6 @@ sfiubwtxgv.meet.arkena.hb.tt.omtrdc.net
 sfix-msy.tt.omtrdc.net
 sfixretarum.com
 sfkmekofps.com
-sfl-fe-tos.pglstatp-toutiao.com
 sflvqq.pleinoutlet.com
 sfmc-cn.sfmc-fr.tt.omtrdc.net
 sfmc-test-es.sfmc.tt.omtrdc.net
@@ -133781,7 +133762,6 @@ tobapplog.ctobsnssdk.com
 tobinsolutions.wi.tt.omtrdc.net
 toblog.ctobsnssdk.com
 toblog.snssdk.com
-toblog.volceapplog.com
 toboads.com
 tobwcdovmfthb.xyz
 tobykitten51.tt.omtrdc.net
@@ -136108,6 +136088,7 @@ track.furniturevisioncenter.com
 track.futebolesportesjack.online
 track.futureshop.ca
 track.fxstreet.com
+track.gaconnector.com
 track.gameanalytics.com
 track.gamingchairsforyou.com
 track.gamingchairsspace.com
@@ -138220,8 +138201,6 @@ transformationwrecking.com
 transformignorant.com
 transfto.com
 transit.sp.tt.omtrdc.net
-transit1.wslog.chinanetcenter.com
-transit2.wslog.chinanetcenter.com
 transitcms.tt.omtrdc.net
 transitdev.ecomp.industrypartners.tt.omtrdc.net
 transitionfrenchdowny.com
@@ -142915,7 +142894,6 @@ v2st.shinobi.jp
 v2zn.xyz
 v3-ad.ixigua.com
 v3-ads-st-vcdn.anthill.vn
-v3-be-pack.pglstatp-toutiao.com
 v3-st-vcdn.anthill.vn
 v3.att.hb.tt.omtrdc.net
 v3.cnzz.com
@@ -149198,6 +149176,7 @@ wsinterfumes.info
 wsite.smartconvert.co
 wsjbcx.sizeofficial.dk
 wsjlbbqemr23.com
+wslog.chinanetcenter.com
 wslqgslkuv.com
 wsmcdn.audioeye.com
 wsmetrics.batch.com
