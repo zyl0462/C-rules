@@ -77,9 +77,11 @@ with open("./stat", "r",encoding='utf-8') as f:
     my_stat.extend([i[i.rindex(' ')+1:] for i in f.read().strip().split("\n") if not i.startswith('#')])
 LEN_reject0,LEN_proxy0,LEN_social0,LEN_video0,LEN_total= int(my_stat[0]),int(my_stat[1]),int(my_stat[2]),int(my_stat[3]),int(my_stat[4])
 STR_stat = f'#{(datetime.utcnow().astimezone(timezone(timedelta(hours=8)))).strftime("%Y/%m/%d %H:%M:%S")}\n\
-reject rules({LEN_reject-LEN_reject0}): {LEN_reject}\nproxy rules({LEN_proxy-LEN_proxy0}): {LEN_proxy}\n\
-social rules({LEN_social-LEN_social0}): {LEN_social}\nvideo rules({LEN_video-LEN_video0}): {LEN_video}\n\
-total rules({LEN_reject+LEN_proxy+LEN_social+LEN_video-LEN_total}): {LEN_reject+LEN_proxy+LEN_social+LEN_video}'
+reject rules({"+" if LEN_reject-LEN_reject0 > 0 else "-"}{abs(LEN_reject-LEN_reject0)}): {LEN_reject}\n\
+proxy rules({"+" if LEN_proxy-LEN_proxy0 > 0 else "-"}{abs(LEN_proxy-LEN_proxy0)}): {LEN_proxy}\n\
+social rules({"+" if LEN_social-LEN_social0 > 0 else "-"}{abs(LEN_social-LEN_social0)}): {LEN_social}\n\
+video rules({"+" if LEN_video-LEN_video0 > 0 else "-"}{abs(LEN_video-LEN_video0)}): {LEN_video}\n\
+total rules({"+" if LEN_reject+LEN_proxy+LEN_social+LEN_video-LEN_total > 0 else "-"}{abs(LEN_reject+LEN_proxy+LEN_social+LEN_video-LEN_total)}): {LEN_reject+LEN_proxy+LEN_social+LEN_video}'
 with open("./stat", "w",encoding='utf-8') as f:
     f.write(STR_stat)
 del my_stat,STR_stat,LEN_reject,LEN_proxy,LEN_social,LEN_video,LEN_reject0,LEN_proxy0,LEN_social0,LEN_video0,LEN_total
