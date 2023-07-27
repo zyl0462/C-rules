@@ -776,3 +776,13 @@ payload:
   - IP-CIDR6,2001:b28:f23f::/48,no-resolve
   - IP-CIDR6,2620:120:e000::/40,no-resolve
   - IP-CIDR6,2a0a:f280::/32,no-resolve
+  - PROCESS-NAME,BackupandSync
+  - PROCESS-NAME,GoogleDriveFS.exe
+  - PROCESS-NAME,Telegram.exe
+  - PROCESS-NAME,com.android.vending
+  - PROCESS-NAME,com.google.android.gms
+  - PROCESS-NAME,com.google.android.gsf
+  - PROCESS-NAME,com.google.android.play.games
+  - PROCESS-NAME,nekox.messenger
+  - PROCESS-NAME,org.telegram.messenger
+  - PROCESS-NAME,telegram-desktop
