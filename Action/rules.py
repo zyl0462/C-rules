@@ -70,13 +70,18 @@ with open("./Rules/video.txt", "w",encoding='utf-8') as f:
     f.write(video_text)
 del video_set,video_text,VIDEO_URL,social_set,social_text,SOCIAL_URL
 
+my_stat = []
+with open("./stat", "r",encoding='utf-8') as f:
+    my_stat.extend([i[i.rindex(' ')+1:] for i in f.read().strip().split("\n") if not i.startswith('#')])
+LEN_reject0,LEN_proxy0,LEN_social0,LEN_video0,LEN_total= int(my_stat[0]),int(my_stat[1]),int(my_stat[2]),int(my_stat[3]),int(my_stat[4])
+
 STR_stat = f'#{(datetime.utcnow().astimezone(timezone(timedelta(hours=8)))).strftime("%Y/%m/%d %H:%M:%S")}\n\
-reject rules: {LEN_reject}\nproxy rules: {LEN_proxy}\n\
-social rules: {LEN_social}\nvideo rules: {LEN_video}\n\
-total rules: {LEN_reject+LEN_proxy+LEN_social+LEN_video}'
+reject rules({LEN_reject-LEN_reject0}): {LEN_reject}\nproxy rules({LEN_proxy-LEN_proxy0}): {LEN_proxy}\n\
+social rules({LEN_social-LEN_social0}): {LEN_social}\nvideo rules({LEN_video-LEN_video0}): {LEN_video}\n\
+total rules({LEN_reject+LEN_proxy+LEN_social+LEN_video-LEN_total}): {LEN_reject+LEN_proxy+LEN_social+LEN_video}'
 with open("./stat", "w",encoding='utf-8') as f:
     f.write(STR_stat)
-del STR_stat,LEN_reject,LEN_proxy,LEN_social,LEN_video
+del my_stat,STR_stat,LEN_reject,LEN_proxy,LEN_social,LEN_video,LEN_reject0,LEN_proxy0,LEN_social0,LEN_video0,LEN_total
 
 social_ymal_set = set()
 for item in SOCIAL_YMAL:
