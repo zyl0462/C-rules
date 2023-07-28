@@ -14,7 +14,7 @@ def get_text(url):
         else:
             sys.exit(0)
 
-RULES_URL =(("https://anti-ad.net/domains.txt",
+RULES_URL =(("https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt",
                 "https://raw.githubusercontent.com/Cats-Team/AdRules/main/ad-domains.txt",
                 "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"),
             ("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Proxy/Proxy_Domain.list",
