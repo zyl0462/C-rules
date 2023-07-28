@@ -1,6 +1,6 @@
-#2023/07/27 20:20:30
-reject rules(+6): 160336
-proxy rules(+0): 7867
+#2023/07/28 08:54:42
+reject rules(+27): 160363
+proxy rules(+1): 7868
 social rules(+0): 785
 video rules(+0): 208
-total rules(+6): 169196
+total rules(+28): 169224

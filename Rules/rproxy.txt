@@ -340,6 +340,7 @@ DOMAIN-SUFFIX,amazonaws.co.uk,PROXY
 DOMAIN-SUFFIX,amazonaws.com,PROXY
 DOMAIN-SUFFIX,amazonprimevideo.cn,PROXY
 DOMAIN-SUFFIX,amazonprimevideos.com,PROXY
+DOMAIN-SUFFIX,amazontools.com,PROXY
 DOMAIN-SUFFIX,amazonuniversity.jobs,PROXY
 DOMAIN-SUFFIX,amazonvideo.cc,PROXY
 DOMAIN-SUFFIX,amazonvideo.com,PROXY

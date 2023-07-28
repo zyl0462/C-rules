@@ -304,6 +304,7 @@
 .amazonaws.com
 .amazonprimevideo.cn
 .amazonprimevideos.com
+.amazontools.com
 .amazonuniversity.jobs
 .amazonvideo.cc
 .amazonvideo.com
