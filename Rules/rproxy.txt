@@ -3773,7 +3773,6 @@ DOMAIN-SUFFIX,isohunt.com,PROXY
 DOMAIN-SUFFIX,israbox.com,PROXY
 DOMAIN-SUFFIX,issuu.com,PROXY
 DOMAIN-SUFFIX,istars.co.nz,PROXY
-DOMAIN-SUFFIX,istarshine.com,PROXY
 DOMAIN-SUFFIX,istef.info,PROXY
 DOMAIN-SUFFIX,istiqlalhewer.com,PROXY
 DOMAIN-SUFFIX,istockphoto.com,PROXY
