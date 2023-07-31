@@ -101,7 +101,7 @@ with open("./Rules/video.yaml", "w",encoding='utf-8') as f:
 del video_ymal_set,video_ymal,social_ymal_set,social_ymal,RULES_URL
 cnip_set = set()
 cnip_set.update([i for i in get_text(CNIP_URL).split("\n") if not (i.startswith('#') or i.startswith('payload:'))])
-cnip_ymal = '\n'.join(sorted(social_ymal_set))
+cnip_ymal = '\n'.join(sorted(cnip_set))
 with open("./Rules/cnip.yaml", "w",encoding='utf-8') as f:
     f.write('payload:\n'+cnip_ymal)
 del cnip_set,CNIP_URL,cnip_ymal
