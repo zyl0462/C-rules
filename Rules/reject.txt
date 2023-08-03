@@ -14,6 +14,8 @@
 0.0.0.0.creative.hpyrdr.com
 0.0.0.0.hpyrdr.com
 0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
+0.0.0.0com
+0.0.0.0game.net
 0.0.1pluralsight.hb.tt.omtrdc.net
 0.1pluralsight.hb.tt.omtrdc.net
 0.20corus.hb.tt.omtrdc.net
@@ -6366,7 +6368,6 @@ a.o2u.jp
 a.o333o.com
 a.oadz.com
 a.oh100.com
-a.oix.net
 a.omappapi.com
 a.oney.es
 a.opmnstr.com
@@ -14502,7 +14503,9 @@ ads.jimworld.com
 ads.joaffs.com
 ads.jobsite.co.uk
 ads.jokaroo.com
+ads.jossip.0pixel.staticworld.net
 ads.jossip.com
+ads.jossip.diazepam.razma.net
 ads.jp.ap.g.valuecommerce.com
 ads.jp.ap.valuecommerce.com
 ads.jpost.com
@@ -25034,7 +25037,6 @@ ashadofe.com
 ashamedbirchpoorly.com
 ashamedstep.com
 ashamemafia.com
-ashamemafia|bauweethie.com
 ashampoo-burning-studio.en.tt.omtrdc.net
 asharma.dlin2.tt.omtrdc.net
 asharma52arora.trevorla.tt.omtrdc.net
@@ -27287,7 +27289,6 @@ b.getmaintainx.com
 b.gett.com
 b.gondola-night.tt.omtrdc.net
 b.grabo.bg
-b.grvcdn.com
 b.gushiciju.com
 b.gwylm.com
 b.harehop.com
@@ -32835,6 +32836,7 @@ bullionyield.com
 bullnunname.com
 bulls.nimiqpool.com
 bullseye.backbeatmedia.com
+bullv.ad-rotator.com
 bullymust.com
 bulochka.xyz
 bulozc.tui.be
@@ -39359,7 +39361,6 @@ cmspapp83.com
 cmstrendslog.indiatimes.com
 cmstrendslog.timesnow.tv
 cmsxodnj.xyz
-cmt.setrowid.com
 cmta.yangkeduo.com
 cmtrkg.com
 cmttvv.bonprix.se
@@ -39499,7 +39500,6 @@ cnt.cityads.com
 cnt.fout.jp
 cnt.hd21.com
 cnt.iceporn.com
-cnt.inforotor.net
 cnt.iol.it
 cnt.logoslovo.ru
 cnt.mastorage.net
@@ -39521,7 +39521,6 @@ cnt.xcounter.com
 cnt.xhamster.com
 cnt1.net
 cnt1.xhamster.com
-cnt2.stroeerdp.de
 cntadvertising.com
 cntingyun.com
 cntj.zj.dcys.ijinshan.com
@@ -39681,7 +39680,6 @@ code.kejet.com
 code.kinofactor.ru
 code.laojiayoufang.com
 code.lobby.tt.omtrdc.net
-code.lockbot.net
 code.metalocator.com
 code.murdoog.com
 code.native-ad.net
@@ -49576,6 +49574,7 @@ digianalytics.fr
 digicert.hb-api.tt.omtrdc.net
 digicert.tt.omtrdc.net
 digicertwc.rubiconproject.com.edgekey.net
+digiclk.com
 digicomms.tt.omtrdc.net
 digicub.fr
 digidip.net
@@ -50348,7 +50347,6 @@ djers.com
 djfhwosjck.bi
 djfhwosjck.bid
 djfiln.com
-djibeacon.dowjoneson.com
 djiybut.cn
 djkeun1bal.com
 djm080u34wfc5.cloudfront.net
@@ -50531,7 +50529,6 @@ dlog.hiido.com
 dlooqrhebkjoh.cloudfront.net
 dlovet.cn
 dlp.egghead.link
-dlqsclub.com
 dlqxdonofwsfes.xyz
 dlqxtm.sssports.com
 dlrcoalbin.com
@@ -60059,6 +60056,7 @@ fotballsko-salg.com
 fotocash.ru
 fotoompi.com
 fotoscaseras.top
+fotoseiten.heimajump.ewoss.net
 fotoseiten.heimat.eu
 fotsaulr.net
 fouanalytics.com
@@ -65115,6 +65113,7 @@ gskbzle.cn
 gslb-aws-us-east-02.v.fwmrm.net
 gslb.hpplay.cn
 gslbeacon.lijit.com
+gsmobile.es
 gsmonitor.ru
 gsmosaic.tt.omtrdc.net
 gsmtop.net
@@ -68307,7 +68306,6 @@ hufkzv.xyz
 hugedomains.com
 hugelyantony.com
 hugelyimmovable.com
-hugersi.com
 hugetesla.com
 hugfromoctopus.com
 hugheseurope.actonservice.com
@@ -74149,6 +74147,7 @@ jcdhgpqglpjwh.xyz
 jcdn.ad-stir.com
 jcdn.jsoid.com
 jcecirohramv.com
+jcedu.org
 jcelyj.com
 jcfwdgo96neth4zr.tt.omtrdc.net
 jch-monitoring-test.sx.cloud.tt.omtrdc.net
@@ -77333,6 +77332,7 @@ kqnggnsd.fun
 kqpdnmkkvuu.com
 kqscrl.bonprix.nl
 kqskqi.xyz
+kqubxdb.cn
 kqwip.cyou
 kqzyfj.com
 kr-go.experian.com
@@ -88322,7 +88322,6 @@ metrics.pfizer.com
 metrics.philly.com
 metrics.pico.tools
 metrics.pinkribbonbottle.com
-metrics.plaid.com
 metrics.plusrewards.com.au
 metrics.politico.com
 metrics.politico.eu
@@ -93593,7 +93592,6 @@ ngacm.com
 ngads.com
 ngads.go.com
 ngads.smartage.com
-ngagement-engine.mobify.com
 ngastatic.com
 ngazee.novostroy-m.ru
 ngbn.net
@@ -94572,7 +94570,6 @@ ns1.happ.social
 ns1.hitbox.com
 ns1.microsoftonlines.net
 ns1.multi.net.pk
-ns1.phorm.com
 ns1.tt.omtrdc.net
 ns1.webwise.org
 ns1.windowsdefende.com
@@ -94581,7 +94578,6 @@ ns1p.net
 ns2.cnzz.com
 ns2.hitbox.com
 ns2.microsoftonlines.net
-ns2.phorm.com
 ns2.tt.omtrdc.net
 ns2.webwise.org
 ns2.windowsdefende.com
@@ -98181,7 +98177,6 @@ ozdfhysr.com
 ozdpxc.com
 ozectynptd.com
 ozelmedikal.com
-ozelmimarsinanmtal.com
 ozjga.top
 ozkbdxdu.icu
 ozkkuy.fabianafilippi.com
@@ -98494,6 +98489,7 @@ p4psearch.china.alibaba.com
 p4r24.eu
 p5.preppypm.com
 p50523.clksite.com
+p52q.cn
 p543.inquirer.com
 p555.cc
 p593.seattlepi.com
@@ -105135,6 +105131,7 @@ punchsub.net
 puncol.com
 pungeywitlet.com
 punishrwy.space
+punjabdevelopersassociation.com.pk
 punkfigured.com
 punkiecrudded.digital
 punmciarskt.com
@@ -106437,6 +106434,7 @@ qreakingoutinteah.xyz
 qreport.qunar.com
 qri2r94eeajr.innovationcast.com
 qring-tms.qq.com
+qrirud.xyz
 qrius.me
 qrjxween.com
 qrlsx.com
@@ -112556,6 +112554,7 @@ saclel.zotapay.com
 sacombank.tt.omtrdc.net
 sacralcabaa.com
 sacrawasat.store
+sacre.cn
 sacredperpetratorbasketball.com
 sacrip.com
 sact.atdmt.com
@@ -115854,6 +115853,7 @@ sergarius.popunder.ru
 sergeantunhealthy.com
 sergey-mavrodi-mmm.net
 sergiohenriquepereira.tt.omtrdc.net
+serhopplace.com
 serial-smotret-online.ru
 serialinfo.ru
 serialwarning.com
@@ -134196,6 +134196,7 @@ toprebates.com
 toprevenuecpmnetwork.com
 toprevenuenetwork.com
 toprxshopplace.com
+toprxst.eu
 topsearcher.com
 topsem.com
 topsepatu.com
@@ -138056,7 +138057,6 @@ traeger.tt.omtrdc.net
 traf-zona.ru
 traf2me.ru
 trafex.net
-traff.com
 traff.ru
 traff0221.com
 traff10wap.com
@@ -142538,6 +142538,7 @@ uyg.tt.omtrdc.net
 uygckiy.cn
 uyivht.robertgraham.us
 uyjhbawd.xyz
+uylab.org
 uym11.xyz
 uymjbn.com
 uyojnhqeipyb.xyz
