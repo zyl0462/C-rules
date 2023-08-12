@@ -773,6 +773,7 @@ IP-CIDR,216.73.80.0/20,no-resolve
 IP-CIDR,5.28.195.163/32,no-resolve
 IP-CIDR,5.28.195.205/32,no-resolve
 IP-CIDR,5.28.195.37/32,no-resolve
+IP-CIDR,5.28.195.80/32,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,91.108.0.0/16,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
