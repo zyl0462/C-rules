@@ -11450,6 +11450,7 @@ ad.bnmla.com
 ad.bobi.tw
 ad.br.doubleclick.net
 ad.browser.qq.com
+ad.buzzvil.com
 ad.byfuh.com
 ad.cacafly.com
 ad.caiyunapp.com
@@ -23698,6 +23699,7 @@ apps.media-lab.ai
 apps.mobilityware.com
 apps.myprepaidcenter.com
 apps.nexus.bazaarvoice.com
+apps.nhk.jp
 apps.nielsen.com
 apps.openshift.sandbox.cdxp-penc.tt.omtrdc.net
 apps.poln.co
@@ -28399,6 +28401,7 @@ bd*-ys.km.com
 bd-china-1.appmobile.cn
 bd-gl.com
 bd-js.baixing.net
+bd-js.duote.com
 bd-js1.2345.com
 bd-nplb01.foresee.com
 bd-nplb02.foresee.com
@@ -43548,6 +43551,7 @@ daeda-iyk.com
 daedaelousscri.com
 daede.cn
 daegis.actonservice.com
+daeis.cn
 daejyre.com
 daenf.cn
 daero.pw
@@ -82164,6 +82168,7 @@ markedcrayon.com
 markedmeasure.com
 markedpail.com
 markerly.com
+market-backend.api.2gis.ru
 market-buster.com
 market-dev.s-onetag.com
 market-keyade.macif.fr
@@ -92218,6 +92223,7 @@ nstoodthestatu.com
 nstracking.com
 nsultingcoe.net
 nsweq.xyz
+nswtojdi.icu
 nsxtob.cn
 nsy.hnzyfs.com
 nsyywkq.com
@@ -98983,6 +98989,7 @@ pixiv.org
 pixkydynuqdxet.com
 pixmg.com
 pixnet-network-falcon.pixanalytics.com
+pixoctopus.pixnet.net
 pixon.ads-pixiv.net
 pixrealm.com
 pixxur.com
@@ -110451,6 +110458,7 @@ screechingfurniture.com
 screechingslip.com
 screechingstove.com
 screen-mates.com
+screen.buzzvil.com
 screen13.com
 screenaddict.thewhizproducts.com
 screenov.site
@@ -114365,6 +114373,7 @@ smemiltiontrk.com
 smenqskfmpfxnb.bid
 smentbrads.info
 smentbradsh.xyz
+smervyfenks.com
 smetc.banfield.com
 smetric.4imprint.com
 smetric.ads.microsoft.com
@@ -142711,6 +142720,7 @@ wrotad.com
 wrotop.com
 wrotov.com
 wrotus.com
+wrpsouf.cn
 wrrzje.com
 wrufer.com
 wrugwj.bakerross.de
@@ -149932,6 +149942,7 @@ yjgqpfj.cn
 yjkyj.cn
 yjnhkd.com
 yjnhndt.com
+yjnkas.com
 yjnqeeocqrs.com
 yjqiqi.com
 yjrjmy.com
@@ -151237,6 +151248,7 @@ zggrxf.life
 zghs.net.cn
 zghsfh.xyz
 zgjckgys.com.cn
+zglmvz.buzz
 zglmvz.xyz
 zgm1.com
 zgnlaigq.fun
