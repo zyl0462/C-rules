@@ -341,6 +341,7 @@ DOMAIN-SUFFIX,amazonaws.com,PROXY
 DOMAIN-SUFFIX,amazonprimevideo.cn,PROXY
 DOMAIN-SUFFIX,amazonprimevideos.com,PROXY
 DOMAIN-SUFFIX,amazontools.com,PROXY
+DOMAIN-SUFFIX,amazontours.com,PROXY
 DOMAIN-SUFFIX,amazonuniversity.jobs,PROXY
 DOMAIN-SUFFIX,amazonvideo.cc,PROXY
 DOMAIN-SUFFIX,amazonvideo.com,PROXY
@@ -3773,6 +3774,7 @@ DOMAIN-SUFFIX,isohunt.com,PROXY
 DOMAIN-SUFFIX,israbox.com,PROXY
 DOMAIN-SUFFIX,issuu.com,PROXY
 DOMAIN-SUFFIX,istars.co.nz,PROXY
+DOMAIN-SUFFIX,istarshine.com,PROXY
 DOMAIN-SUFFIX,istef.info,PROXY
 DOMAIN-SUFFIX,istiqlalhewer.com,PROXY
 DOMAIN-SUFFIX,istockphoto.com,PROXY

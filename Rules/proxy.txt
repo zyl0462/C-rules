@@ -305,6 +305,7 @@
 .amazonprimevideo.cn
 .amazonprimevideos.com
 .amazontools.com
+.amazontours.com
 .amazonuniversity.jobs
 .amazonvideo.cc
 .amazonvideo.com
@@ -3737,6 +3738,7 @@
 .israbox.com
 .issuu.com
 .istars.co.nz
+.istarshine.com
 .istef.info
 .istiqlalhewer.com
 .istockphoto.com
