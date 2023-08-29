@@ -14262,6 +14262,7 @@ ads-admin.hubs.vn
 ads-adv.top
 ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
 ads-api.ft.com
+ads-api.kidsnote.com
 ads-api.playfun.vn
 ads-api.tiktok.com
 ads-api.twitter.com
@@ -27677,6 +27678,7 @@ baidu9635.com
 baidua1.cardbaobao.com
 baidua2.cardbaobao.com
 baiduajbcjkabcav.com
+baiduapp.app
 baidubdvjssv.com
 baidubvjsbvv.com
 baiduccdn1.com
@@ -36463,6 +36465,7 @@ chatntr.com
 chatroll.fr
 chats2023.online
 chattertasty.com
+chauckoo.xyz
 chaudrep.net
 chaugroo.net
 chaukrgukepers.xyz
@@ -36846,6 +36849,7 @@ chubb.tt.omtrdc.net
 chubbycreature.com
 chuckozeas.com
 chugaiwe.net
+chugsorlando.com
 chuhramumper.com
 chui.tristes.mfisswger.com
 chulhawakened.com
@@ -43437,6 +43441,7 @@ d2werg7o2mztut.cloudfront.net
 d2wl3qmk54t3ha.cloudfront.net
 d2wpknqle9nuv8.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
+d2wy8f7a9ursnm.cloudfront.net
 d2x0u7rtw4p89p.cloudfront.net
 d2x19ia47o8gwm.cloudfront.net
 d2xng9e6gymuzr.cloudfront.net
@@ -50554,6 +50559,7 @@ dsas.danawa.com
 dsb.yahoo.co.jp
 dsb6jelx4yhln.cloudfront.net
 dsbahmgppc0j4.cloudfront.net
+dsbjdeh.cn
 dsbt7.com
 dsbzk.comfortykive.xyz
 dscex7u1h4a9a.cloudfront.net
@@ -53001,6 +53007,7 @@ efyt6.com
 eg.gitpapa.com
 eg.light2gr0w.me
 egadvertising.com
+egallsylvate.com
 egamingonline.com
 egamiplatform.tv
 eganilglw.cyou
@@ -57291,6 +57298,7 @@ ffatzebiva.com
 ffb.feihuo.com
 ffbbbdc6d3c353211fe2ba39c9f744cd.com
 ffbjhl.xyz
+ffcclqkmmlmecf.xyz
 ffconf.ecbsn.com
 ffdcpvv.cn
 ffe390afd658c19dcbf707e0597b846d.de
@@ -75845,6 +75853,7 @@ ktdcoy.lyst.it
 ktdlsb.com
 ktggpu.gerarddarel.com
 kthxd.lu.sogou.com
+ktienld.top
 ktivn.uranus.sogou.com
 ktkjmp.com
 ktlrhudvlsu.com
@@ -76531,6 +76540,7 @@ langhort.com
 langren85.com
 langretsahibah.com
 languagelake.com
+languewauchts.com
 lanistaads.com
 lanistaconcepts.com
 laniusburkei.com
@@ -92068,6 +92078,7 @@ nideganta.life
 nideqoa.ru
 nidq.zxin131.cn
 nidredra.net
+nidudihideout.com
 nieae.xyz
 niebiaoyyds.com
 niececordthrone.com
@@ -93440,6 +93451,7 @@ oagnatch.com
 oagudole.net
 oahaurti.com
 oahosaisaign.com
+oaihiiacb.com
 oainternetservices.com
 oaiweznjo.com
 oaizwm.zox.la
@@ -101635,6 +101647,7 @@ pressurespot.com
 prestadsng.com
 prestamex.top
 prestigefunction.com
+prestlyamylan.com
 prestoris.com
 prestsusie.com
 presumeauthorizationcamping.com
@@ -113992,6 +114005,7 @@ shoabsie.xyz
 shoageep.com
 shoagooy.net
 shoahoom.com
+shoaltor.com
 shoawhom.com
 shockadviceinsult.com
 shockeddump.pro
@@ -125514,6 +125528,7 @@ t.elasticsuite.io
 t.eloqua.com
 t.emueagles.com
 t.energyrebateguide.com
+t.enuygun.com
 t.erivedge.com
 t.etraveli.com
 t.everestop.io
@@ -133747,6 +133762,7 @@ tradetracker.net
 trading-ad.net
 trading21s.com
 tradingken.com
+tradingpancreasdevice.com
 traditionallymeasuringwire.com
 traditionallyobjectlessblinked.com
 tradplus.cn
@@ -141123,6 +141139,7 @@ wangzhe.cx
 wangzhichao.info
 wanlyavower.com
 wanmolamchoor.store
+wannessdebus.com
 wannestfooled.com
 wanproxy.127.net
 wansultoud.com
@@ -141445,6 +141462,7 @@ wct.click
 wct.link
 wctv.vod.tt.omtrdc.net
 wcuamsmakq.com
+wcv68kw.com
 wcvyyacmnoamt.com
 wd-edge.sharethis.com
 wd-uk-1.tt.omtrdc.net
