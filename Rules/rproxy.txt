@@ -1440,6 +1440,7 @@ DOMAIN-SUFFIX,control.kochava.com,PROXY
 DOMAIN-SUFFIX,convio.net,PROXY
 DOMAIN-SUFFIX,conviva.com,PROXY
 DOMAIN-SUFFIX,coobay.com,PROXY
+DOMAIN-SUFFIX,cookielaw.org,PROXY
 DOMAIN-SUFFIX,cool18.com,PROXY
 DOMAIN-SUFFIX,coolaler.com,PROXY
 DOMAIN-SUFFIX,coolder.com,PROXY
@@ -1698,7 +1699,6 @@ DOMAIN-SUFFIX,disk.yandex.com,PROXY
 DOMAIN-SUFFIX,disney-asia.com,PROXY
 DOMAIN-SUFFIX,disney-discount.com,PROXY
 DOMAIN-SUFFIX,disney-plus.net,PROXY
-DOMAIN-SUFFIX,disney-portal.my.onetrust.com,PROXY
 DOMAIN-SUFFIX,disney-studio.com,PROXY
 DOMAIN-SUFFIX,disney-studio.net,PROXY
 DOMAIN-SUFFIX,disney.asia,PROXY
@@ -5053,6 +5053,7 @@ DOMAIN-SUFFIX,onedrive.live.com,PROXY
 DOMAIN-SUFFIX,onedumb.com,PROXY
 DOMAIN-SUFFIX,onejav.com,PROXY
 DOMAIN-SUFFIX,onenote.com,PROXY
+DOMAIN-SUFFIX,onetrust.com,PROXY
 DOMAIN-SUFFIX,onion.city,PROXY
 DOMAIN-SUFFIX,onion.ly,PROXY
 DOMAIN-SUFFIX,online.recoveryversion.org,PROXY
@@ -6644,6 +6645,7 @@ DOMAIN-SUFFIX,torguard.net,PROXY
 DOMAIN-SUFFIX,torlock.com,PROXY
 DOMAIN-SUFFIX,torproject.org,PROXY
 DOMAIN-SUFFIX,torrentkitty.tv,PROXY
+DOMAIN-SUFFIX,torrentmac.net,PROXY
 DOMAIN-SUFFIX,torrentprivacy.com,PROXY
 DOMAIN-SUFFIX,torrentproject.se,PROXY
 DOMAIN-SUFFIX,torrenty.org,PROXY

@@ -1,6 +1,6 @@
-#2023/09/12 20:19:25(UTC/GMT+08:00)
-reject rules(153922+819): 154741
-proxy rules(7860+0): 7860
+#2023/09/13 08:48:07(UTC/GMT+08:00)
+reject rules(154741-23260): 131481
+proxy rules(7860+2): 7862
 social rules(787+0): 787
 video rules(210+0): 210
-total rules(162779+819): 163598
+total rules(163598-23258): 140340

@@ -1404,6 +1404,7 @@
 .convio.net
 .conviva.com
 .coobay.com
+.cookielaw.org
 .cool18.com
 .coolaler.com
 .coolder.com
@@ -1662,7 +1663,6 @@
 .disney-asia.com
 .disney-discount.com
 .disney-plus.net
-.disney-portal.my.onetrust.com
 .disney-studio.com
 .disney-studio.net
 .disney.asia
@@ -5017,6 +5017,7 @@
 .onedumb.com
 .onejav.com
 .onenote.com
+.onetrust.com
 .onion.city
 .onion.ly
 .online.recoveryversion.org
@@ -6608,6 +6609,7 @@
 .torlock.com
 .torproject.org
 .torrentkitty.tv
+.torrentmac.net
 .torrentprivacy.com
 .torrentproject.se
 .torrenty.org
