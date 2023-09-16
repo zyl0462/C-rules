@@ -328,7 +328,6 @@
 .amnestyusa.org
 .amnyemachen.org
 .amoiist.com
-.amplitude.com
 .ampproject.com
 .ampproject.net
 .ampproject.org
@@ -389,6 +388,7 @@
 .api-secure.recaptcha.net
 .api-verify.recaptcha.net
 .api.ai
+.api.amplitude.com
 .api.dropboxapi.com
 .api.linksalpha.com
 .api.mixpanel.com
@@ -5422,7 +5422,6 @@
 .purplelotus.org
 .purpose.nike.com
 .pursuestar.com
-.pushbullet.com
 .pushchinawall.com
 .pussthecat.org
 .pussyspace.com
