@@ -364,6 +364,7 @@ DOMAIN-SUFFIX,amnesty.tw,PROXY
 DOMAIN-SUFFIX,amnestyusa.org,PROXY
 DOMAIN-SUFFIX,amnyemachen.org,PROXY
 DOMAIN-SUFFIX,amoiist.com,PROXY
+DOMAIN-SUFFIX,amplitude.com,PROXY
 DOMAIN-SUFFIX,ampproject.com,PROXY
 DOMAIN-SUFFIX,ampproject.net,PROXY
 DOMAIN-SUFFIX,ampproject.org,PROXY
@@ -424,7 +425,6 @@ DOMAIN-SUFFIX,apetube.com,PROXY
 DOMAIN-SUFFIX,api-secure.recaptcha.net,PROXY
 DOMAIN-SUFFIX,api-verify.recaptcha.net,PROXY
 DOMAIN-SUFFIX,api.ai,PROXY
-DOMAIN-SUFFIX,api.amplitude.com,PROXY
 DOMAIN-SUFFIX,api.dropboxapi.com,PROXY
 DOMAIN-SUFFIX,api.linksalpha.com,PROXY
 DOMAIN-SUFFIX,api.mixpanel.com,PROXY
@@ -1305,6 +1305,7 @@ DOMAIN-SUFFIX,civilhrfront.org,PROXY
 DOMAIN-SUFFIX,civiliangunner.com,PROXY
 DOMAIN-SUFFIX,civilmedia.tw,PROXY
 DOMAIN-SUFFIX,civisec.org,PROXY
+DOMAIN-SUFFIX,civitai.com,PROXY
 DOMAIN-SUFFIX,cjb.net,PROXY
 DOMAIN-SUFFIX,ck101.com,PROXY
 DOMAIN-SUFFIX,cl.d0z.net,PROXY
@@ -4121,6 +4122,7 @@ DOMAIN-SUFFIX,lflinkup.org,PROXY
 DOMAIN-SUFFIX,lfpcontent.com,PROXY
 DOMAIN-SUFFIX,lhakar.org,PROXY
 DOMAIN-SUFFIX,lhasocialwork.org,PROXY
+DOMAIN-SUFFIX,li.taipei,PROXY
 DOMAIN-SUFFIX,liangyou.net,PROXY
 DOMAIN-SUFFIX,liangzhichuanmei.com,PROXY
 DOMAIN-SUFFIX,lianyue.net,PROXY
@@ -4503,6 +4505,7 @@ DOMAIN-SUFFIX,monar.ch,PROXY
 DOMAIN-SUFFIX,mondex.org,PROXY
 DOMAIN-SUFFIX,money-link.com.tw,PROXY
 DOMAIN-SUFFIX,moneyhome.biz,PROXY
+DOMAIN-SUFFIX,monica.im,PROXY
 DOMAIN-SUFFIX,monitorchina.org,PROXY
 DOMAIN-SUFFIX,monitorware.com,PROXY
 DOMAIN-SUFFIX,monlamit.org,PROXY
@@ -5458,6 +5461,7 @@ DOMAIN-SUFFIX,purevpn.com,PROXY
 DOMAIN-SUFFIX,purplelotus.org,PROXY
 DOMAIN-SUFFIX,purpose.nike.com,PROXY
 DOMAIN-SUFFIX,pursuestar.com,PROXY
+DOMAIN-SUFFIX,pushbullet.com,PROXY
 DOMAIN-SUFFIX,pushchinawall.com,PROXY
 DOMAIN-SUFFIX,pussthecat.org,PROXY
 DOMAIN-SUFFIX,pussyspace.com,PROXY
@@ -6665,7 +6669,6 @@ DOMAIN-SUFFIX,tradingview.com,PROXY
 DOMAIN-SUFFIX,trakt.tv,PROXY
 DOMAIN-SUFFIX,trans.wenweipo.com,PROXY
 DOMAIN-SUFFIX,translate.goog,PROXY
-DOMAIN-SUFFIX,translate.google,PROXY
 DOMAIN-SUFFIX,transparency.org,PROXY
 DOMAIN-SUFFIX,treemall.com.tw,PROXY
 DOMAIN-SUFFIX,trello.com,PROXY
@@ -7191,7 +7194,6 @@ DOMAIN-SUFFIX,voxmedia.com,PROXY
 DOMAIN-SUFFIX,voxops.net,PROXY
 DOMAIN-SUFFIX,voy.com,PROXY
 DOMAIN-SUFFIX,vpn.ac,PROXY
-DOMAIN-SUFFIX,vpn.cjb.net,PROXY
 DOMAIN-SUFFIX,vpn.cmu.edu,PROXY
 DOMAIN-SUFFIX,vpn.sv.cmu.edu,PROXY
 DOMAIN-SUFFIX,vpn4all.com,PROXY

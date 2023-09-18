@@ -328,6 +328,7 @@
 .amnestyusa.org
 .amnyemachen.org
 .amoiist.com
+.amplitude.com
 .ampproject.com
 .ampproject.net
 .ampproject.org
@@ -388,7 +389,6 @@
 .api-secure.recaptcha.net
 .api-verify.recaptcha.net
 .api.ai
-.api.amplitude.com
 .api.dropboxapi.com
 .api.linksalpha.com
 .api.mixpanel.com
@@ -1269,6 +1269,7 @@
 .civiliangunner.com
 .civilmedia.tw
 .civisec.org
+.civitai.com
 .cjb.net
 .ck101.com
 .cl.d0z.net
@@ -4085,6 +4086,7 @@
 .lfpcontent.com
 .lhakar.org
 .lhasocialwork.org
+.li.taipei
 .liangyou.net
 .liangzhichuanmei.com
 .lianyue.net
@@ -4467,6 +4469,7 @@
 .mondex.org
 .money-link.com.tw
 .moneyhome.biz
+.monica.im
 .monitorchina.org
 .monitorware.com
 .monlamit.org
@@ -5422,6 +5425,7 @@
 .purplelotus.org
 .purpose.nike.com
 .pursuestar.com
+.pushbullet.com
 .pushchinawall.com
 .pussthecat.org
 .pussyspace.com
@@ -6629,7 +6633,6 @@
 .trakt.tv
 .trans.wenweipo.com
 .translate.goog
-.translate.google
 .transparency.org
 .treemall.com.tw
 .trello.com
@@ -7155,7 +7158,6 @@
 .voxops.net
 .voy.com
 .vpn.ac
-.vpn.cjb.net
 .vpn.cmu.edu
 .vpn.sv.cmu.edu
 .vpn4all.com
