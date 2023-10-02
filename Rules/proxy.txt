@@ -6536,6 +6536,7 @@ appspot.com
 appsto.re
 aptoide.com
 aqi.aqicn.org
+ar.hao123.com
 arcgis.com
 archive.fo
 archive.is
@@ -10523,6 +10524,7 @@ onmoon.com
 onmoon.net
 onmypc.biz
 onmypc.info
+onmypc.net
 onmypc.org
 onmypc.us
 onthehunt.com
