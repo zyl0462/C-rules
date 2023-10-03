@@ -391,7 +391,6 @@ DOMAIN,appspot.com,PROXY
 DOMAIN,appsto.re,PROXY
 DOMAIN,aptoide.com,PROXY
 DOMAIN,aqi.aqicn.org,PROXY
-DOMAIN,ar.hao123.com,PROXY
 DOMAIN,arcgis.com,PROXY
 DOMAIN,archive.fo,PROXY
 DOMAIN,archive.is,PROXY
@@ -4379,7 +4378,6 @@ DOMAIN,onmoon.com,PROXY
 DOMAIN,onmoon.net,PROXY
 DOMAIN,onmypc.biz,PROXY
 DOMAIN,onmypc.info,PROXY
-DOMAIN,onmypc.net,PROXY
 DOMAIN,onmypc.org,PROXY
 DOMAIN,onmypc.us,PROXY
 DOMAIN,onthehunt.com,PROXY
