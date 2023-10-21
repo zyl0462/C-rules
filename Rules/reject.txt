@@ -4140,6 +4140,7 @@
 44dmobileapp.widget.atlassian.tt.omtrdc.net
 44hn-ohio.widget.atlassian-app.eu.tt.omtrdc.net
 44jq.cn
+44jui.top
 44pv.com
 44q.com
 44r9fl.xyz
@@ -11234,6 +11235,7 @@ ad*.tmgrup.com.tr
 ad-*.appacc.dbankedge.cn
 ad-1258444056.cos.accelerate.myqcloud.com
 ad-a8.www.zeiri4.com
+ad-adapex.io
 ad-admin.vnay.vn
 ad-android.51wnl.com
 ad-apac.doubleclick.net
@@ -29625,6 +29627,7 @@ bzrpvk.com
 bzthxv.xyz
 bzuaqh.roan.nl
 bzuyxqrmndod.com
+bzvhgbr.xyz
 bzwdksdngjhay.com
 bzwo2lmwioxa.com
 bzxvtj.xyz
@@ -50941,6 +50944,7 @@ favoritetonic.com
 favourcountingmixture.com
 faw7.top
 fawningforegut.life
+faxffjo.com
 faxifa.xyz
 faxqaaawyb.com
 fayijxrs.com
@@ -52442,6 +52446,7 @@ foheltou.com
 foigtiqvikc.xyz
 foirkrt.icu
 foisml.com
+foizico.cn
 fojdwszsjckwl.com
 fojta.tt.omtrdc.net
 fokbrd.impo.ch
@@ -52918,6 +52923,7 @@ fpssl-s3.hb-api.tt.omtrdc.net
 fpssl-tt-stage5.hb-api.tt.omtrdc.net
 fpt.inxinternational.com
 fpt.microsoft.com
+fptdxkm.com
 fptls.com
 fptls2.com
 fptls3.com
@@ -58335,6 +58341,7 @@ hcenc.com
 hcf.tt.omtrdc.net
 hcgbhq.com
 hchlqx.ghbass.com
+hchuviq.cn
 hciea.xyz
 hcjarn.parfumsclub.de
 hcjpbc.intouchweekly.com
@@ -68072,6 +68079,7 @@ klcuxykjrfto.xyz
 kleankanteenbottle.com
 klenhosnc.com
 klert.com
+klfbnklddfbkn.com
 klfxq.kieedi.foosheng.com
 klgloidbii.test.att.hb.tt.omtrdc.net
 klgzzs.cn
@@ -77165,6 +77173,7 @@ mcs-va-*.tiktokv.com
 mcs-va.tiktokv.com
 mcs.snssdk.com
 mcs.us.tiktokv.com
+mcs.zijieapi.com
 mcs1-3f72.tt.omtrdc.net
 mcsglobalcargo.com
 mcstest-as-17p.cable.tt.omtrdc.net
@@ -83394,6 +83403,7 @@ netlify-rum.netlify.app
 netliker.com
 netload2.com
 netloader.cc
+netlog.ru
 netmailcsr11.net.anwalt.de
 netmera-web.com
 netminers.dk
@@ -103663,6 +103673,7 @@ shinystat.com
 shinystat.it
 shiokambing2.com
 shiowbafrrra.com
+shipostrich.com
 shippinginsights.com
 shippingswimsuitflog.com
 shippingwatch.tns-gallup.dk
@@ -137023,6 +137034,7 @@ za-ads.de
 za-go.experian.com
 za.baomoi.com
 za.qeeq.com
+za.zalo.me
 za.zapps.vn
 za.zdn.vn
 za.zingmp3.vn
@@ -138319,6 +138331,7 @@ zzy1.mipujia.com
 zzy1.quyaoya.com
 zzyanhushi.com
 zzycj.com
+zzyy17.top
 zzyy19.top
 zzyy20.top
 zzzhuoxiaqu.online
