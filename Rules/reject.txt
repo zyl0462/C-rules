@@ -21931,6 +21931,7 @@ aruyevdqsnd.xyz
 arvb.ewtcbedtmx.ru
 arvb.gamz48qlok.ru
 arvetellefsen.no
+arvigorothan.com
 arvossold.website
 arvvifnkgu.test.att.hb.tt.omtrdc.net
 arwartortleer.com
@@ -30019,7 +30020,6 @@ c2shb.ssp.yahoo.com
 c3.gostats.cn
 c3.moogos.com
 c3.myapkcdn.in
-c303.pw
 c39ed4de0b.com
 c3daf7c22c.com
 c3ecfc3556.com
@@ -34602,6 +34602,7 @@ collector-*.pxchk.net
 collector-*.tvsquared.com
 collector-analytics.efigence.com
 collector-api.99designs.com
+collector-api.frspecifics.com
 collector-cdn.github.com
 collector-dev.cdp-dev.cnn.com
 collector-hpn.ghostery.net
@@ -39187,7 +39188,6 @@ darren01.oss-cn-beijing.aliyuncs.com
 dartg665moetyor.com
 dartimyl.com
 dartonim.com
-darts-ads.telkom.co.id
 dartsearch-cn.net
 darvorn.com
 darzeegobble.com
@@ -45770,6 +45770,7 @@ dunjakke-no.com
 dunlopfermi.com
 dunnedemicant.com
 dunowmymmexmd.com
+dunrnd.com
 dunta.ru
 duobyj.icu
 duoduo.net
@@ -53393,6 +53394,7 @@ frightenedpotato.com
 frightening-crack.pro
 frightening-lesson.pro
 frilly-number.pro
+fringesdurocs.com
 fripth.xyz
 frisablestrk.com
 friskbiscuit.com
@@ -55222,6 +55224,7 @@ ghastlyoffer.com
 ghastlyrejectionrest.com
 ghattiwongsky.com
 ghatwalplunker.live
+ghbdsbfd.com
 ghbskyb.hb-api.tt.omtrdc.net
 ghdlry.greetz.nl
 gheraosonger.com
@@ -55832,6 +55835,7 @@ gnrmty.eurovaistine.lt
 gnrnws.cn
 gns-usa.e.tt.omtrdc.net
 gns2.signup.tt.omtrdc.net
+gnuoipb.cn
 gnurpfjolmompl.com
 gnut2.k8s.tt.omtrdc.net
 gnwaqf.shotworks.jp
@@ -60813,6 +60817,7 @@ hypemakers.net
 hyperactivate.com
 hyperadx.com
 hyperbanner.net
+hypercounter.com
 hyperdx.io
 hypere.tt.omtrdc.net
 hyperlinksecure.com
@@ -67194,6 +67199,7 @@ juju.tt.omtrdc.net
 jujwhjmtidgp.com
 julia-liz.com
 julidanroebuck.com
+juljrd.xyz
 julkkoazfkh.com
 jullurdpysu.com
 jullyambery.net
@@ -103120,6 +103126,7 @@ selectionship.com
 selectivesummer.com
 selectjeeps.acutx.org
 selectmedia.asia
+selectofmychoices.com
 selectornews.com
 selectr.net
 selectroduced.com
@@ -110122,6 +110129,7 @@ srd3-hnd.tt.omtrdc.net
 sreamyourvids.online
 sreamyourvids.space
 srefrukaxxa.com
+sregfle.cn
 srepdata.13wmaz.com
 srepdata.armytimes.com
 srepdata.battlecreekenquirer.com
@@ -121945,7 +121953,10 @@ tracker.joongang.co.kr
 tracker.joost.com
 tracker.kantan-access.com
 tracker.keywordintent.com
+tracker.kollega.open-analytics.se
 tracker.kugou.com
+tracker.kulturradet.open-analytics.se
+tracker.lakemedelsverket.open-analytics.se
 tracker.lazada.co.id
 tracker.lolalytics.com
 tracker.marinsoftware.com
@@ -122000,6 +122011,7 @@ tracker.thinkindot.com
 tracker.timesgroup.com
 tracker.tolvnow.com
 tracker.toolpg.com
+tracker.transportstyrelsen.open-analytics.se
 tracker.tubecj.com
 tracker.ulivetv.net
 tracker.unbxdapi.com
@@ -130629,7 +130641,6 @@ welcome-mfa.welcome.tt.omtrdc.net
 welcome.ciscopowerofpartnership.com
 welcome.e.chiefs.com
 welcome.floridagators.com
-welcome.indihome.co.id
 welcome.item24.be
 welcome.item24.cz
 welcome.item24.de
@@ -130730,6 +130741,7 @@ wessst.tt.omtrdc.net
 west-api.tt.omtrdc.net
 west.bidtellect.com
 west.click
+west.statisticplatform.com
 west001.com
 westa-house.wgi.tt.omtrdc.net
 westa-lux.tt.omtrdc.net
