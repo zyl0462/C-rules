@@ -1,3 +1,4 @@
+DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv,PROXY
 DOMAIN,api.okzy.tv,PROXY
 DOMAIN,api.waqi.info,PROXY
 DOMAIN,apm-misaka.biliapi.net,PROXY
@@ -5,10 +6,13 @@ DOMAIN,apple.comscoreresearch.com,PROXY
 DOMAIN,aqi.aqicn.org,PROXY
 DOMAIN,assets-priconne-redive-us.akamaized.net,PROXY
 DOMAIN,bcbolt446c5271-a.akamaihd.net,PROXY
+DOMAIN,cache.video.iqiyi.com,PROXY
 DOMAIN,chat.openai.com.cdn.cloudflare.net,PROXY
+DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,PROXY
 DOMAIN,cloud.oracle.com,PROXY
 DOMAIN,cs428.wpc.edgecastcdn.net,PROXY
 DOMAIN,cvws.icloud-content.com,PROXY
+DOMAIN,dashasiafox.akamaized.netflix,PROXY
 DOMAIN,daznfeeds.com.edgekey.net,PROXY
 DOMAIN,dca-lm-livedazn.secure.footprint.net,PROXY
 DOMAIN,developer.apple.com,PROXY
@@ -26,13 +30,13 @@ DOMAIN,ktpx.amazon.com,PROXY
 DOMAIN,news-client.apple.com,PROXY
 DOMAIN,news-edge.apple.com,PROXY
 DOMAIN,news-events.apple.com,PROXY
+DOMAIN,ocvideo.apple.com,PROXY
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,PROXY
 DOMAIN,openaicomproductionae4b.blob.core.windows.net,PROXY
 DOMAIN,p.bstarstatic.com,PROXY
 DOMAIN,rpg.pic-imges.com,PROXY
 DOMAIN,rthklive2-lh.akamaihd.net,PROXY
 DOMAIN,testflight.apple.com,PROXY
-DOMAIN,tv.applemusic.com,PROXY
 DOMAIN,voice.telephony.goog,PROXY
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,030buy.com,PROXY
@@ -118,6 +122,7 @@ DOMAIN-SUFFIX,4bluestones.biz,PROXY
 DOMAIN-SUFFIX,4chan.com,PROXY
 DOMAIN-SUFFIX,4dq.com,PROXY
 DOMAIN-SUFFIX,4everproxy.com,PROXY
+DOMAIN-SUFFIX,4gtv.tv,PROXY
 DOMAIN-SUFFIX,4irc.com,PROXY
 DOMAIN-SUFFIX,4mydomain.com,PROXY
 DOMAIN-SUFFIX,4pu.com,PROXY
@@ -363,7 +368,6 @@ DOMAIN-SUFFIX,amnesty.tw,PROXY
 DOMAIN-SUFFIX,amnestyusa.org,PROXY
 DOMAIN-SUFFIX,amnyemachen.org,PROXY
 DOMAIN-SUFFIX,amoiist.com,PROXY
-DOMAIN-SUFFIX,amplitude.com,PROXY
 DOMAIN-SUFFIX,ampproject.com,PROXY
 DOMAIN-SUFFIX,ampproject.net,PROXY
 DOMAIN-SUFFIX,ampproject.org,PROXY
@@ -424,6 +428,7 @@ DOMAIN-SUFFIX,apetube.com,PROXY
 DOMAIN-SUFFIX,api-secure.recaptcha.net,PROXY
 DOMAIN-SUFFIX,api-verify.recaptcha.net,PROXY
 DOMAIN-SUFFIX,api.ai,PROXY
+DOMAIN-SUFFIX,api.amplitude.com,PROXY
 DOMAIN-SUFFIX,api.dropboxapi.com,PROXY
 DOMAIN-SUFFIX,api.linksalpha.com,PROXY
 DOMAIN-SUFFIX,api.mixpanel.com,PROXY
@@ -458,6 +463,7 @@ DOMAIN-SUFFIX,applecensorship.com,PROXY
 DOMAIN-SUFFIX,appledaily.com,PROXY
 DOMAIN-SUFFIX,appledaily.com.hk,PROXY
 DOMAIN-SUFFIX,appledaily.com.tw,PROXY
+DOMAIN-SUFFIX,applemusic.com,PROXY
 DOMAIN-SUFFIX,appshopper.com,PROXY
 DOMAIN-SUFFIX,appsocks.net,PROXY
 DOMAIN-SUFFIX,appspot.com,PROXY
@@ -723,6 +729,7 @@ DOMAIN-SUFFIX,bignews.org,PROXY
 DOMAIN-SUFFIX,bigone.com,PROXY
 DOMAIN-SUFFIX,bigsound.org,PROXY
 DOMAIN-SUFFIX,bild.de,PROXY
+DOMAIN-SUFFIX,bilibili.tv,PROXY
 DOMAIN-SUFFIX,biliintl.com,PROXY
 DOMAIN-SUFFIX,biliworld.com,PROXY
 DOMAIN-SUFFIX,billypan.com,PROXY
@@ -1469,7 +1476,6 @@ DOMAIN-SUFFIX,creativelab5.com,PROXY
 DOMAIN-SUFFIX,crisisresponse.google,PROXY
 DOMAIN-SUFFIX,crisp.chat,PROXY
 DOMAIN-SUFFIX,cristyli.com,PROXY
-DOMAIN-SUFFIX,crittercism.com,PROXY
 DOMAIN-SUFFIX,crocotube.com,PROXY
 DOMAIN-SUFFIX,crossfire.co.kr,PROXY
 DOMAIN-SUFFIX,crossthewall.net,PROXY
@@ -3761,6 +3767,7 @@ DOMAIN-SUFFIX,islamtoday.net,PROXY
 DOMAIN-SUFFIX,ismaelan.com,PROXY
 DOMAIN-SUFFIX,ismalltits.com,PROXY
 DOMAIN-SUFFIX,ismprofessional.net,PROXY
+DOMAIN-SUFFIX,isnssdk.com,PROXY
 DOMAIN-SUFFIX,isohunt.com,PROXY
 DOMAIN-SUFFIX,israbox.com,PROXY
 DOMAIN-SUFFIX,issuu.com,PROXY
@@ -5897,6 +5904,7 @@ DOMAIN-SUFFIX,shitaotv.org,PROXY
 DOMAIN-SUFFIX,shixiao.org,PROXY
 DOMAIN-SUFFIX,shizhao.org,PROXY
 DOMAIN-SUFFIX,shkspr.mobi,PROXY
+DOMAIN-SUFFIX,sho.com,PROXY
 DOMAIN-SUFFIX,shodanhq.com,PROXY
 DOMAIN-SUFFIX,shooshtime.com,PROXY
 DOMAIN-SUFFIX,shop2000.com.tw,PROXY
@@ -6843,6 +6851,7 @@ DOMAIN-SUFFIX,twitcause.com,PROXY
 DOMAIN-SUFFIX,twitch-ext.rootonline.de,PROXY
 DOMAIN-SUFFIX,twitch.tv,PROXY
 DOMAIN-SUFFIX,twitchcdn.net,PROXY
+DOMAIN-SUFFIX,twitchsvc.net,PROXY
 DOMAIN-SUFFIX,twitgether.com,PROXY
 DOMAIN-SUFFIX,twitgoo.com,PROXY
 DOMAIN-SUFFIX,twitiq.com,PROXY
@@ -7075,6 +7084,7 @@ DOMAIN-SUFFIX,viacom.com,PROXY
 DOMAIN-SUFFIX,viacomcbs.com,PROXY
 DOMAIN-SUFFIX,viacomcbspressexpress.com,PROXY
 DOMAIN-SUFFIX,viber.com,PROXY
+DOMAIN-SUFFIX,viblast.com,PROXY
 DOMAIN-SUFFIX,vica.info,PROXY
 DOMAIN-SUFFIX,victimsofcommunism.org,PROXY
 DOMAIN-SUFFIX,vid.me,PROXY

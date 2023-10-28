@@ -82,6 +82,7 @@
 .4chan.com
 .4dq.com
 .4everproxy.com
+.4gtv.tv
 .4irc.com
 .4mydomain.com
 .4pu.com
@@ -327,7 +328,6 @@
 .amnestyusa.org
 .amnyemachen.org
 .amoiist.com
-.amplitude.com
 .ampproject.com
 .ampproject.net
 .ampproject.org
@@ -388,6 +388,7 @@
 .api-secure.recaptcha.net
 .api-verify.recaptcha.net
 .api.ai
+.api.amplitude.com
 .api.dropboxapi.com
 .api.linksalpha.com
 .api.mixpanel.com
@@ -422,6 +423,7 @@
 .appledaily.com
 .appledaily.com.hk
 .appledaily.com.tw
+.applemusic.com
 .appshopper.com
 .appsocks.net
 .appspot.com
@@ -687,6 +689,7 @@
 .bigone.com
 .bigsound.org
 .bild.de
+.bilibili.tv
 .biliintl.com
 .biliworld.com
 .billypan.com
@@ -1433,7 +1436,6 @@
 .crisisresponse.google
 .crisp.chat
 .cristyli.com
-.crittercism.com
 .crocotube.com
 .crossfire.co.kr
 .crossthewall.net
@@ -3725,6 +3727,7 @@
 .ismaelan.com
 .ismalltits.com
 .ismprofessional.net
+.isnssdk.com
 .isohunt.com
 .israbox.com
 .issuu.com
@@ -5861,6 +5864,7 @@
 .shixiao.org
 .shizhao.org
 .shkspr.mobi
+.sho.com
 .shodanhq.com
 .shooshtime.com
 .shop2000.com.tw
@@ -6807,6 +6811,7 @@
 .twitch-ext.rootonline.de
 .twitch.tv
 .twitchcdn.net
+.twitchsvc.net
 .twitgether.com
 .twitgoo.com
 .twitiq.com
@@ -7039,6 +7044,7 @@
 .viacomcbs.com
 .viacomcbspressexpress.com
 .viber.com
+.viblast.com
 .vica.info
 .victimsofcommunism.org
 .vid.me
@@ -7823,6 +7829,7 @@
 .zzcartoon.com
 .zzcloud.me
 .zzux.com
+akmcdnoversea-tw.inter.ptqy.gitv.tv
 api.okzy.tv
 api.waqi.info
 apm-misaka.biliapi.net
@@ -7830,10 +7837,13 @@ apple.comscoreresearch.com
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
 bcbolt446c5271-a.akamaihd.net
+cache.video.iqiyi.com
 chat.openai.com.cdn.cloudflare.net
+chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
 cloud.oracle.com
 cs428.wpc.edgecastcdn.net
 cvws.icloud-content.com
+dashasiafox.akamaized.netflix
 daznfeeds.com.edgekey.net
 dca-lm-livedazn.secure.footprint.net
 developer.apple.com
@@ -7851,11 +7861,11 @@ ktpx.amazon.com
 news-client.apple.com
 news-edge.apple.com
 news-events.apple.com
+ocvideo.apple.com
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaicomproductionae4b.blob.core.windows.net
 p.bstarstatic.com
 rpg.pic-imges.com
 rthklive2-lh.akamaihd.net
 testflight.apple.com
-tv.applemusic.com
 voice.telephony.goog

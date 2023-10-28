@@ -1,3 +1,4 @@
+DOMAIN,ai.cn
 DOMAIN-KEYWORD,appspot
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,gmail
@@ -575,6 +576,7 @@ DOMAIN-SUFFIX,keytransparency.com
 DOMAIN-SUFFIX,keytransparency.foo
 DOMAIN-SUFFIX,keytransparency.org
 DOMAIN-SUFFIX,lanternal.com
+DOMAIN-SUFFIX,legra.ph
 DOMAIN-SUFFIX,like.com
 DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,material.io
