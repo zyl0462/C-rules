@@ -1,6 +1,6 @@
-#2023/10/28 20:17:22(UTC/GMT+08:00)
-reject rules(139110+11): 139121
+#2023/10/29 08:51:19(UTC/GMT+08:00)
+reject rules(139121-168): 138953
 proxy rules(7871+0): 7871
-social rules(789+0): 789
+social rules(789-3): 786
 video rules(215+0): 215
-total rules(147985+11): 147996
+total rules(147996-171): 147825
