@@ -1130,6 +1130,7 @@ DOMAIN-SUFFIX,cdn-images.mailchimp.com,PROXY
 DOMAIN-SUFFIX,cdn.angruo.com,PROXY
 DOMAIN-SUFFIX,cdn.assets.lfpcontent.com,PROXY
 DOMAIN-SUFFIX,cdn.helixstudios.net,PROXY
+DOMAIN-SUFFIX,cdn.oaistatic.com,PROXY
 DOMAIN-SUFFIX,cdn.optimizely.com,PROXY
 DOMAIN-SUFFIX,cdn.printfriendly.com,PROXY
 DOMAIN-SUFFIX,cdn.seatguru.com,PROXY
@@ -1179,6 +1180,7 @@ DOMAIN-SUFFIX,channel5.com,PROXY
 DOMAIN-SUFFIX,channelnewsasia.com,PROXY
 DOMAIN-SUFFIX,chaoex.com,PROXY
 DOMAIN-SUFFIX,chapm25.com,PROXY
+DOMAIN-SUFFIX,chatgpt.com,PROXY
 DOMAIN-SUFFIX,chatnook.com,PROXY
 DOMAIN-SUFFIX,chaturbate.com,PROXY
 DOMAIN-SUFFIX,checkgfw.com,PROXY

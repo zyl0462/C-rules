@@ -1090,6 +1090,7 @@
 .cdn.angruo.com
 .cdn.assets.lfpcontent.com
 .cdn.helixstudios.net
+.cdn.oaistatic.com
 .cdn.optimizely.com
 .cdn.printfriendly.com
 .cdn.seatguru.com
@@ -1139,6 +1140,7 @@
 .channelnewsasia.com
 .chaoex.com
 .chapm25.com
+.chatgpt.com
 .chatnook.com
 .chaturbate.com
 .checkgfw.com
