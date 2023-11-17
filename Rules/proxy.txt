@@ -1090,7 +1090,6 @@
 .cdn.angruo.com
 .cdn.assets.lfpcontent.com
 .cdn.helixstudios.net
-.cdn.oaistatic.com
 .cdn.optimizely.com
 .cdn.printfriendly.com
 .cdn.seatguru.com

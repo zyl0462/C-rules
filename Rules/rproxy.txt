@@ -1130,7 +1130,6 @@ DOMAIN-SUFFIX,cdn-images.mailchimp.com,PROXY
 DOMAIN-SUFFIX,cdn.angruo.com,PROXY
 DOMAIN-SUFFIX,cdn.assets.lfpcontent.com,PROXY
 DOMAIN-SUFFIX,cdn.helixstudios.net,PROXY
-DOMAIN-SUFFIX,cdn.oaistatic.com,PROXY
 DOMAIN-SUFFIX,cdn.optimizely.com,PROXY
 DOMAIN-SUFFIX,cdn.printfriendly.com,PROXY
 DOMAIN-SUFFIX,cdn.seatguru.com,PROXY
