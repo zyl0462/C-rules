@@ -5281,6 +5281,7 @@
 8chzga.v.admaster.com.cn
 8cnd.com
 8coins.net
+8d07a.xyz
 8d1dce99ab.com
 8d3e6ea132.com
 8d4b.pandasuite.io
@@ -15433,6 +15434,7 @@ afgzipohma.com
 afhjxb.flaconi.de
 afhleads.keurig.ca
 afi-b.com
+afi-thor.com
 afi.biyou.web-marketing.ai
 afi.iino.life
 afi.school.web-marketing.ai
@@ -17416,6 +17418,7 @@ analytics-cms.whitebeard.me
 analytics-coletor-site.ojc.com.br
 analytics-consent-manager-v2-prod.azureedge.net
 analytics-consent-manager.azureedge.net
+analytics-debugger.com
 analytics-egain.com
 analytics-eu.clickdimensions.com
 analytics-events.inshorts.com
@@ -45991,6 +45994,7 @@ elegant-creator.com
 elegant-feedback.com
 elegantkhamsin.life
 elegiachalo.website
+elemea.xyz
 elementalantecedent.com
 elementarydrypoverty.com
 elements.video
