@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN,ai.cn
+  - DOMAIN,static.cloudflareinsights.com
   - DOMAIN-KEYWORD,appspot
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,gmail
@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,adwordsexpress.com
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,ai.ytimg.com
+  - DOMAIN-SUFFIX,algolia.net
   - DOMAIN-SUFFIX,amp.dev
   - DOMAIN-SUFFIX,ampproject.com
   - DOMAIN-SUFFIX,ampproject.net
@@ -39,6 +40,7 @@ payload:
   - DOMAIN-SUFFIX,androidtv.com
   - DOMAIN-SUFFIX,angulardart.org
   - DOMAIN-SUFFIX,api.ai
+  - DOMAIN-SUFFIX,api.statsig.com
   - DOMAIN-SUFFIX,apigee.com
   - DOMAIN-SUFFIX,app-measurement-cn.com
   - DOMAIN-SUFFIX,app-measurement.com
@@ -139,6 +141,7 @@ payload:
   - DOMAIN-SUFFIX,bumptunes.com
   - DOMAIN-SUFFIX,campuslondon.com
   - DOMAIN-SUFFIX,capitalg.com
+  - DOMAIN-SUFFIX,cdn.cloudflare.net
   - DOMAIN-SUFFIX,certificate-transparency.dev
   - DOMAIN-SUFFIX,certificate-transparency.org
   - DOMAIN-SUFFIX,challenges.cloudflare.com
@@ -551,6 +554,7 @@ payload:
   - DOMAIN-SUFFIX,keytransparency.foo
   - DOMAIN-SUFFIX,keytransparency.org
   - DOMAIN-SUFFIX,lanternal.com
+  - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,legra.ph
   - DOMAIN-SUFFIX,like.com
   - DOMAIN-SUFFIX,ly
@@ -574,8 +578,11 @@ payload:
   - DOMAIN-SUFFIX,nexus
   - DOMAIN-SUFFIX,ni
   - DOMAIN-SUFFIX,nomulus.foo
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,oasisfeng.com
   - DOMAIN-SUFFIX,oauthz.com
+  - DOMAIN-SUFFIX,observeit.net
   - DOMAIN-SUFFIX,on.here
   - DOMAIN-SUFFIX,on2.com
   - DOMAIN-SUFFIX,onefifteen.net
@@ -649,6 +656,7 @@ payload:
   - DOMAIN-SUFFIX,schemer.com
   - DOMAIN-SUFFIX,screenwisetrends.com
   - DOMAIN-SUFFIX,screenwisetrendspanel.com
+  - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sg
   - DOMAIN-SUFFIX,shattered.io
