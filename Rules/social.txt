@@ -1,3 +1,4 @@
+DOMAIN,chatgpt.livekit.cloud
 DOMAIN,static.cloudflareinsights.com
 DOMAIN-KEYWORD,appspot
 DOMAIN-KEYWORD,blogspot
