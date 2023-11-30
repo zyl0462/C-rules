@@ -40,11 +40,8 @@ LEN_reject = len(reject_set)
 reject_text = '\n'.join(sorted(reject_set))
 with open("./Rules/reject.txt", "w",encoding='utf-8') as f:
     f.write(reject_text)
-r_rules= [('.' + i ) for i in reject_text.strip().split("\n")]
-r_text ='\n'.join(sorted(r_rules))
-with open("./Rules/sreject.txt", "w",encoding='utf-8') as f:
-    f.write(r_text)
-del reject_set,reject_text,r_rules,r_text
+
+del reject_set,reject_text
 
 proxy_set =set()
 for item in RULES_URL[1]:
@@ -58,12 +55,8 @@ p_rules.extend([('DOMAIN-SUFFIX,'+ i[1:] + ',PROXY') for i in proxy_text.strip()
 p_text ='\n'.join(sorted(p_rules))
 with open("./Rules/rproxy.txt", "w",encoding='utf-8') as f:
     f.write(p_text)
-ps_rules= [('DOMAIN,' + i) for i in proxy_text.strip().split("\n") if not i.startswith('.')]
-ps_rules.extend([('DOMAIN-SUFFIX,'+ i[1:]) for i in proxy_text.strip().split("\n") if i.startswith('.')])
-ps_text ='\n'.join(sorted(ps_rules))
-with open("./Rules/sproxy.txt", "w",encoding='utf-8') as f:
-    f.write(ps_text)
-del p_rules, proxy_text, p_text,proxy_set, ps_rules, ps_text
+
+del p_rules, proxy_text, p_text,proxy_set
 
 social_set = set()
 for item in RULES_URL[2]:
