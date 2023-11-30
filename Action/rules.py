@@ -40,7 +40,11 @@ LEN_reject = len(reject_set)
 reject_text = '\n'.join(sorted(reject_set))
 with open("./Rules/reject.txt", "w",encoding='utf-8') as f:
     f.write(reject_text)
-del reject_set,reject_text
+r_rules= [('.' + i ) for i in reject_text.strip().split("\n")]
+r_text ='\n'.join(sorted(r_rules))
+with open("./Rules/sreject.txt", "w",encoding='utf-8') as f:
+    f.write(r_text)
+del reject_set,reject_text,r_rules,r_text
 
 proxy_set =set()
 for item in RULES_URL[1]:
