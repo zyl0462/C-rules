@@ -53,7 +53,7 @@ with open("./Rules/proxy.txt", "w",encoding='utf-8') as f:
 p_rules= [('  - DOMAIN,' + i) for i in proxy_text.strip().split("\n") if not i.startswith('.')]
 p_rules.extend([('  - DOMAIN-SUFFIX,'+ i[1:]) for i in proxy_text.strip().split("\n") if i.startswith('.')])
 p_text ='\n'.join(sorted(p_rules))
-with open("./Rules/proxy.ymal", "w",encoding='utf-8') as f:
+with open("./Rules/proxy.yaml", "w",encoding='utf-8') as f:
     f.write('payload:\n'+p_text)
 del p_rules, proxy_text, p_text,proxy_set
 
@@ -87,22 +87,22 @@ with open("./stat", "w",encoding='utf-8') as f:
     f.write(STR_stat)
 del my_stat,STR_stat,LEN_reject,LEN_proxy,LEN_social,LEN_video,LEN_reject0,LEN_proxy0,LEN_social0,LEN_video0,LEN_total
 
-social_ymal_set = set()
+social_yaml_set = set()
 for item in RULES_URL[4]:
-    social_ymal_set.update([i for i in get_text(item).split("\n") if not (i.startswith('#') or i.startswith('payload:'))])
-social_ymal = '\n'.join(sorted(social_ymal_set))
+    social_yaml_set.update([i for i in get_text(item).split("\n") if not (i.startswith('#') or i.startswith('payload:'))])
+social_yaml = '\n'.join(sorted(social_yaml_set))
 with open("./Rules/social.yaml", "w",encoding='utf-8') as f:
-    f.write('payload:\n'+social_ymal)
-video_ymal_set = set()
+    f.write('payload:\n'+social_yaml)
+video_yaml_set = set()
 for item in RULES_URL[5]:
-    video_ymal_set.update([i for i in get_text(item).split("\n") if not (i.startswith('#') or i.startswith('payload:'))])
-video_ymal = '\n'.join(sorted(video_ymal_set))
+    video_yaml_set.update([i for i in get_text(item).split("\n") if not (i.startswith('#') or i.startswith('payload:'))])
+video_yaml = '\n'.join(sorted(video_yaml_set))
 with open("./Rules/video.yaml", "w",encoding='utf-8') as f:
-    f.write('payload:\n'+video_ymal)
-del video_ymal_set,video_ymal,social_ymal_set,social_ymal
+    f.write('payload:\n'+video_yaml)
+del video_yaml_set,video_yaml,social_yaml_set,social_yaml
 cnip_set = set()
 cnip_set.update([i for i in get_text(RULES_URL[6][0]).split("\n") if not (i.startswith('#') or i.startswith('payload:'))])
-cnip_ymal = '\n'.join(sorted(cnip_set))
+cnip_yaml = '\n'.join(sorted(cnip_set))
 with open("./Rules/cnip.yaml", "w",encoding='utf-8') as f:
-    f.write('payload:\n'+cnip_ymal)
-del cnip_set,cnip_ymal,RULES_URL
+    f.write('payload:\n'+cnip_yaml)
+del cnip_set,cnip_yaml,RULES_URL
