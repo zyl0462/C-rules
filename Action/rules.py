@@ -50,11 +50,11 @@ LEN_proxy = len(proxy_set)
 proxy_text = '\n'.join(sorted(proxy_set))
 with open("./Rules/proxy.txt", "w",encoding='utf-8') as f:
     f.write(proxy_text)
-p_rules= [('DOMAIN,' + i) for i in proxy_text.strip().split("\n") if not i.startswith('.')]
-p_rules.extend([('DOMAIN-SUFFIX,'+ i[1:]) for i in proxy_text.strip().split("\n") if i.startswith('.')])
+p_rules= [('  - DOMAIN,' + i) for i in proxy_text.strip().split("\n") if not i.startswith('.')]
+p_rules.extend([('  - DOMAIN-SUFFIX,'+ i[1:]) for i in proxy_text.strip().split("\n") if i.startswith('.')])
 p_text ='\n'.join(sorted(p_rules))
-with open("./Rules/sproxy.txt", "w",encoding='utf-8') as f:
-    f.write(p_text)
+with open("./Rules/proxy.ymal", "w",encoding='utf-8') as f:
+    f.write('payload:\n'+p_text)
 del p_rules, proxy_text, p_text,proxy_set
 
 social_set = set()
