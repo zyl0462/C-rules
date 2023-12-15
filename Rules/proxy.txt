@@ -362,6 +362,7 @@
 .answering-islam.org
 .antd.org
 .anthonycalzadilla.com
+.anthropic.com
 .anti1984.com
 .antichristendom.com
 .antiwave.net
@@ -962,6 +963,7 @@
 .buzzhand.com
 .buzzhand.net
 .buzzorange.com
+.buzzsprout.com
 .bvpn.com
 .bwbx.io
 .bwgyhw.com
@@ -1279,6 +1281,7 @@
 .cl.ly
 .clarionproject.org
 .classicalguitarblog.net
+.claude.ai
 .clb.org.hk
 .cldr.unicode.org
 .cleansite.biz
@@ -2154,6 +2157,7 @@
 .famunion.com
 .fan-qiang.com
 .fanatical.com
+.fanbox.cc
 .fandom.com
 .fangbinxing.com
 .fangeming.com
@@ -7969,6 +7973,8 @@
 .zonghexinwen.com
 .zonghexinwen.net
 .zoogvpn.com
+.zoom.us
+.zoomgov.com
 .zootool.com
 .zoozle.net
 .zophar.net
