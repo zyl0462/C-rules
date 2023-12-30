@@ -1667,6 +1667,7 @@
 .discuss4u.com
 .dish.com
 .disk.yandex.com
+.disk.yandex.ru
 .disney-asia.com
 .disney-discount.com
 .disney-plus.net
@@ -4975,6 +4976,7 @@
 .oauth.net
 .observechina.net
 .obutu.com
+.obyte.org
 .ocaspro.com
 .occupytiananmen.com
 .oclp.hk
@@ -5415,6 +5417,7 @@
 .psiphon.civisec.org
 .psiphon3.com
 .psiphontoday.com
+.pstatic.net
 .pt.im
 .pts.org.tw
 .ptt.cc
@@ -5697,6 +5700,7 @@
 .s-dragon.org
 .s-nbcnews.com
 .s.team
+.s.yimg.com
 .s.yimg.jp
 .s1.nudezz.com
 .s1heng.com
@@ -6446,6 +6450,7 @@
 .thomasbernhard.org
 .thongdreams.com
 .threadreaderapp.com
+.threads.net
 .threatchaos.com
 .throughnightsfire.com
 .thumbzilla.com
@@ -7415,6 +7420,7 @@
 .wjbk.org
 .wlcnew.jigsy.com
 .wlx.sowiki.net
+.wmflabs.org
 .wn.com
 .wnacg.com
 .wnacg.org
@@ -7482,7 +7488,6 @@
 .www.aolnews.com
 .www.businessinsider.com.au
 .www.cmoinc.org
-.www.cool18.com
 .www.dmm.com
 .www.dwheeler.com
 .www.eastturkistan.net

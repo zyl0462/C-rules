@@ -1708,6 +1708,7 @@ payload:
   - DOMAIN-SUFFIX,discuss4u.com
   - DOMAIN-SUFFIX,dish.com
   - DOMAIN-SUFFIX,disk.yandex.com
+  - DOMAIN-SUFFIX,disk.yandex.ru
   - DOMAIN-SUFFIX,disney-asia.com
   - DOMAIN-SUFFIX,disney-discount.com
   - DOMAIN-SUFFIX,disney-plus.net
@@ -5016,6 +5017,7 @@ payload:
   - DOMAIN-SUFFIX,oauth.net
   - DOMAIN-SUFFIX,observechina.net
   - DOMAIN-SUFFIX,obutu.com
+  - DOMAIN-SUFFIX,obyte.org
   - DOMAIN-SUFFIX,ocaspro.com
   - DOMAIN-SUFFIX,occupytiananmen.com
   - DOMAIN-SUFFIX,oclp.hk
@@ -5456,6 +5458,7 @@ payload:
   - DOMAIN-SUFFIX,psiphon.civisec.org
   - DOMAIN-SUFFIX,psiphon3.com
   - DOMAIN-SUFFIX,psiphontoday.com
+  - DOMAIN-SUFFIX,pstatic.net
   - DOMAIN-SUFFIX,pt.im
   - DOMAIN-SUFFIX,pts.org.tw
   - DOMAIN-SUFFIX,ptt.cc
@@ -5738,6 +5741,7 @@ payload:
   - DOMAIN-SUFFIX,s-dragon.org
   - DOMAIN-SUFFIX,s-nbcnews.com
   - DOMAIN-SUFFIX,s.team
+  - DOMAIN-SUFFIX,s.yimg.com
   - DOMAIN-SUFFIX,s.yimg.jp
   - DOMAIN-SUFFIX,s1.nudezz.com
   - DOMAIN-SUFFIX,s1heng.com
@@ -6487,6 +6491,7 @@ payload:
   - DOMAIN-SUFFIX,thomasbernhard.org
   - DOMAIN-SUFFIX,thongdreams.com
   - DOMAIN-SUFFIX,threadreaderapp.com
+  - DOMAIN-SUFFIX,threads.net
   - DOMAIN-SUFFIX,threatchaos.com
   - DOMAIN-SUFFIX,throughnightsfire.com
   - DOMAIN-SUFFIX,thumbzilla.com
@@ -7456,6 +7461,7 @@ payload:
   - DOMAIN-SUFFIX,wjbk.org
   - DOMAIN-SUFFIX,wlcnew.jigsy.com
   - DOMAIN-SUFFIX,wlx.sowiki.net
+  - DOMAIN-SUFFIX,wmflabs.org
   - DOMAIN-SUFFIX,wn.com
   - DOMAIN-SUFFIX,wnacg.com
   - DOMAIN-SUFFIX,wnacg.org
@@ -7523,7 +7529,6 @@ payload:
   - DOMAIN-SUFFIX,www.aolnews.com
   - DOMAIN-SUFFIX,www.businessinsider.com.au
   - DOMAIN-SUFFIX,www.cmoinc.org
-  - DOMAIN-SUFFIX,www.cool18.com
   - DOMAIN-SUFFIX,www.dmm.com
   - DOMAIN-SUFFIX,www.dwheeler.com
   - DOMAIN-SUFFIX,www.eastturkistan.net
