@@ -994,6 +994,7 @@
 .caijinglengyan.com
 .calameo.com
 .calebelston.com
+.calendarz.com
 .calgarychinese.ca
 .calgarychinese.com
 .calgarychinese.net
@@ -1090,6 +1091,7 @@
 .cdig.info
 .cdjp.org
 .cdn-images.mailchimp.com
+.cdn-telegram.org
 .cdn.angruo.com
 .cdn.assets.lfpcontent.com
 .cdn.helixstudios.net
@@ -1391,6 +1393,7 @@
 .comic-mega.me
 .comico.tw
 .commandarms.com
+.comments.app
 .commentshk.com
 .communistcrimes.org
 .community.windy.com
@@ -2694,6 +2697,7 @@
 .geekheart.info
 .gekikame.com
 .gelbooru.com
+.generated.photos
 .geni.us
 .genius.com
 .geocities.co.jp
@@ -3090,6 +3094,7 @@
 .grammaly.com
 .grandtrial.org
 .grangorz.org
+.graph.org
 .graphis.ne.jp
 .graphql.org
 .gravatar.com
@@ -3470,6 +3475,7 @@
 .huffpostarabi.com
 .huffpostbrasil.com
 .huffpostmaghreb.com
+.huggingface.co
 .hugoroy.eu
 .huhaitai.com
 .huhamhire.com
@@ -5508,6 +5514,7 @@
 .questvisual.com
 .quitccp.net
 .quitccp.org
+.quiz.directory
 .quobuz.com
 .quobuz.fr
 .quora.com
@@ -6363,9 +6370,11 @@
 .tehrantimes.com
 .telecomspace.com
 .telegra.ph
+.telegram-cdn.org
 .telegram.dog
 .telegram.me
 .telegram.org
+.telegram.space
 .telegramdownload.com
 .telegraph.co.uk
 .telemundo.com
@@ -7274,6 +7283,7 @@
 .wav.tv
 .waveprotocol.org
 .waymo.com
+.wd.bible
 .wda.gov.tw
 .wdf5.com
 .wealth.com.tw
