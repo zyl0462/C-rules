@@ -294,7 +294,6 @@
 .amazon.jobs
 .amazonaws.co.uk
 .amazonaws.com
-.amazonprimevideo.cn
 .amazonprimevideos.com
 .amazontools.com
 .amazontours.com
@@ -1132,7 +1131,6 @@
 .cgdepot.org
 .cgst.edu
 .ch.shvoong.com
-.chalungu.cn
 .change.org
 .changeip.name
 .changeip.net
@@ -1342,7 +1340,6 @@
 .cnbbnews.wordpress.com
 .cnbc.com
 .cnbcfm.com
-.cnbeta.com.tw
 .cnd.org
 .cnet.com
 .cnex.org.cn
@@ -3123,7 +3120,6 @@
 .gs-discuss.com
 .gsearch.media
 .gsp.target.com
-.gstatic.cn
 .gstatic.com
 .gtricks.com
 .gts-vpn.com
@@ -7352,7 +7348,6 @@
 .whatsonweibo.com
 .whatthefox.com
 .wheatseeds.org
-.wheel-size.cn
 .wheelockslatin.com
 .whereiswerner.com
 .wheretowatch.com

@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,api.imem.app
   - DOMAIN,api.swiftgram.app
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,static.cloudflareinsights.com
