@@ -11,8 +11,6 @@ def get_text(url):
             time.sleep(0.1)
             with open("./Rules/tmp", "r",encoding='utf-8') as f:
                 return f.read().strip()
-        elif r.status_code == 404:
-            continue
         else:
             sys.exit(0)
 
