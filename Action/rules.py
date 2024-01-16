@@ -17,6 +17,7 @@ def get_text(url):
             sys.exit(0)
 
 RULES_URL =(("https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt",
+             "https://bitbucket.org/hacamer/adrules/raw/main/ad-domains.txt",
                 "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"),
             ("https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Proxy/Proxy_Domain.list",
                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GlobalMedia/GlobalMedia_Domain.list",
@@ -35,8 +36,8 @@ RULES_URL =(("https://raw.githubusercontent.com/privacy-protection-tools/anti-AD
 )
 
 reject_set = set([i for i in get_text(RULES_URL[0][0]).split("\n") if not (i.startswith('#') or i.startswith('!'))])
-#reject_set .update([i for i in get_text(RULES_URL[0][1]).lower().split("\n") if not (i.startswith('#') or i.startswith('!'))])
-reject_set .update([i[2:-1] for i in get_text(RULES_URL[0][1]).split("\n") if (i.startswith('||') and i.endswith('^'))])
+reject_set .update([i for i in get_text(RULES_URL[0][1]).lower().split("\n") if not (i.startswith('#') or i.startswith('!'))])
+reject_set .update([i[2:-1] for i in get_text(RULES_URL[0][2]).split("\n") if (i.startswith('||') and i.endswith('^'))])
 LEN_reject = len(reject_set)
 reject_text = '\n'.join(sorted(reject_set))
 with open("./Rules/reject.txt", "w",encoding='utf-8') as f:
