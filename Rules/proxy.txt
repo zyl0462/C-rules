@@ -2577,7 +2577,6 @@
 .frienddy.com
 .friendfeed-media.com
 .friendfeed.com
-.friendfinder.com
 .friends-of-tibet.org
 .friendsoftibet.org
 .fring.com
