@@ -34,7 +34,7 @@ RULES_URL =(("https://raw.githubusercontent.com/privacy-protection-tools/anti-AD
 )
 
 reject_set = set([i for i in get_text(RULES_URL[0][0]).split("\n") if not (i.startswith('#') or i.startswith('!'))])
-reject_set .update([i for i in get_text(RULES_URL[0][1]).lower().split("\n") if not (i.startswith('#') or i.startswith('!'))])
+#reject_set .update([i for i in get_text(RULES_URL[0][1]).lower().split("\n") if not (i.startswith('#') or i.startswith('!'))])
 reject_set .update([i[2:-1] for i in get_text(RULES_URL[0][2]).split("\n") if (i.startswith('||') and i.endswith('^'))])
 LEN_reject = len(reject_set)
 reject_text = '\n'.join(sorted(reject_set))
