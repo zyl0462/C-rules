@@ -11526,6 +11526,7 @@ analytics-ingress.bitmovin.com
 analytics-lgs.corebridgefinancial.com
 analytics-mkt.wemakeprice.com
 analytics-nssl.bradyid.com
+analytics-prd.aws.wehaa.net
 analytics-production.hapyak.com
 analytics-proxy.springboard.com
 analytics-rollout-*.amazonaws.com
@@ -25269,6 +25270,7 @@ cpxadroit.com
 cpxdeliv.com
 cpxinteractive.com
 cpxl.golem.de
+cpyjyhny.xyz
 cq.hq1.influitive.com
 cq9119.com
 cqcounter.com
@@ -44701,6 +44703,7 @@ idmfullcrack.info
 idnbckbknxurmf.xyz
 idndlc.kango-oshigoto.jp
 idnhanquatang.vn
+idns.online
 idntfy.ru
 idohethisisathllea.com
 idolbucks.com
@@ -67687,6 +67690,7 @@ ovibospeseta.com
 ovintic.ru
 ovkamwvdof.com
 ovmrti.sassyclassy.de
+ovnrmvg.cn
 ovoadv.com
 ovoordie.xyz
 ovplnxsq.com
@@ -80131,6 +80135,7 @@ seordl.cn
 seosape.com
 seostar2.xyz
 seowebbs.com
+seownae.space
 sep02.hinagiku-life.jp
 separashparyro.info
 separate-sing.pro
@@ -106857,6 +106862,7 @@ xpsavuyxtfnqphw.com
 xpuqrn.com
 xpyerxzn.xyz
 xpygen.unger-fashion.com
+xpyjyhny.xyz
 xpynqq.com
 xq12.com
 xq5tf4nfccrb.info
