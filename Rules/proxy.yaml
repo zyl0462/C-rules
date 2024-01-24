@@ -34,7 +34,6 @@ payload:
   - DOMAIN,ocvideo.apple.com
   - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
-  - DOMAIN,p.bstarstatic.com
   - DOMAIN,rpg.pic-imges.com
   - DOMAIN,rthklive2-lh.akamaihd.net
   - DOMAIN,testflight.apple.com
@@ -966,6 +965,7 @@ payload:
   - DOMAIN-SUFFIX,brookings.edu
   - DOMAIN-SUFFIX,brucewang.net
   - DOMAIN-SUFFIX,brutaltgp.com
+  - DOMAIN-SUFFIX,bstarstatic.com
   - DOMAIN-SUFFIX,bt2mag.com
   - DOMAIN-SUFFIX,bt95.com
   - DOMAIN-SUFFIX,btaia.com
@@ -3135,7 +3135,6 @@ payload:
   - DOMAIN-SUFFIX,graphis.ne.jp
   - DOMAIN-SUFFIX,graphql.org
   - DOMAIN-SUFFIX,gravatar.com
-  - DOMAIN-SUFFIX,greasespot.net
   - DOMAIN-SUFFIX,great-firewall.com
   - DOMAIN-SUFFIX,great-roc.org
   - DOMAIN-SUFFIX,greatfire.org
@@ -7472,7 +7471,6 @@ payload:
   - DOMAIN-SUFFIX,wo.tc
   - DOMAIN-SUFFIX,wo3ttt.wordpress.com
   - DOMAIN-SUFFIX,woeser.com
-  - DOMAIN-SUFFIX,woesermiddle-way.net
   - DOMAIN-SUFFIX,wofl.tv
   - DOMAIN-SUFFIX,woflthenewsstation.com
   - DOMAIN-SUFFIX,wogx.com
@@ -7690,6 +7688,7 @@ payload:
   - DOMAIN-SUFFIX,yam.org.tw
   - DOMAIN-SUFFIX,yande.re
   - DOMAIN-SUFFIX,yandex.com
+  - DOMAIN-SUFFIX,yandex.ru
   - DOMAIN-SUFFIX,yanghengjun.com
   - DOMAIN-SUFFIX,yangjianli.com
   - DOMAIN-SUFFIX,yasni.co.uk
