@@ -23,6 +23,8 @@ payload:
   - DOMAIN,h-dazn.online-metrix.net
   - DOMAIN,h-netflix.online-metrix.net
   - DOMAIN,hamifans.emome.net
+  - DOMAIN,hls-amt.itunes.apple.com
+  - DOMAIN,hls.itunes.apple.com
   - DOMAIN,hulu.com.c.footprint.net
   - DOMAIN,hulu.map.fastly.net
   - DOMAIN,images-daznservices-com.cdn.ampproject.org
@@ -31,12 +33,15 @@ payload:
   - DOMAIN,news-client.apple.com
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
+  - DOMAIN,np-edge.itunes.apple.com
   - DOMAIN,ocvideo.apple.com
   - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+  - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,rpg.pic-imges.com
   - DOMAIN,rthklive2-lh.akamaihd.net
   - DOMAIN,testflight.apple.com
+  - DOMAIN,uts-api.itunes.apple.com
   - DOMAIN,voice.telephony.goog
   - DOMAIN-SUFFIX,000webhost.com
   - DOMAIN-SUFFIX,030buy.com
@@ -367,7 +372,6 @@ payload:
   - DOMAIN-SUFFIX,amnestyusa.org
   - DOMAIN-SUFFIX,amnyemachen.org
   - DOMAIN-SUFFIX,amoiist.com
-  - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,ampproject.com
   - DOMAIN-SUFFIX,ampproject.net
   - DOMAIN-SUFFIX,ampproject.org
@@ -429,6 +433,7 @@ payload:
   - DOMAIN-SUFFIX,api-secure.recaptcha.net
   - DOMAIN-SUFFIX,api-verify.recaptcha.net
   - DOMAIN-SUFFIX,api.ai
+  - DOMAIN-SUFFIX,api.amplitude.com
   - DOMAIN-SUFFIX,api.dropboxapi.com
   - DOMAIN-SUFFIX,api.linksalpha.com
   - DOMAIN-SUFFIX,api.mixpanel.com
@@ -1482,7 +1487,6 @@ payload:
   - DOMAIN-SUFFIX,crisisresponse.google
   - DOMAIN-SUFFIX,crisp.chat
   - DOMAIN-SUFFIX,cristyli.com
-  - DOMAIN-SUFFIX,crittercism.com
   - DOMAIN-SUFFIX,crocotube.com
   - DOMAIN-SUFFIX,crossfire.co.kr
   - DOMAIN-SUFFIX,crossthewall.net
@@ -4559,7 +4563,6 @@ payload:
   - DOMAIN-SUFFIX,mrslove.com
   - DOMAIN-SUFFIX,mrtweet.com
   - DOMAIN-SUFFIX,msa-it.org
-  - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,msguancha.com
   - DOMAIN-SUFFIX,msha.gov
   - DOMAIN-SUFFIX,msn.com

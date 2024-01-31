@@ -154,6 +154,7 @@ DOMAIN-SUFFIX,bumptop.org
 DOMAIN-SUFFIX,bumptunes.com
 DOMAIN-SUFFIX,campuslondon.com
 DOMAIN-SUFFIX,capitalg.com
+DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,cdn.cloudflare.net
 DOMAIN-SUFFIX,certificate-transparency.dev
 DOMAIN-SUFFIX,certificate-transparency.org
@@ -784,7 +785,7 @@ IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23c::/47,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2620:120:e000::/40,no-resolve
-IP-CIDR6,2a0a:f280::/32,no-resolve
+IP-CIDR6,2a0a:f280::/29,no-resolve
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
 USER-AGENT,*com.google.Drive*
 USER-AGENT,Google.Drive*

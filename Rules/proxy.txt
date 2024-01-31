@@ -327,7 +327,6 @@
 .amnestyusa.org
 .amnyemachen.org
 .amoiist.com
-.amplitude.com
 .ampproject.com
 .ampproject.net
 .ampproject.org
@@ -389,6 +388,7 @@
 .api-secure.recaptcha.net
 .api-verify.recaptcha.net
 .api.ai
+.api.amplitude.com
 .api.dropboxapi.com
 .api.linksalpha.com
 .api.mixpanel.com
@@ -1442,7 +1442,6 @@
 .crisisresponse.google
 .crisp.chat
 .cristyli.com
-.crittercism.com
 .crocotube.com
 .crossfire.co.kr
 .crossthewall.net
@@ -4519,7 +4518,6 @@
 .mrslove.com
 .mrtweet.com
 .msa-it.org
-.msedge.net
 .msguancha.com
 .msha.gov
 .msn.com
@@ -8029,6 +8027,8 @@ gspe1-ssl.ls.apple.com
 h-dazn.online-metrix.net
 h-netflix.online-metrix.net
 hamifans.emome.net
+hls-amt.itunes.apple.com
+hls.itunes.apple.com
 hulu.com.c.footprint.net
 hulu.map.fastly.net
 images-daznservices-com.cdn.ampproject.org
@@ -8037,10 +8037,13 @@ ktpx.amazon.com
 news-client.apple.com
 news-edge.apple.com
 news-events.apple.com
+np-edge.itunes.apple.com
 ocvideo.apple.com
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaicomproductionae4b.blob.core.windows.net
+play-edge.itunes.apple.com
 rpg.pic-imges.com
 rthklive2-lh.akamaihd.net
 testflight.apple.com
+uts-api.itunes.apple.com
 voice.telephony.goog
