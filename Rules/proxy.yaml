@@ -1482,6 +1482,7 @@ payload:
   - DOMAIN-SUFFIX,crisisresponse.google
   - DOMAIN-SUFFIX,crisp.chat
   - DOMAIN-SUFFIX,cristyli.com
+  - DOMAIN-SUFFIX,crittercism.com
   - DOMAIN-SUFFIX,crocotube.com
   - DOMAIN-SUFFIX,crossfire.co.kr
   - DOMAIN-SUFFIX,crossthewall.net
@@ -4558,6 +4559,7 @@ payload:
   - DOMAIN-SUFFIX,mrslove.com
   - DOMAIN-SUFFIX,mrtweet.com
   - DOMAIN-SUFFIX,msa-it.org
+  - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,msguancha.com
   - DOMAIN-SUFFIX,msha.gov
   - DOMAIN-SUFFIX,msn.com
@@ -5029,7 +5031,6 @@ payload:
   - DOMAIN-SUFFIX,odysee.com
   - DOMAIN-SUFFIX,oex.com
   - DOMAIN-SUFFIX,offbeatchina.com
-  - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,officeoftibet.com
   - DOMAIN-SUFFIX,ofile.org
   - DOMAIN-SUFFIX,ogaoga.org

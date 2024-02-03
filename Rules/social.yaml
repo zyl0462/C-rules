@@ -3,6 +3,7 @@ payload:
   - DOMAIN,api.swiftgram.app
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,static.cloudflareinsights.com
+  - DOMAIN,voice.telephony.goog
   - DOMAIN-KEYWORD,appspot
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,gmail
@@ -701,7 +702,6 @@ payload:
   - DOMAIN-SUFFIX,telegram.org
   - DOMAIN-SUFFIX,telegram.space
   - DOMAIN-SUFFIX,telegramdownload.com
-  - DOMAIN-SUFFIX,telephony.goog
   - DOMAIN-SUFFIX,telesco.pe
   - DOMAIN-SUFFIX,tensorflow.org
   - DOMAIN-SUFFIX,tfhub.dev
