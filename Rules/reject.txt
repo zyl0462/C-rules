@@ -17131,6 +17131,7 @@ bduserlog.eastmoney.com
 bduwfmbhp.com
 bdv.bidvertiser.com
 bdx.playnext.cn
+bdxpdz.xyz
 bdyumwlf.com
 bdzcck.stadiumgoods.com
 bdzdd2-sdd53-vxc.com
@@ -18279,6 +18280,7 @@ bjrspnbf.xyz
 bjs.faxingzhan.com
 bjs.mscto.com
 bjsncykyjctsbjxzx.cn
+bjswhpy.cn
 bjtel.cn
 bjtgds.xyz
 bjtrld.com
@@ -21504,6 +21506,7 @@ cdfcnngojhp.com
 cdfda.xyz
 cdfhidrk.xyz
 cdfhpj.automobile.it
+cdftizu.xyz
 cdfzcz.com
 cdgfa.ifeng.com
 cdgjxt.com
@@ -24259,6 +24262,7 @@ collector-dev.cdp-dev.cnn.com
 collector-hpn.ghostery.net
 collector-medium.lightstep.com
 collector-px0py5pczn.octopart.com
+collector-pxfqtaw5et.px-client.net
 collector-pxrf8vapwa.px-cdn.net
 collector-pxrf8vapwa.px-cloud.net
 collector-pxrf8vapwa.pxchk.net
@@ -26805,6 +26809,7 @@ cv.zephylrin-x.net
 cv1.start-eo.jp
 cv1.stefany.co.jp
 cvastico.com
+cvbjctqs.xyz
 cvda.17173.com
 cvhefd.ixbt.com
 cvietcombank.com
@@ -39816,6 +39821,7 @@ fwabhrptdns.com
 fwbntw.com
 fwcdn2.com
 fwcdn3.com
+fwcnex.icu
 fwealjdmeptu.com
 fweia.xyz
 fwepd.xyz
@@ -45175,6 +45181,7 @@ hmngpkkvri.com
 hmoctt.leboutique.com
 hmpfja.up-t.jp
 hmrixaskoqtw.com
+hmrwkcx.cn
 hmrxsxvl.com
 hmrz.wo.cn
 hmstats.com
@@ -54021,6 +54028,7 @@ l45fciti2kxi.com
 l4efwdtg.icu
 l520.ltd
 l5games2fan.com
+l5kt1.icu
 l74co.xyz
 l7ghj.xyz
 l80ays.com
@@ -96849,6 +96857,7 @@ tcgehkuyoblgg.xyz
 tcgnclibk.xyz
 tch10.com
 tchaxv.large.nl
+tchdxl.xyz
 tcheck.outbrainimg.com
 tchinaprecenta.info
 tcimg.com
@@ -110242,6 +110251,7 @@ wnjmwforbnx.com
 wnjtssmha.com
 wnkibwzr.com
 wnllmyw.xyz
+wnmaoc.xyz
 wnmyerzbjhu.ru
 wnnbvnj.cn
 wnozpl.escarpe.it
@@ -112984,6 +112994,7 @@ xuyanlong1.cn
 xuymgm.hostgator.mx
 xuzeez.com
 xvantage.ingrammicro.com
+xvbjctqs.xyz
 xvbnrh.xyz
 xvbtdwdelhhxe.com
 xvderylqps.xyz
@@ -114191,6 +114202,7 @@ yuyue008.cn
 yuyueyang.cn
 yuyyio.com
 yv8zs.online
+yvbjctqs.xyz
 yvcjyi.beymen.com
 yvdaeg.on-running.com
 yvdxij.applevacations.com
