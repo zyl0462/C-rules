@@ -3511,6 +3511,7 @@
 .huluteam.com
 .hulutv.com
 .huluusa.com
+.humanparty.me
 .humanrightspressawards.org
 .humblebundle.com
 .hung-ya.com
@@ -6375,6 +6376,7 @@
 .telesco.pe
 .tellme.pw
 .tenacy.com
+.tenor.com
 .tensorflow.org
 .tenzinpalmo.com
 .terabox.com
