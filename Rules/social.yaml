@@ -19,7 +19,6 @@ payload:
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,466453.com
   - DOMAIN-SUFFIX,abc.xyz
-  - DOMAIN-SUFFIX,accounts.googlers.com
   - DOMAIN-SUFFIX,adgoogle.net
   - DOMAIN-SUFFIX,admeld.com
   - DOMAIN-SUFFIX,admob-cn.com
@@ -247,7 +246,6 @@ payload:
   - DOMAIN-SUFFIX,g.page
   - DOMAIN-SUFFIX,gateway.dev
   - DOMAIN-SUFFIX,gcp.gvt2.com
-  - DOMAIN-SUFFIX,gcpnode.com
   - DOMAIN-SUFFIX,gcr.io
   - DOMAIN-SUFFIX,gerritcodereview.com
   - DOMAIN-SUFFIX,get.app
@@ -652,6 +650,7 @@ payload:
   - DOMAIN-SUFFIX,quickoffice.com
   - DOMAIN-SUFFIX,quiksee.com
   - DOMAIN-SUFFIX,quiz.directory
+  - DOMAIN-SUFFIX,recaptcha-cn.net
   - DOMAIN-SUFFIX,recaptcha.net
   - DOMAIN-SUFFIX,redhotlabs.com
   - DOMAIN-SUFFIX,redirector.gcpcdn.gvt1.com
@@ -717,8 +716,6 @@ payload:
   - DOMAIN-SUFFIX,txcloud.net
   - DOMAIN-SUFFIX,txvia.com
   - DOMAIN-SUFFIX,unfiltered.news
-  - DOMAIN-SUFFIX,up.corp.goog
-  - DOMAIN-SUFFIX,up.gcp.googlers.com
   - DOMAIN-SUFFIX,urchin.com
   - DOMAIN-SUFFIX,useplannr.com
   - DOMAIN-SUFFIX,usercontent.dev
