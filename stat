@@ -1,6 +1,6 @@
-#2024/03/02 20:16:53(UTC/GMT+08:00)
-reject rules(116366+6): 116372
-proxy rules(8047+0): 8047
+#2024/03/03 08:50:48(UTC/GMT+08:00)
+reject rules(116372+11): 116383
+proxy rules(8047-1): 8046
 social rules(788+0): 788
 video rules(217+0): 217
-total rules(125418+6): 125424
+total rules(125424+10): 125434
