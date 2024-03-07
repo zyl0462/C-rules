@@ -18780,6 +18780,7 @@ blue-rain.com.cn
 blue-rocket.actonservice.com
 blue.fox8.com
 blue.ktla.com
+blue.nbc4i.com
 blue.thehill.com
 blue2fund.com
 blueadvertise.com
@@ -21841,6 +21842,7 @@ cdn-adn-*.rayjump.com
 cdn-adn.rayjump.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 cdn-ads.thesaigontimes.vn
+cdn-ads.tmap.co.kr
 cdn-adtrue.com
 cdn-analytics.pl
 cdn-bongdadem-net.cdn.ampproject.org
@@ -24882,6 +24884,7 @@ compare.meteoservice.ru
 comparedsilas.com
 compareproprietary.com
 comparereaction.com
+comparison.financeads.net
 comparisonpredatororigin.com
 compass-fit.jp
 compassionatearea.pro
@@ -26331,6 +26334,7 @@ cqdaznl.com
 cqddhfjl.com
 cqdlfqgsnjyyhew.com
 cqemus.gartenhaus-gmbh.de
+cqeomumqwx.com
 cqfbrnzsgns.com
 cqfnvznw.info
 cqfqrvghjgu.com
@@ -44351,6 +44355,7 @@ h98s.com
 h9k9.com
 h9p9.cn
 ha-api.pushwoosh.com
+ha723.icu
 haag0some.com
 habaerashiksas.com
 habd.as
@@ -81838,6 +81843,7 @@ rounsh.com
 rouonixon.com
 roupedaldea.com
 roupsoglil.com
+rouqiuqq.cn
 rousantkarel.website
 rouseindecentworth.com
 roushath.xyz
@@ -97332,6 +97338,7 @@ t.sports.ru
 t.spot.im
 t.srongee.top
 t.staging-mail.tabcorp.com.au
+t.streetsblog.org
 t.strokeawareness.com
 t.supermario.xyz
 t.sur.new.gorodkirov.ru
@@ -110292,6 +110299,7 @@ wbtrkk.teufelaudio.it
 wbtrkk.teufelaudio.nl
 wbtrkk.teufelaudio.pl
 wbtsaeadmo.com
+wbubgob.cn
 wbubnjqyrmv.com
 wbupbv.com
 wbusiness.fr
@@ -116487,6 +116495,7 @@ zhidian3g.cn
 zhihei.com
 zhihu-web-analytics.zhihu.com
 zhihu.xmcimg.com
+zhihucloud.xyz
 zhihuiduijian.com
 zhilingshidai.com
 zhimaad.cn
