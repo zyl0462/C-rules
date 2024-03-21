@@ -1132,6 +1132,7 @@
 .cgdepot.org
 .cgst.edu
 .ch.shvoong.com
+.challenges.cloudflare.com
 .change.org
 .changeip.name
 .changeip.net
@@ -2111,6 +2112,7 @@
 .f1play.com
 .f8.com
 .fa.gov.tw
+.fabric.io
 .facebook.br
 .facebook.com
 .facebook.design

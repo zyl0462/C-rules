@@ -1172,6 +1172,7 @@ payload:
   - DOMAIN-SUFFIX,cgdepot.org
   - DOMAIN-SUFFIX,cgst.edu
   - DOMAIN-SUFFIX,ch.shvoong.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,change.org
   - DOMAIN-SUFFIX,changeip.name
   - DOMAIN-SUFFIX,changeip.net
@@ -2151,6 +2152,7 @@ payload:
   - DOMAIN-SUFFIX,f1play.com
   - DOMAIN-SUFFIX,f8.com
   - DOMAIN-SUFFIX,fa.gov.tw
+  - DOMAIN-SUFFIX,fabric.io
   - DOMAIN-SUFFIX,facebook.br
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,facebook.design
