@@ -464,6 +464,7 @@ payload:
   - DOMAIN-SUFFIX,appledaily.com.hk
   - DOMAIN-SUFFIX,appledaily.com.tw
   - DOMAIN-SUFFIX,applemusic.com
+  - DOMAIN-SUFFIX,apps.evozi.com
   - DOMAIN-SUFFIX,appshopper.com
   - DOMAIN-SUFFIX,appsocks.net
   - DOMAIN-SUFFIX,appspot.com
@@ -474,6 +475,7 @@ payload:
   - DOMAIN-SUFFIX,archive.fo
   - DOMAIN-SUFFIX,archive.is
   - DOMAIN-SUFFIX,archive.li
+  - DOMAIN-SUFFIX,archive.md
   - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,archive.ph
   - DOMAIN-SUFFIX,archive.today
@@ -1023,6 +1025,7 @@ payload:
   - DOMAIN-SUFFIX,c100tibet.org
   - DOMAIN-SUFFIX,c2cx.com
   - DOMAIN-SUFFIX,c4assets.com
+  - DOMAIN-SUFFIX,cableav.tv
   - DOMAIN-SUFFIX,cablegatesearch.net
   - DOMAIN-SUFFIX,cabletv.com.hk
   - DOMAIN-SUFFIX,cachefly.net
@@ -1295,6 +1298,7 @@ payload:
   - DOMAIN-SUFFIX,chubun.com
   - DOMAIN-SUFFIX,churchinhongkong.org
   - DOMAIN-SUFFIX,chushigangdrug.ch
+  - DOMAIN-SUFFIX,ciciai.com
   - DOMAIN-SUFFIX,cienen.com
   - DOMAIN-SUFFIX,cineastentreff.de
   - DOMAIN-SUFFIX,cinemax.com
@@ -1468,6 +1472,7 @@ payload:
   - DOMAIN-SUFFIX,cotweet.com
   - DOMAIN-SUFFIX,counter.social
   - DOMAIN-SUFFIX,coursehero.com
+  - DOMAIN-SUFFIX,coze.com
   - DOMAIN-SUFFIX,cpj.org
   - DOMAIN-SUFFIX,cq99.us
   - DOMAIN-SUFFIX,crackle.com
@@ -4810,6 +4815,7 @@ payload:
   - DOMAIN-SUFFIX,newnews.ca
   - DOMAIN-SUFFIX,newpppp.com
   - DOMAIN-SUFFIX,news.cnyes.com
+  - DOMAIN-SUFFIX,news.ebc.net.tw
   - DOMAIN-SUFFIX,news.hk.msn.com
   - DOMAIN-SUFFIX,news.msn.com.tw
   - DOMAIN-SUFFIX,news.nationalgeographic.com

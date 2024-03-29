@@ -424,6 +424,7 @@
 .appledaily.com.hk
 .appledaily.com.tw
 .applemusic.com
+.apps.evozi.com
 .appshopper.com
 .appsocks.net
 .appspot.com
@@ -434,6 +435,7 @@
 .archive.fo
 .archive.is
 .archive.li
+.archive.md
 .archive.org
 .archive.ph
 .archive.today
@@ -983,6 +985,7 @@
 .c100tibet.org
 .c2cx.com
 .c4assets.com
+.cableav.tv
 .cablegatesearch.net
 .cabletv.com.hk
 .cachefly.net
@@ -1255,6 +1258,7 @@
 .chubun.com
 .churchinhongkong.org
 .chushigangdrug.ch
+.ciciai.com
 .cienen.com
 .cineastentreff.de
 .cinemax.com
@@ -1428,6 +1432,7 @@
 .cotweet.com
 .counter.social
 .coursehero.com
+.coze.com
 .cpj.org
 .cq99.us
 .crackle.com
@@ -4770,6 +4775,7 @@
 .newnews.ca
 .newpppp.com
 .news.cnyes.com
+.news.ebc.net.tw
 .news.hk.msn.com
 .news.msn.com.tw
 .news.nationalgeographic.com
