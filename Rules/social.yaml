@@ -156,7 +156,6 @@ payload:
   - DOMAIN-SUFFIX,campuslondon.com
   - DOMAIN-SUFFIX,capitalg.com
   - DOMAIN-SUFFIX,cdn-telegram.org
-  - DOMAIN-SUFFIX,cdn.cloudflare.net
   - DOMAIN-SUFFIX,certificate-transparency.dev
   - DOMAIN-SUFFIX,certificate-transparency.org
   - DOMAIN-SUFFIX,charlestonroadregistry.com
