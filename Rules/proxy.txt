@@ -786,7 +786,6 @@
 .bloglines.com
 .bloglovin.com
 .blogs.com
-.blogs.icerocket.com
 .blogs.libraryinformationtechnology.com
 .blogs.tampabay.com
 .blogs.yahoo.co.jp
@@ -3569,6 +3568,7 @@
 .ibyteimg.com
 .icams.com
 .ice.audionow.com
+.icedrive.net
 .icerocket.com
 .icij.org
 .icl-fi.org
@@ -5681,6 +5681,7 @@
 .roodo.com
 .rosechina.net
 .rotten.com
+.rou.video
 .rprimelab.com
 .rsdlmonitor.com
 .rsf-chinese.org
