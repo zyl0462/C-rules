@@ -6613,6 +6613,8 @@ payload:
   - DOMAIN-SUFFIX,tiktok.us
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN-SUFFIX,tiktokv.us
+  - DOMAIN-SUFFIX,tiktokw.com
   - DOMAIN-SUFFIX,tiltbrush.com
   - DOMAIN-SUFFIX,timdir.com
   - DOMAIN-SUFFIX,time.com

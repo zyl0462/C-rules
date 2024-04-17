@@ -6573,6 +6573,8 @@
 .tiktok.us
 .tiktokcdn.com
 .tiktokv.com
+.tiktokv.us
+.tiktokw.com
 .tiltbrush.com
 .timdir.com
 .time.com
