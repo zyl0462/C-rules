@@ -1097,6 +1097,7 @@
 .cdn.angruo.com
 .cdn.assets.lfpcontent.com
 .cdn.helixstudios.net
+.cdn.jwplayer.com
 .cdn.optimizely.com
 .cdn.printfriendly.com
 .cdn.seatguru.com
@@ -1446,6 +1447,7 @@
 .crisisresponse.google
 .crisp.chat
 .cristyli.com
+.crittercism.com
 .crocotube.com
 .crossfire.co.kr
 .crossthewall.net
@@ -2066,6 +2068,7 @@
 .etadult.com
 .etaiwannews.com
 .etherdelta.com
+.ethermine.org
 .etherscan.io
 .etizer.org
 .etokki.com
@@ -2113,8 +2116,10 @@
 .f1esports.com
 .f1manager.com
 .f1play.com
+.f2pool.com
 .f8.com
 .fa.gov.tw
+.fabric.io
 .facebook.br
 .facebook.com
 .facebook.design
@@ -3425,6 +3430,7 @@
 .hrcir.com
 .hrea.org
 .hrichina.org
+.hrntt.org
 .hrtsea.com
 .hrw.org
 .hrweb.org
@@ -4524,6 +4530,7 @@
 .mrslove.com
 .mrtweet.com
 .msa-it.org
+.msedge.net
 .msguancha.com
 .msha.gov
 .msn.com
@@ -4906,6 +4913,7 @@
 .noypf.com
 .npa.go.jp
 .npa.gov.tw
+.npm.gov.tw
 .npnt.me
 .nps.gov
 .npsboost.com
@@ -5362,6 +5370,7 @@
 .potato.im
 .potplayer.tv
 .potvpn.com
+.pourquoi.tw
 .power.com
 .powerapple.com
 .powercx.com
@@ -6570,8 +6579,6 @@
 .tiktok.us
 .tiktokcdn.com
 .tiktokv.com
-.tiktokv.us
-.tiktokw.com
 .tiltbrush.com
 .timdir.com
 .time.com
@@ -7920,6 +7927,7 @@
 .z5.com
 .zacebook.com
 .zalmos.com
+.zamimg.com
 .zannel.com
 .zaobao.com
 .zaobao.com.sg

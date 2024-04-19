@@ -1137,6 +1137,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.angruo.com
   - DOMAIN-SUFFIX,cdn.assets.lfpcontent.com
   - DOMAIN-SUFFIX,cdn.helixstudios.net
+  - DOMAIN-SUFFIX,cdn.jwplayer.com
   - DOMAIN-SUFFIX,cdn.optimizely.com
   - DOMAIN-SUFFIX,cdn.printfriendly.com
   - DOMAIN-SUFFIX,cdn.seatguru.com
@@ -1486,6 +1487,7 @@ payload:
   - DOMAIN-SUFFIX,crisisresponse.google
   - DOMAIN-SUFFIX,crisp.chat
   - DOMAIN-SUFFIX,cristyli.com
+  - DOMAIN-SUFFIX,crittercism.com
   - DOMAIN-SUFFIX,crocotube.com
   - DOMAIN-SUFFIX,crossfire.co.kr
   - DOMAIN-SUFFIX,crossthewall.net
@@ -2106,6 +2108,7 @@ payload:
   - DOMAIN-SUFFIX,etadult.com
   - DOMAIN-SUFFIX,etaiwannews.com
   - DOMAIN-SUFFIX,etherdelta.com
+  - DOMAIN-SUFFIX,ethermine.org
   - DOMAIN-SUFFIX,etherscan.io
   - DOMAIN-SUFFIX,etizer.org
   - DOMAIN-SUFFIX,etokki.com
@@ -2153,8 +2156,10 @@ payload:
   - DOMAIN-SUFFIX,f1esports.com
   - DOMAIN-SUFFIX,f1manager.com
   - DOMAIN-SUFFIX,f1play.com
+  - DOMAIN-SUFFIX,f2pool.com
   - DOMAIN-SUFFIX,f8.com
   - DOMAIN-SUFFIX,fa.gov.tw
+  - DOMAIN-SUFFIX,fabric.io
   - DOMAIN-SUFFIX,facebook.br
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,facebook.design
@@ -3465,6 +3470,7 @@ payload:
   - DOMAIN-SUFFIX,hrcir.com
   - DOMAIN-SUFFIX,hrea.org
   - DOMAIN-SUFFIX,hrichina.org
+  - DOMAIN-SUFFIX,hrntt.org
   - DOMAIN-SUFFIX,hrtsea.com
   - DOMAIN-SUFFIX,hrw.org
   - DOMAIN-SUFFIX,hrweb.org
@@ -4564,6 +4570,7 @@ payload:
   - DOMAIN-SUFFIX,mrslove.com
   - DOMAIN-SUFFIX,mrtweet.com
   - DOMAIN-SUFFIX,msa-it.org
+  - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,msguancha.com
   - DOMAIN-SUFFIX,msha.gov
   - DOMAIN-SUFFIX,msn.com
@@ -4946,6 +4953,7 @@ payload:
   - DOMAIN-SUFFIX,noypf.com
   - DOMAIN-SUFFIX,npa.go.jp
   - DOMAIN-SUFFIX,npa.gov.tw
+  - DOMAIN-SUFFIX,npm.gov.tw
   - DOMAIN-SUFFIX,npnt.me
   - DOMAIN-SUFFIX,nps.gov
   - DOMAIN-SUFFIX,npsboost.com
@@ -5402,6 +5410,7 @@ payload:
   - DOMAIN-SUFFIX,potato.im
   - DOMAIN-SUFFIX,potplayer.tv
   - DOMAIN-SUFFIX,potvpn.com
+  - DOMAIN-SUFFIX,pourquoi.tw
   - DOMAIN-SUFFIX,power.com
   - DOMAIN-SUFFIX,powerapple.com
   - DOMAIN-SUFFIX,powercx.com
@@ -6610,8 +6619,6 @@ payload:
   - DOMAIN-SUFFIX,tiktok.us
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
-  - DOMAIN-SUFFIX,tiktokv.us
-  - DOMAIN-SUFFIX,tiktokw.com
   - DOMAIN-SUFFIX,tiltbrush.com
   - DOMAIN-SUFFIX,timdir.com
   - DOMAIN-SUFFIX,time.com
@@ -7960,6 +7967,7 @@ payload:
   - DOMAIN-SUFFIX,z5.com
   - DOMAIN-SUFFIX,zacebook.com
   - DOMAIN-SUFFIX,zalmos.com
+  - DOMAIN-SUFFIX,zamimg.com
   - DOMAIN-SUFFIX,zannel.com
   - DOMAIN-SUFFIX,zaobao.com
   - DOMAIN-SUFFIX,zaobao.com.sg
