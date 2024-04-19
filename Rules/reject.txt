@@ -7027,6 +7027,7 @@ ad-ebis.mynavi-job20s.jp
 ad-ebis.toysub.jp
 ad-ettoday.cdn.hinet.net
 ad-fam.com
+ad-files.classting.com
 ad-flow.com
 ad-g.doubleclick.net
 ad-generation.jp
@@ -59477,6 +59478,7 @@ log.bunjang.co.kr
 log.byteoversea.com
 log.china.cn
 log.cizion.com
+log.classting.com
 log.cloud.sbs.co.kr
 log.cmpassport.com
 log.codemarketing.cloud
@@ -80548,6 +80550,7 @@ pw.lpsxssm.com
 pw321.com
 pwbmdalngizhz.com
 pwbs.l9c4s.cn
+pwbuhb.xyz
 pwddhc.xyz
 pwdxawuedjjj.com
 pweabzcatoh.com
@@ -95329,6 +95332,7 @@ spitter.pauk.ru
 spjysa.only.com
 spklmis.com
 spl.ztvx8.com
+splash-ad.classting.com
 splash-ads.cdn.unity.cn
 splash-ads.unitychina.cn
 splash.appsgeyser.com
@@ -100208,6 +100212,7 @@ t.foxtheatre.org
 t.freelancer.com
 t.friars.com
 t.fuzeon.com
+t.gatorleads.co.uk
 t.gazyva.com
 t.gdt.qq.com
 t.geedai.com
@@ -105697,6 +105702,7 @@ tracker-2.com
 tracker-aa.paf.es
 tracker-aa.pafbetscore.lv
 tracker-api.my.com
+tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
 tracker-dot-optimeeze.appspot.com
 tracker-mw-zlivestream.zapps.vn
 tracker-rec.smart-bdash.com
