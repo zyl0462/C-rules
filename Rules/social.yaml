@@ -621,7 +621,6 @@ payload:
   - DOMAIN-SUFFIX,pixate.com
   - DOMAIN-SUFFIX,pki.goog
   - DOMAIN-SUFFIX,plus.codes
-  - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,polymer-project.org
   - DOMAIN-SUFFIX,polymerproject.org
   - DOMAIN-SUFFIX,postini.com
@@ -763,11 +762,12 @@ payload:
   - DOMAIN-SUFFIX,xplr.co
   - DOMAIN-SUFFIX,zukunftswerkstatt.de
   - DOMAIN-SUFFIX,zynamics.com
-  - IP-ASN,211157
-  - IP-ASN,44907
-  - IP-ASN,59930
-  - IP-ASN,62014
-  - IP-ASN,62041
+  - IP-ASN,20473
+  - IP-ASN,211157,no-resolve
+  - IP-ASN,44907,no-resolve
+  - IP-ASN,59930,no-resolve
+  - IP-ASN,62014,no-resolve
+  - IP-ASN,62041,no-resolve
   - IP-CIDR,109.239.140.0/24,no-resolve
   - IP-CIDR,149.154.160.0/20,no-resolve
   - IP-CIDR,172.110.32.0/21,no-resolve

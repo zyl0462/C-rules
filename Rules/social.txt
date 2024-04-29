@@ -620,7 +620,6 @@ DOMAIN-SUFFIX,pittpatt.com
 DOMAIN-SUFFIX,pixate.com
 DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,plus.codes
-DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerproject.org
 DOMAIN-SUFFIX,postini.com
