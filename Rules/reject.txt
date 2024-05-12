@@ -30901,7 +30901,6 @@ deliriumabatecarefully.com
 deliriumalbumretreat.com
 deliver.ads2.iid.jp
 deliver.ifeng.com
-deliver.kuwo.cn
 deliver.oztam.com.au
 deliver.ptgncdn.com
 delivered-by-madington.com
@@ -48236,7 +48235,6 @@ htsysxlupdqe.com
 http-icloud.com
 httpdns-push.heytapmobile.com
 httpdns-sdk.n.netease.com
-httpdns.alicdn.com
 httpdns.bcelive.com
 httpdns.browser.miui.com
 httpdns.c.cdnhwc2.com
@@ -60004,6 +60002,7 @@ logger.nerdwallet.com
 logger.qingting.fm
 logger.rm.uol.com.br
 logger.snackly.co
+logger.torimochi-ad.net
 logger.treexml.baofeng.com
 logger.tv.telstra.com.au
 logger.tvchosun.com
@@ -64820,7 +64819,6 @@ mccntp.raen.com
 mcdmetric.aaa.com
 mcdmetrics.aaa.com
 mcdmetrics2.aaa.com
-mcdn.bilivideo.cn
 mcdote.com
 mcdp-*.outbrain.com
 mcds7.icu
@@ -80941,6 +80939,7 @@ pwrlkyotm.com
 pwsk11.com
 pwsk88.com
 pwtftm.shingaku.mynavi.jp
+pwuxnr.cn
 pwwghcyzsn.info
 pwwqkppwqkezqer.site
 pwxerujvl.com
@@ -104447,7 +104446,6 @@ torchtrifling.com
 torflegorb.com
 torgdom.biz
 torgnn.ru
-torimochi-ad.net
 torimochi.line-apps.com
 torioluor.com
 torn6back.com
