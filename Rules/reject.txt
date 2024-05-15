@@ -2846,6 +2846,7 @@ a.tyncar.com
 a.ucoz.net
 a.umilu.com
 a.v.duowan.com
+a.viethu.com
 a.vlion.cn
 a.vserv.mobi
 a.vtvdigital.vn
@@ -13375,6 +13376,9 @@ api.snmi.cn
 api.so.lianmeng.360.cn
 api.ssp.adoceans.com
 api.ssp.zxrtb.com
+api.subiz.com.vn
+api.subiz.net
+api.subiz.xyz
 api.tatagou.com.cn
 api.telemetry.watchabc.go.com
 api.tomi.ai
@@ -13462,6 +13466,7 @@ apistatexperience.com
 apiszapp.com
 apiv2.moengage.com
 apiv2.tiin.vn
+apiv4.subiz.com
 apiwmda.58.com.cn
 apiyd.my91app.com
 apk.fgzba.com
@@ -14226,6 +14231,7 @@ app.stratfor.com
 app.streaktrivia.com
 app.stressbuoy.com
 app.studios.brain.ai
+app.subiz.com.vn
 app.subs.tv
 app.success.coniferhealth.com
 app.sunstone.in
@@ -29398,6 +29404,7 @@ d90z5o386dhs7.cloudfront.net
 d91i6bsb0ef59.cloudfront.net
 d95d1c685a.6c142df43a.com
 d95d5c2239.com
+d980ed.xyz
 d985a9d2clzq5.cloudfront.net
 d9ad.com
 d9b5gfwt6p05u.cloudfront.net
@@ -72652,6 +72659,7 @@ nuucmzuc.com
 nuvedu.xyz
 nuvi.actonservice.com
 nuxdwjicbg.com
+nuxwlc.cn
 nuyhvoshqnbkrg.com
 nuyibu.pieper.de
 nuyujp.barstoolsports.com
@@ -80465,6 +80473,7 @@ pubianmending.space
 pubimageboard.com
 pubimgs.com
 publi.atresmediapublicidad.com
+public-gcs.subiz-cdn.com
 public.adgger.jp
 public.app.autohome.com.cn
 public.gdtimg.com
@@ -97603,6 +97612,7 @@ static.smi2.net
 static.snapmobile.asia
 static.stat.truthlyanalytics.com
 static.step.dk
+static.subiz.com
 static.t.agrantsem.com
 static.terratraf.io
 static.terrhq.ru
@@ -99396,11 +99406,6 @@ subendorse.com
 subgitrelais.com
 subheroalgores.com
 subito.openapp.link
-subiz-cdn.com
-subiz.com
-subiz.com.vn
-subiz.net
-subiz.xyz
 subjectamazement.com
 subjectscooter.com
 subjectslisted.com
@@ -101205,6 +101210,7 @@ ta.taxslayer.com
 ta.toprework.vn
 ta.trs.cn
 ta.yangkeduo.com
+ta20k.xyz
 ta3nfsordd.com
 ta80.com
 taaqhr6axacd2um.com
@@ -111816,6 +111822,7 @@ vcbppb.xyz
 vcbydvfouqqyls.com
 vcdc.com
 vcdn.adnxs.com
+vcdn.subiz-cdn.com
 vcdpuyl.com
 vcegpu.libas.com.tr
 vceilinichego.ru
@@ -115737,6 +115744,9 @@ widget.shopstyle.com
 widget.smsinfo.io
 widget.socialmart.ru
 widget.sparrow.ru
+widget.subiz.com
+widget.subiz.net
+widget.subiz.xyz
 widget.tippebannere.no
 widget.trustpilot.com
 widget.utinet.ru
@@ -115772,6 +115782,7 @@ widgets.tapcdn.com
 widgets.tree.com
 widgets.trustedshops.com
 widgetsplus.com
+widgetv4.subiz.com
 widjet.analnoe.tv
 widnd.dajiadou6.com
 widore.com
@@ -117266,6 +117277,7 @@ www.feixin2.com
 www.fenqihome.com
 www.fenvm.com
 www.fffeeeq.com
+www.filasverigese.com
 www.fjlqqc.com
 www.fkku194.com
 www.flash.cn
