@@ -11,6 +11,7 @@ payload:
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
   - DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,cloud.oracle.com
+  - DOMAIN,copilot.microsoft.com
   - DOMAIN,cs428.wpc.edgecastcdn.net
   - DOMAIN,cvws.icloud-content.com
   - DOMAIN,dashasiafox.akamaized.netflix
@@ -28,6 +29,8 @@ payload:
   - DOMAIN,images-daznservices-com.cdn.ampproject.org
   - DOMAIN,itvpnpmobile-a.akamaihd.net
   - DOMAIN,ktpx.amazon.com
+  - DOMAIN,location.microsoft.com
+  - DOMAIN,login.microsoftonline.com
   - DOMAIN,news-client.apple.com
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
@@ -36,6 +39,7 @@ payload:
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
   - DOMAIN,rpg.pic-imges.com
   - DOMAIN,rthklive2-lh.akamaihd.net
+  - DOMAIN,self.events.data.microsoft.com
   - DOMAIN,testflight.apple.com
   - DOMAIN,voice.telephony.goog
   - DOMAIN-SUFFIX,000webhost.com
@@ -738,6 +742,7 @@ payload:
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,bingapis.com
   - DOMAIN-SUFFIX,bintray.com
   - DOMAIN-SUFFIX,binux.me
   - DOMAIN-SUFFIX,binwang.me
@@ -4439,6 +4444,8 @@ payload:
   - DOMAIN-SUFFIX,michaelanti.com
   - DOMAIN-SUFFIX,michaelmarketl.com
   - DOMAIN-SUFFIX,mickey.tv
+  - DOMAIN-SUFFIX,microsoft-falcon.io
+  - DOMAIN-SUFFIX,microsoftapp.net
   - DOMAIN-SUFFIX,microsofttranslator.com
   - DOMAIN-SUFFIX,microvpn.com
   - DOMAIN-SUFFIX,middle-way.net
