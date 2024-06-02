@@ -5476,6 +5476,7 @@
 .q13.com
 .q13fox.com
 .qanote.com
+.qbittorrent.org
 .qgirl.com.tw
 .qhigh.com
 .qi-gong.me
