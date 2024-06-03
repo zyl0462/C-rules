@@ -775,7 +775,6 @@
 .blog.workflow.is
 .blog.xuite.net
 .blog.youthwant.com.tw
-.blog.youxu.info
 .blogblog.com
 .blogcatalog.com
 .blogcdn.com
@@ -5285,6 +5284,7 @@
 .piposay.com
 .piraattilahti.org
 .piring.com
+.pixeldrain.com
 .pixelmator.com
 .pixelqi.com
 .pixiv.net
@@ -7924,6 +7924,7 @@
 .yx51.net
 .yyii.org
 .yyjlymb.xyz
+.yysub.net
 .yzzk.com
 .z-lib.org
 .z5.app

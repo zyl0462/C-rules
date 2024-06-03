@@ -819,7 +819,6 @@ payload:
   - DOMAIN-SUFFIX,blog.workflow.is
   - DOMAIN-SUFFIX,blog.xuite.net
   - DOMAIN-SUFFIX,blog.youthwant.com.tw
-  - DOMAIN-SUFFIX,blog.youxu.info
   - DOMAIN-SUFFIX,blogblog.com
   - DOMAIN-SUFFIX,blogcatalog.com
   - DOMAIN-SUFFIX,blogcdn.com
@@ -5329,6 +5328,7 @@ payload:
   - DOMAIN-SUFFIX,piposay.com
   - DOMAIN-SUFFIX,piraattilahti.org
   - DOMAIN-SUFFIX,piring.com
+  - DOMAIN-SUFFIX,pixeldrain.com
   - DOMAIN-SUFFIX,pixelmator.com
   - DOMAIN-SUFFIX,pixelqi.com
   - DOMAIN-SUFFIX,pixiv.net
@@ -7968,6 +7968,7 @@ payload:
   - DOMAIN-SUFFIX,yx51.net
   - DOMAIN-SUFFIX,yyii.org
   - DOMAIN-SUFFIX,yyjlymb.xyz
+  - DOMAIN-SUFFIX,yysub.net
   - DOMAIN-SUFFIX,yzzk.com
   - DOMAIN-SUFFIX,z-lib.org
   - DOMAIN-SUFFIX,z5.app
