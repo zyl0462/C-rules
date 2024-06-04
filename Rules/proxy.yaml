@@ -1190,6 +1190,7 @@ payload:
   - DOMAIN-SUFFIX,channelnewsasia.com
   - DOMAIN-SUFFIX,chaoex.com
   - DOMAIN-SUFFIX,chapm25.com
+  - DOMAIN-SUFFIX,chat.lmsys.org
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatnook.com
   - DOMAIN-SUFFIX,chaturbate.com
@@ -5589,6 +5590,7 @@ payload:
   - DOMAIN-SUFFIX,racked.com
   - DOMAIN-SUFFIX,radicalparty.org
   - DOMAIN-SUFFIX,radiko.jp
+  - DOMAIN-SUFFIX,radio-canada.ca
   - DOMAIN-SUFFIX,radio.garden
   - DOMAIN-SUFFIX,radioaustralia.net.au
   - DOMAIN-SUFFIX,radiohilight.net
@@ -6337,6 +6339,7 @@ payload:
   - DOMAIN-SUFFIX,taipei.gov.tw
   - DOMAIN-SUFFIX,taipeisociety.org
   - DOMAIN-SUFFIX,taipeitimes.com
+  - DOMAIN-SUFFIX,taisounds.com
   - DOMAIN-SUFFIX,taiwan-sex.com
   - DOMAIN-SUFFIX,taiwanbible.com
   - DOMAIN-SUFFIX,taiwancon.com
