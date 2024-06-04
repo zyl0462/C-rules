@@ -2934,6 +2934,7 @@ a.v.duowan.com
 a.viethu.com
 a.vlion.cn
 a.vserv.mobi
+a.vturb.net
 a.vtvdigital.vn
 a.walla.co.il
 a.wanrenshe.com
@@ -12603,6 +12604,7 @@ analytics.plaza.ir
 analytics.plex.tv
 analytics.plumbworld.co.uk
 analytics.pnc.com
+analytics.poferries.com
 analytics.pogo.tv
 analytics.pointdrive.linkedin.com
 analytics.pollardwater.com
@@ -19002,6 +19004,7 @@ binaryrecentrecentcut.com
 bincatracs.com
 bineukdwithmef.info
 bing001.shop
+bing005.shop
 bingads.microsoft.com
 bingdianhuanyuan.cn
 bingoocy.com
@@ -34797,6 +34800,7 @@ dywolfer.de
 dyxsmj.net
 dyygsgxhfrlo.xyz
 dyysxwjeyfiysrs.com
+dyzgdp.xyz
 dyzmpx.speedway.fr
 dz2017.zdzxyplyt.com
 dz4ad.com
