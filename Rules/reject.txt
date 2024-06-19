@@ -1010,6 +1010,7 @@
 2829i2p88jx.www.csaladinet.hu
 283.laobanfa.com
 285680.com
+285b0b37.xyz
 28e096686b.com
 291hkcido.de
 2922qj5tf2n.swyftx.com.au
@@ -18701,6 +18702,7 @@ bhzejltg.info
 bi-eventtracker-*.amazonaws.com
 bi.banggood.com
 bi.concordesolutions.com
+bi.heyloyalty.com
 bi.irisdating.com
 bi.manhuaren.com
 bi.medscape.com
@@ -80726,6 +80728,7 @@ prsrjdr.ru
 prt-or-067.com
 prt-stsdk.vivo.com.cn
 prt.stsdk.vivo.com.cn
+prtadf.xyz
 prtawe.com
 prtord.com
 prtracker.com
@@ -99442,6 +99445,7 @@ status.acutx.org
 status.edge44.testandtarget.omniture.com
 status.edge45.testandtarget.omniture.com
 status.minexmr.com
+status.techtarget.itmedia.co.jp
 statwup.huya.com
 statwup.nimo.tv
 statystyki.ekspertyzy-szkolenia.pl
@@ -101313,6 +101317,7 @@ szbxw.cn
 szbzp.cn
 szdgl.cn
 szdpk.cn
+szdxw.cn
 szfmr.cn
 szftg.cn
 szgaikk.com
