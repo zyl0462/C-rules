@@ -7314,6 +7314,7 @@ ad.donanimhaber.com
 ad.doorigo.co.kr
 ad.doubanio.com
 ad.doubleclick.net
+ad.douga-kan.com
 ad.doyouad.com
 ad.dqwjzm.com
 ad.duapps.com
@@ -33611,6 +33612,7 @@ douglaug.net
 dougou88.com
 douhooke.net
 doujs01.xyz
+doujs02.xyz
 doukekan.cn
 doukoula.com
 doumaibiji.cn
@@ -48274,6 +48276,7 @@ hongdouav8.com
 hongteng.xyz
 hongze.info
 honitonchyazic.com
+honknl.xyz
 honorablehall.com
 honorablehalt.com
 honorablehydrant.com
