@@ -1325,7 +1325,6 @@
 .cmule.org
 .cmx.im
 .cn-proxy.com
-.cn.com
 .cn.dayabook.com
 .cn.fmnnow.com
 .cn.freeones.com
@@ -1389,7 +1388,6 @@
 .collateralmurder.com
 .collateralmurder.org
 .com.google
-.com.ru
 .com.uk
 .comedycentral.com
 .comefromchina.com
@@ -1809,6 +1807,7 @@
 .dnssec.net
 .dnvod.tv
 .docker.com
+.docker.io
 .doctorvoice.org
 .documentingreality.com
 .dogatch.jp
@@ -3384,7 +3383,6 @@
 .home.sina.com
 .home.so-net.net.tw
 .homedepot.com
-.homeip.net
 .homeperversion.com
 .homeservershow.com
 .honeynet.org
@@ -3892,7 +3890,6 @@
 .joymiihub.com
 .joyourself.com
 .jp.hao123.com
-.jp.net
 .jpl.nasa.gov
 .jpopforum.net
 .jqueryui.com
@@ -4176,7 +4173,6 @@
 .livefilestore.com
 .liveleak.com
 .livemint.com
-.livestation.com
 .livestream.com
 .livevideo.com
 .livingonline.us
@@ -4186,7 +4182,7 @@
 .lizhizhuangbi.com
 .lkcn.net
 .llnwd.net
-.llss.me
+.lmsys.org
 .lncn.org
 .load.to
 .lobsangwangyal.com
@@ -5545,7 +5541,6 @@
 .qz.com
 .r0.ru
 .r18.com
-.ra.gg
 .racked.com
 .radicalparty.org
 .radiko.jp
@@ -5736,7 +5731,6 @@
 .s3.amazonaws.com
 .s4miniarchive.com
 .s8forum.com
-.sa.com
 .sa.hao123.com
 .saboom.com
 .sacks.com
@@ -6992,7 +6986,6 @@
 .urchin.com
 .urduvoa.com
 .url.com.tw
-.url.tw
 .urlborg.com
 .urlparser.com
 .us.to
@@ -7710,7 +7703,6 @@
 .yingsuoss.com
 .yinlei.org
 .yipub.com
-.yiyechat.com
 .yizhihongxing.com
 .yobit.net
 .yobt.com
@@ -7924,7 +7916,6 @@
 .yuanzhengtang.org
 .yulghun.com
 .yunchao.net
-.yuntipub.com
 .yuvutu.com
 .yvesgeleyn.com
 .ywpw.com

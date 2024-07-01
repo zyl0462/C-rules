@@ -1369,7 +1369,6 @@ payload:
   - DOMAIN-SUFFIX,cmule.org
   - DOMAIN-SUFFIX,cmx.im
   - DOMAIN-SUFFIX,cn-proxy.com
-  - DOMAIN-SUFFIX,cn.com
   - DOMAIN-SUFFIX,cn.dayabook.com
   - DOMAIN-SUFFIX,cn.fmnnow.com
   - DOMAIN-SUFFIX,cn.freeones.com
@@ -1433,7 +1432,6 @@ payload:
   - DOMAIN-SUFFIX,collateralmurder.com
   - DOMAIN-SUFFIX,collateralmurder.org
   - DOMAIN-SUFFIX,com.google
-  - DOMAIN-SUFFIX,com.ru
   - DOMAIN-SUFFIX,com.uk
   - DOMAIN-SUFFIX,comedycentral.com
   - DOMAIN-SUFFIX,comefromchina.com
@@ -1853,6 +1851,7 @@ payload:
   - DOMAIN-SUFFIX,dnssec.net
   - DOMAIN-SUFFIX,dnvod.tv
   - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,doctorvoice.org
   - DOMAIN-SUFFIX,documentingreality.com
   - DOMAIN-SUFFIX,dogatch.jp
@@ -3428,7 +3427,6 @@ payload:
   - DOMAIN-SUFFIX,home.sina.com
   - DOMAIN-SUFFIX,home.so-net.net.tw
   - DOMAIN-SUFFIX,homedepot.com
-  - DOMAIN-SUFFIX,homeip.net
   - DOMAIN-SUFFIX,homeperversion.com
   - DOMAIN-SUFFIX,homeservershow.com
   - DOMAIN-SUFFIX,honeynet.org
@@ -3936,7 +3934,6 @@ payload:
   - DOMAIN-SUFFIX,joymiihub.com
   - DOMAIN-SUFFIX,joyourself.com
   - DOMAIN-SUFFIX,jp.hao123.com
-  - DOMAIN-SUFFIX,jp.net
   - DOMAIN-SUFFIX,jpl.nasa.gov
   - DOMAIN-SUFFIX,jpopforum.net
   - DOMAIN-SUFFIX,jqueryui.com
@@ -4220,7 +4217,6 @@ payload:
   - DOMAIN-SUFFIX,livefilestore.com
   - DOMAIN-SUFFIX,liveleak.com
   - DOMAIN-SUFFIX,livemint.com
-  - DOMAIN-SUFFIX,livestation.com
   - DOMAIN-SUFFIX,livestream.com
   - DOMAIN-SUFFIX,livevideo.com
   - DOMAIN-SUFFIX,livingonline.us
@@ -4230,7 +4226,7 @@ payload:
   - DOMAIN-SUFFIX,lizhizhuangbi.com
   - DOMAIN-SUFFIX,lkcn.net
   - DOMAIN-SUFFIX,llnwd.net
-  - DOMAIN-SUFFIX,llss.me
+  - DOMAIN-SUFFIX,lmsys.org
   - DOMAIN-SUFFIX,lncn.org
   - DOMAIN-SUFFIX,load.to
   - DOMAIN-SUFFIX,lobsangwangyal.com
@@ -5589,7 +5585,6 @@ payload:
   - DOMAIN-SUFFIX,qz.com
   - DOMAIN-SUFFIX,r0.ru
   - DOMAIN-SUFFIX,r18.com
-  - DOMAIN-SUFFIX,ra.gg
   - DOMAIN-SUFFIX,racked.com
   - DOMAIN-SUFFIX,radicalparty.org
   - DOMAIN-SUFFIX,radiko.jp
@@ -5780,7 +5775,6 @@ payload:
   - DOMAIN-SUFFIX,s3.amazonaws.com
   - DOMAIN-SUFFIX,s4miniarchive.com
   - DOMAIN-SUFFIX,s8forum.com
-  - DOMAIN-SUFFIX,sa.com
   - DOMAIN-SUFFIX,sa.hao123.com
   - DOMAIN-SUFFIX,saboom.com
   - DOMAIN-SUFFIX,sacks.com
@@ -7036,7 +7030,6 @@ payload:
   - DOMAIN-SUFFIX,urchin.com
   - DOMAIN-SUFFIX,urduvoa.com
   - DOMAIN-SUFFIX,url.com.tw
-  - DOMAIN-SUFFIX,url.tw
   - DOMAIN-SUFFIX,urlborg.com
   - DOMAIN-SUFFIX,urlparser.com
   - DOMAIN-SUFFIX,us.to
@@ -7754,7 +7747,6 @@ payload:
   - DOMAIN-SUFFIX,yingsuoss.com
   - DOMAIN-SUFFIX,yinlei.org
   - DOMAIN-SUFFIX,yipub.com
-  - DOMAIN-SUFFIX,yiyechat.com
   - DOMAIN-SUFFIX,yizhihongxing.com
   - DOMAIN-SUFFIX,yobit.net
   - DOMAIN-SUFFIX,yobt.com
@@ -7968,7 +7960,6 @@ payload:
   - DOMAIN-SUFFIX,yuanzhengtang.org
   - DOMAIN-SUFFIX,yulghun.com
   - DOMAIN-SUFFIX,yunchao.net
-  - DOMAIN-SUFFIX,yuntipub.com
   - DOMAIN-SUFFIX,yuvutu.com
   - DOMAIN-SUFFIX,yvesgeleyn.com
   - DOMAIN-SUFFIX,ywpw.com
