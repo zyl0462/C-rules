@@ -7531,6 +7531,7 @@ ad.tpmn.co.kr
 ad.tpmn.io
 ad.tradertimerz.media
 ad.turn.com
+ad.twinrdengine.com
 ad.u-car.com.tw
 ad.udition.jp
 ad.unimhk.com
@@ -21637,6 +21638,7 @@ c2s.startappnetwork.com
 c2shb.pubgw.yahoo.com
 c3.gostats.cn
 c3.moogos.com
+c31133f7.xyz
 c3metrics.com
 c3metrics.medifast1.com
 c3s.bionestraff.pro
@@ -29000,6 +29002,7 @@ d22z575k8abudv.cloudfront.net
 d236v5t33fsfwk.cloudfront.net
 d239g0z67jcted.cloudfront.net
 d23a1izvegnhq4.cloudfront.net
+d23d450d.xyz
 d23d7sc86jmil5.cloudfront.net
 d23guct4biwna6.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
@@ -45668,6 +45671,7 @@ gtm.clutter.com
 gtm.diamond.jp
 gtm.docswell.com
 gtm.eduki.com
+gtm.ekonomifakta.se
 gtm.elementor.com
 gtm.elisa.fi
 gtm.ellos.se
@@ -48978,6 +48982,7 @@ hzoouw.s-re.jp
 hzoywchsp.com
 hzr0dm28m17c.com
 hzrghx.xyz
+hzrnbl.xyz
 hzs10.cnzz.com
 hzs12.cnzz.com
 hzs13.cnzz.com
@@ -81092,7 +81097,6 @@ pv.mediav.com
 pv.partenaires-verisure.fr
 pv.ra.icast.cn
 pv.sogou.com
-pv.sohu.com
 pv.vipwm.cc
 pv.xcar.com.cn
 pv.zdnet.com.cn
@@ -106353,6 +106357,7 @@ track.f1store.formula1.com
 track.ferrari.com
 track.ferraridealers.com
 track.financialfairness.org.uk
+track.fluffyfalcon.com
 track.ft.com
 track.futureshop.ca
 track.fxstreet.com
