@@ -7,8 +7,6 @@ payload:
   - DOMAIN,aqi.aqicn.org
   - DOMAIN,assets-priconne-redive-us.akamaized.net
   - DOMAIN,bcbolt446c5271-a.akamaihd.net
-  - DOMAIN,cache.video.iqiyi.com
-  - DOMAIN,chat.openai.com.cdn.cloudflare.net
   - DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,cloud.oracle.com
   - DOMAIN,copilot.microsoft.com
@@ -35,8 +33,6 @@ payload:
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
   - DOMAIN,ocvideo.apple.com
-  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
   - DOMAIN,rpg.pic-imges.com
   - DOMAIN,rthklive2-lh.akamaihd.net
   - DOMAIN,self.events.data.microsoft.com
@@ -1192,6 +1188,7 @@ payload:
   - DOMAIN-SUFFIX,chaoex.com
   - DOMAIN-SUFFIX,chapm25.com
   - DOMAIN-SUFFIX,chat.lmsys.org
+  - DOMAIN-SUFFIX,chat.openai.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatnook.com
   - DOMAIN-SUFFIX,chaturbate.com
