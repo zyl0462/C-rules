@@ -1481,6 +1481,7 @@
 44q.com
 44tele-infra.com
 452tapgn.de
+453130fa9e.com
 4567.org
 456vdghgj30.dyndns.org
 46186911.vtt
@@ -10746,6 +10747,7 @@ advertising-api-eu.amazon.com
 advertising-api-fe.amazon.com
 advertising-api.amazon.com
 advertising-cdn.com
+advertising-cdn.dpgmedia.cloud
 advertising.adobe.com
 advertising.aol.com
 advertising.apple.com
@@ -24126,6 +24128,7 @@ cesebsir.xyz
 cesebtp.com
 cesiumsemboite.com
 cessationcorrectmist.com
+cessationhamster.com
 cessationrepulsivehumid.com
 cestibegster.com
 ceteembathe.com
@@ -40904,6 +40907,7 @@ febcyv.joshi-spa.jp
 febrah.com
 februarybogus.com
 februarynip.com
+febtzd.xyz
 fecabookk.com
 fecerismasker.com
 fedapush.net
@@ -41207,6 +41211,7 @@ fghm.ga25.com
 fghmc.ga25.com
 fghmimg.ga25.com
 fgi90.com
+fgigrmle.xyz
 fgijincfktbguv.xyz
 fgislklsqqytr.com
 fgisstdudch.com
@@ -41229,6 +41234,7 @@ fgttbz.xyz
 fguhyg.cn
 fgukchz.icu
 fgwerg.top
+fgwuw.com
 fgxfnkiojgs.com
 fh-main.measure.agilemeasure.com
 fh259by01r25.com
@@ -44716,6 +44722,7 @@ ggvhbnkfc.com
 ggw.gusuwang.com
 ggw.watertu.com
 ggwcash.com
+ggwifobvx.com
 ggx.cmvideo.cn
 ggx0001.com
 ggx01.miguvideo.com
@@ -46926,6 +46933,7 @@ gsuxyg.xyz
 gswinnodf.com
 gswtol.com
 gsyegj.shatura.com
+gsywcc.xyz
 gszetzdm.xyz
 gt.duowan.com
 gt.yy.com
@@ -47201,6 +47209,7 @@ gw100-10.com
 gw1jvhs.com
 gw2cddpt2hao.asia
 gw2cddpt2hao.cloud
+gw2cddpt2hao.site
 gw5.push.mcp.weibo.cn
 gw6.push.mcp.weibo.cn
 gwallet.com
@@ -54204,6 +54213,7 @@ iptmgi.akan.co.kr
 iptmih.hifi-regler.de
 iptrack.io
 iptracker-lb-*.amazonaws.com
+iptuy.cn
 iptvdeals.com
 ipua.adfurikun.jp
 ipummv.pharao24.de
@@ -58389,6 +58399,7 @@ kygelf.ludwig-von-kapff.de
 kygfocnbvlaa.com
 kygftx.xyz
 kyikdee.cn
+kyislod.top
 kyjhuflgtl.xyz
 kyjoyk.modoza.com
 kyjwtxei.xyz
@@ -59849,6 +59860,7 @@ lihuwvokhonsni.com
 liitwrz.icu
 liivhntsu.com
 lijit.com
+lijlrz.xyz
 lijybcfgnjh.com
 like-it.co.il
 like.reply.de
@@ -72239,6 +72251,7 @@ nationssalvation.com
 nativ.podruzke.ru
 nativclick.com
 native-ad.net
+native-ads-events-api.c4s-rd.services
 native-adserver.com
 native-cdn.com
 native-commerce.com
@@ -75326,6 +75339,7 @@ oleinironed.top
 olenation.org
 oleoshaves.top
 olep.xyz
+olgcpwc.icu
 olgknseruf.com
 olgtex.com
 olhqou.realsimple.com
@@ -75835,6 +75849,7 @@ oninewsful.life
 onirybank.com
 onjjbn.koffiemarkt.be
 onjmsj.sumai-surfin.com
+onkafxtiqcu.com
 onkavst.com
 online-adnetwork.com
 online-banners.nl
@@ -83389,6 +83404,7 @@ qnzczf.idc-otsuka.jp
 qoaaa.com
 qoairs.scholl-shoes.com
 qobarmbghaiv.xyz
+qobuz.surveysparrow.com
 qodyldusxloinpn.com
 qogearh.com
 qogilljcxwvrhj.com
@@ -100527,6 +100543,7 @@ steamdespicable.com
 steamjaws.com
 steamtraffic.com
 steamunlocked.one
+stedrits.xyz
 stedsous.xyz
 steeelm.online
 steefaulrouy.xyz
@@ -108158,6 +108175,7 @@ track.yetric.app
 track.yfret.com
 track.yieldsoftware.com
 track.youniversalmedia.com
+track.zapimoveis.com.br
 track.zappos.com
 track.zerofriend.com
 track.zomato.com
