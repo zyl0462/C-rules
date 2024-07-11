@@ -8123,6 +8123,7 @@ ad.inter-edu.com
 ad.intl.xiaomi.com
 ad.ipadview.com
 ad.iplayer.org
+ad.iwhop.cn
 ad.jamba.net
 ad.jamster.co.uk
 ad.jibunde-esute.com
@@ -18028,6 +18029,7 @@ baijs03.xyz
 baijs05.xyz
 baijs06.xyz
 baijs07.xyz
+baijs08.xyz
 baikalize.com
 baike.biz
 bailedgatheringmirth.com
@@ -24104,6 +24106,7 @@ cenceevent.club
 cendantofth.org
 ceneverdreams.com
 ceneverdreams.org
+cengqinglin.cn
 cenjobs.acspubs.org
 cennter.com
 census.misterspex.at
@@ -31129,7 +31132,6 @@ data.accountsemea.coca-cola.com
 data.accountslatam.coca-cola.com
 data.adlermode.com
 data.admin-updates.airmiles.ca
-data.adobedc.net
 data.ads.oppomobile.com
 data.adwombat.com
 data.aem-sites-internal.adobe.com
@@ -48582,6 +48584,7 @@ hfnzhczqgdp.com
 hfoghh.inter.it
 hfolmr.office-com.jp
 hfptbb.cn
+hfptbf.cn
 hfpuhwqi.xyz
 hfpwcx.supermercadosmas.com
 hfr67jhqrw8.com
@@ -49144,6 +49147,7 @@ hktracker.hankookilbo.com
 hkuuopuhl.xyz
 hkuypnhpafbuyy.com
 hkvuzv.xyz
+hl.dyq.cn
 hl.kuzu.com
 hl.quw18.com
 hl2rcv.adobe.com
@@ -58234,6 +58238,7 @@ krqmfmh.com
 krqttfeq.com
 krskux.newhaircaps.com.br
 krt.asycxtz.cn
+krtlisd.top
 krum.vsct.fr
 krut.link
 krutilka.net
@@ -106061,6 +106066,7 @@ tlznblypsyyr.com
 tm-banners.gamingadult.com
 tm-core.net
 tm-eps.neutrino.nu
+tm-gta5-prod.ros.rockstargames.com
 tm-marketing.wolterskluwer.com
 tm-offers.gamingadult.com
 tm.jsuol.com.br
@@ -108973,6 +108979,7 @@ tracking.insperity.com
 tracking.intentsify.io
 tracking.interweave.com
 tracking.intl.miui.com
+tracking.iwhop.cn
 tracking.janssenmed.cz
 tracking.janssenmed.ro
 tracking.janssenmed.sk
