@@ -13469,6 +13469,7 @@ analytics.qogita.com
 analytics.qoqa.ch
 analytics.qoqa.com
 analytics.qoqa.ninja
+analytics.qs-apps.com
 analytics.qualcomm.com
 analytics.qualityquestions.co
 analytics.qualityunit.com
@@ -29810,6 +29811,7 @@ d15kuuu3jqrln7.cloudfront.net
 d15mt77nzagpnx.cloudfront.net
 d15r06k2ko210l.cloudfront.net
 d160mt023h8h3d.cloudfront.net
+d162h6x3rxav67.cloudfront.net
 d162nnmwf9bggr.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16b4.8ox.cn
@@ -39631,7 +39633,6 @@ eventlog.chatlead.com
 eventlog.hd.baofeng.com
 eventlog.inspsearchapi.com
 eventlog.jackpot.de
-eventlog.outbrain.com
 eventlogger.soundcloud.com
 eventlqvn.com
 eventos.abastur.com
@@ -61730,7 +61731,6 @@ log-en.nhandan.vn
 log-en.sggp.org.vn
 log-gateway.zoom.us
 log-hl.snssdk.com
-log-ird.outbrain.com
 log-lb.skyperfectv.co.jp
 log-marketing.jp
 log-music-data.line-apps.com
@@ -69990,6 +69990,7 @@ mkltfc.atgp.jp
 mkmkew.hometogo.no
 mkmree.dmm.co.jp
 mkolqj.ozonee.pl
+mkscy6.cn
 mkshopmobi.xyz
 mksogv.oneclickdrive.com
 mkt-i.actonservice.com
@@ -71657,7 +71658,6 @@ muzotur.info
 muzsj.com
 muzzlematrix.com
 muzzlepairhysteria.com
-mv.outbrain.com
 mv.treehousei.com
 mva1.maeva.com
 mvads.kugou.com
@@ -73129,6 +73129,7 @@ newmedia.live
 newnns.com
 newnudecash.com
 newoctads.com
+newormedia.com
 newperspective.americanexpress.com
 newpgqnfapkamg.xyz
 newprofitcontrol.com
@@ -75182,7 +75183,6 @@ ocwdkp.icu
 ocwlhv.ecid.com.br
 oczqhythihhu.com
 oda.markitondemand.com
-odb.outbrain.com
 odc.1und1.de
 odc.starwave.com
 odc.wunderground.com
@@ -87794,7 +87794,6 @@ ruxgqemwywx.com
 ruykjvdtutselj.com
 ruzxzebrupa.com
 rv.modanisa.com
-rva.outbrain.com
 rvbiocn.cn
 rvbqze.albamoda.de
 rvddfchkj.xyz
@@ -100219,6 +100218,7 @@ stats.guess.tf.360.cn
 stats.guidingwallet.app
 stats.guycarp.com
 stats.gynsprechstunde.de
+stats.habr.com
 stats.hager.com
 stats.halcyon.hr
 stats.hammertime.me
@@ -103113,6 +103113,7 @@ t.mgoblue.com
 t.miamihurricanes.com
 t.miamiredhawks.com
 t.mktg.genesys.com
+t.mm-uxrv.com
 t.mmaeast.com
 t.mofun.ltd
 t.montecarlosbm.com
