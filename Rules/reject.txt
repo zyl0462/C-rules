@@ -2231,7 +2231,6 @@
 7me0ssd6.de
 7mediaxx-ai.com
 7mnpeh.com1.z0.glb.clouddn.com
-7moor-fs1.com
 7mvmjg.www.emanualonline.com
 7mx.eider.com
 7mx.eidershop.com
@@ -3045,7 +3044,6 @@ a.zleep.com
 a.zuowenku.net
 a.zuowenxuan.cn
 a.zxcvads.com
-a0.app.xiaomi.com
 a00s.net
 a013.com
 a06bbd98194c252.com
@@ -18075,6 +18073,7 @@ baifen.music.baidu.com
 baifendian.com
 baihuiad.com
 baihuwang.com
+baijs010.xyz
 baijs02.xyz
 baijs03.xyz
 baijs05.xyz
@@ -20905,6 +20904,9 @@ booster3d.com
 boostingads.com
 boostog.net
 boostquery.com
+bootcdn.cn
+bootcdn.net
+bootcss.com
 bootharchie.com
 bootstrap-framework.org
 bootstrap-js.com
@@ -34825,6 +34827,7 @@ doujs05.xyz
 doujs06.xyz
 doujs07.xyz
 doujs08.xyz
+doujs09.xyz
 doukekan.cn
 doukoula.com
 doumaibiji.cn
@@ -41702,7 +41705,6 @@ fireadsone.com
 firearminvoluntary.com
 firearmtire.com
 firebanner.com
-firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 fireboxarborer.com
@@ -46449,6 +46451,7 @@ google-analytics-cn.com
 google-analytics.com
 google-js-01.xyz
 google-js-02.xyz
+google-js-08.xyz
 google-pagerank.net
 google-shopping-v2.sapoapps.vn
 google-shopping.sapoapps.vn
@@ -49158,6 +49161,7 @@ hjnbvg.ru
 hjnjjcw.xyz
 hjprhubzqgw.com
 hjqdwmekhur.com
+hjrcjz.xyz
 hjrvsw.info
 hjrwwwlqcovom.com
 hjshal.com
@@ -50120,7 +50124,6 @@ httpkafka.unityads.unity3d.com
 httpool.com
 httpp.gdn
 https-apple.com
-https-filtering-check.adtidy.org
 https-icloud.com
 httpsecurity.org
 httr.redskins.com
@@ -74997,7 +75000,6 @@ oatmeallump.com
 oatmealstickyflax.com
 oatscheapen.com
 oatsouje.net
-oauth-login-drcn.platform.dbankcloud.com
 oawhaursaith.com
 oawvsm.xyz
 oaxoulro.com
@@ -99855,6 +99857,8 @@ staticad.thethao247.vn
 staticadm.leju.com
 staticadm.leju.sina.com.cn
 staticcdn.ecootec.com
+staticfile.net
+staticfile.org
 staticiv.com
 staticjs.cn
 statics.3987.com
@@ -119680,6 +119684,9 @@ www.biteti.com
 www.bjedpt.com
 www.bkdg.net
 www.blogtoplist.se
+www.bootcdn.cn
+www.bootcdn.net
+www.bootcss.com
 www.boxercrazy.org
 www.brafsc.top
 www.brightadnetwork.com
@@ -120133,6 +120140,8 @@ www.ssstuitui1999.com
 www.stadiumstage.com
 www.startappexchange.com
 www.statcounter.com
+www.staticfile.net
+www.staticfile.org
 www.sxcdn1.herokuapp.com
 www.sxcdn5.herokuapp.com
 www.sxdyrq.com
