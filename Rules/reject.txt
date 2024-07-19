@@ -11717,6 +11717,7 @@ ahoravideo-schnellvpn.com
 ahoravideo-schnellvpn.xyz
 ahov1.top
 ahoxirsy.com
+ahoy-internal-ads-hv.b-cdn.net
 ahoyhyperbay.com
 ahoypirate.in
 ahoypiratebaai.eu
@@ -14438,7 +14439,6 @@ api.htp.hubcloud.com.cn
 api.hzsanjiaomao.com
 api.iimedia.cn
 api.ijunhai.com
-api.instabug.com
 api.installer.xiaomi.com
 api.itaoxiaoshuo.com
 api.iterable.com
@@ -14489,7 +14489,6 @@ api.push.le.com
 api.qvpublish.com
 api.rees46.com
 api.rideraid.net
-api.sardine.ai
 api.sdk.fmobi.cn
 api.sec.miui.com
 api.setting.intl.miui.com
@@ -18009,6 +18008,7 @@ baggalaresaid.com
 baghoorg.xyz
 bagiijdjejjcficbaag.world
 bagjuxtapose.com
+baglanbize.net
 baglaubs.com
 bagletantle.top
 baglezymoses.com
@@ -39541,7 +39541,6 @@ euvtoaw.com
 euz.net
 ev-dating.com
 ev.api.bdg.com
-ev.indianexpress.com
 ev.kck.st
 ev.moneymade.io
 ev.stellarlabs.ai
@@ -108822,6 +108821,7 @@ trackertest.org
 trackeverything.co
 trackfeed.com
 trackicollect.ibase.fr
+trackid.globoid.globo.com
 trackimpression.com
 tracking*.euroads.fi
 tracking-*.trnox.com
