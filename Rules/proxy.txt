@@ -534,6 +534,7 @@
 .axureformac.com
 .azerbaycan.tv
 .azerimix.com
+.azirevpn.com
 .azubu.tv
 .azure.com
 .azureedge.net
@@ -1320,6 +1321,7 @@
 .clyp.it
 .cmail19.com
 .cmcn.org
+.cmegroup.com
 .cmi.org.tw
 .cmoinc.org
 .cmp.hku.hk
@@ -3632,6 +3634,7 @@
 .imageab.com
 .imagefap.com
 .imageflea.com
+.imageglass.org
 .images-gaytube.com
 .images.comico.tw
 .imageshack.us
