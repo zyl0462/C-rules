@@ -9187,6 +9187,7 @@ admilk.ru
 admin-vayvonvietthanh.com
 admin.academyforconsciousleadership.net
 admin.cooguo.com
+admin.giaminhmedia.vn
 admin.louxia.org
 admin.net.fidorbank.uk
 admin.ninebox.cn
@@ -9693,6 +9694,7 @@ ads.akairan.com
 ads.akaup.com
 ads.alaatv.com
 ads.aland.com
+ads.alobacsi.vn
 ads.annonsbladet.com
 ads.aol.co.uk
 ads.api.my7v.com
@@ -9771,6 +9773,7 @@ ads.gazetaesportiva.net
 ads.gencgazete.net
 ads.genieessp.com
 ads.gercekgundem.com
+ads.giaminhmedia.vn
 ads.gionee.com
 ads.globo.com
 ads.gmodules.com
@@ -9807,6 +9810,7 @@ ads.jp.ap.g.valuecommerce.com
 ads.juicyads.com
 ads.karzar.net
 ads.kelkoo.com
+ads.ketnoitatca.net
 ads.kiemsat.vn
 ads.kmib.co.kr
 ads.lamchame.vn
@@ -10607,6 +10611,7 @@ adv.app.qq.com
 adv.autosurf.vn
 adv.bandi.so
 adv.baoangiang.com.vn
+adv.baotayninh.vn
 adv.baotintuc.vn
 adv.baovemoitruong.org.vn
 adv.dailyissue.co.kr
@@ -84108,6 +84113,7 @@ r.z3.fm
 r.zlongad.com
 r01.3dwwwgame.com
 r01.g1c5.com
+r01lacou.azidp.tech
 r023m83skv5v.com
 r0wa9z6t8t.ru
 r1.ati.su
@@ -108406,6 +108412,7 @@ tracking-v*.a.run.app
 tracking-web.smobgame.com
 tracking-widget.fillr.com
 tracking.*.miui.com
+tracking.10gb.vn
 tracking.196189.com
 tracking.aapa.org
 tracking.aatkit.com
@@ -109058,6 +109065,7 @@ tracking.s24.com
 tracking.sabic.com
 tracking.sailgp.com
 tracking.salaallehanda.com
+tracking.saostar.vn
 tracking.scenepass.com
 tracking.schneider.com
 tracking.schokoladies.de
@@ -122512,6 +122520,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 z9.cnzz.com
 z91f4.top
 z929.fuelfix.com
+zSmhlV.zgbv.tech
 za-ads.de
 za-go.experian.com
 za.agiay.vn
