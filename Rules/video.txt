@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,tiktokd.org
 DOMAIN-SUFFIX,tiktokmusic.app
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,ttwebview.com
 DOMAIN-SUFFIX,video.google.com
 DOMAIN-SUFFIX,wide-youtube.l.google.com
 DOMAIN-SUFFIX,withyoutube.com
