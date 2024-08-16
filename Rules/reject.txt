@@ -7993,7 +7993,6 @@ ad.ilbe.com
 ad.ilikesponsorad.com
 ad.imp.joins.com
 ad.inhaabit.com
-ad.inter-edu.com
 ad.intl.xiaomi.com
 ad.ipadview.com
 ad.iplayer.org
@@ -26038,6 +26037,8 @@ collector-dev.cdp-dev.cnn.com
 collector-hpn.ghostery.net
 collector-medium.lightstep.com
 collector-px0py5pczn.octopart.com
+collector-pxebumdlwe.px-cdn.net
+collector-pxebumdlwe.px-cloud.net
 collector-pxrf8vapwa.px-cdn.net
 collector-pxrf8vapwa.px-cloud.net
 collector-pxrf8vapwa.pxchk.net
@@ -27941,6 +27942,7 @@ crafty-math.com
 craharice.com
 crajeon.com
 crakbanner.com
+crakedquartin.com
 crakmedia.com
 craktraffic.com
 crambidnonutilitybayadeer.com
@@ -42431,6 +42433,7 @@ fussboden-elsenhans.de
 fussy-highway.pro
 fut.mondo.link
 futeboltv.com
+futharcconny.shop
 futileharrystephen.com
 futilepreposterous.com
 futilereposerefreshments.com
@@ -49673,6 +49676,7 @@ idwrx.com
 idwystdnvb.com
 idydlesswale.info
 idyllicjazz.com
+idyllteapots.com
 ie-business.vodafone.com
 ie-go.experian.com
 ie-mktg.vodafone.com
@@ -82475,6 +82479,7 @@ raspedexsculp.com
 raspnd.quadratec.com
 raspyteam.com
 rasskaju.ru
+rasurescaribou.com
 rat.rakuten.co.jp
 ratcovertlicence.com
 rate2self.com
@@ -119957,6 +119962,7 @@ zaikasoatie.xyz
 zailgrae.com
 zailoanoy.com
 zaimads.com
+zaipousu.net
 zaistaug.net
 zaiuhu.vacatia.com
 zajukrib.net
