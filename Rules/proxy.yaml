@@ -1448,6 +1448,7 @@ payload:
   - DOMAIN-SUFFIX,comodoca.com
   - DOMAIN-SUFFIX,comparitech.com
   - DOMAIN-SUFFIX,compileheart.com
+  - DOMAIN-SUFFIX,compose-spec.io
   - DOMAIN-SUFFIX,compress.to
   - DOMAIN-SUFFIX,compython.net
   - DOMAIN-SUFFIX,connect.facebook.net
@@ -1853,6 +1854,7 @@ payload:
   - DOMAIN-SUFFIX,dnvod.tv
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,dockerhub.com
   - DOMAIN-SUFFIX,doctorvoice.org
   - DOMAIN-SUFFIX,documentingreality.com
   - DOMAIN-SUFFIX,dogatch.jp
@@ -7042,7 +7044,6 @@ payload:
   - DOMAIN-SUFFIX,usacn.com
   - DOMAIN-SUFFIX,usaip.eu
   - DOMAIN-SUFFIX,usanetwork.com
-  - DOMAIN-SUFFIX,usc.edu
   - DOMAIN-SUFFIX,uscardforum.com
   - DOMAIN-SUFFIX,uscnpm.org
   - DOMAIN-SUFFIX,usembassy.gov
