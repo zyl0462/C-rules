@@ -392,7 +392,6 @@
 .api.dropboxapi.com
 .api.linksalpha.com
 .api.mixpanel.com
-.api.proxlet.com
 .api.pureapk.com
 .api.recaptcha.net
 .api.termius.com
@@ -766,7 +765,6 @@
 .blog.martinoei.com
 .blog.pathtosharepoint.com
 .blog.pentalogic.net
-.blog.qooza.hk
 .blog.ranxiang.com
 .blog.sina.com.tw
 .blog.sogoo.org
@@ -3791,6 +3789,7 @@
 .iuksky.com
 .ivacy.com
 .iverycd.com
+.ivonblog.com
 .ivpn.net
 .iwara.tv
 .ixquick.com
@@ -3808,6 +3807,7 @@
 .jamaat.org
 .jamestown.org
 .jamyangnorbu.com
+.jan.ai
 .jandyx.com
 .janwongphoto.com
 .japan-whores.com

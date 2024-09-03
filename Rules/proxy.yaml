@@ -432,7 +432,6 @@ payload:
   - DOMAIN-SUFFIX,api.dropboxapi.com
   - DOMAIN-SUFFIX,api.linksalpha.com
   - DOMAIN-SUFFIX,api.mixpanel.com
-  - DOMAIN-SUFFIX,api.proxlet.com
   - DOMAIN-SUFFIX,api.pureapk.com
   - DOMAIN-SUFFIX,api.recaptcha.net
   - DOMAIN-SUFFIX,api.termius.com
@@ -806,7 +805,6 @@ payload:
   - DOMAIN-SUFFIX,blog.martinoei.com
   - DOMAIN-SUFFIX,blog.pathtosharepoint.com
   - DOMAIN-SUFFIX,blog.pentalogic.net
-  - DOMAIN-SUFFIX,blog.qooza.hk
   - DOMAIN-SUFFIX,blog.ranxiang.com
   - DOMAIN-SUFFIX,blog.sina.com.tw
   - DOMAIN-SUFFIX,blog.sogoo.org
@@ -3831,6 +3829,7 @@ payload:
   - DOMAIN-SUFFIX,iuksky.com
   - DOMAIN-SUFFIX,ivacy.com
   - DOMAIN-SUFFIX,iverycd.com
+  - DOMAIN-SUFFIX,ivonblog.com
   - DOMAIN-SUFFIX,ivpn.net
   - DOMAIN-SUFFIX,iwara.tv
   - DOMAIN-SUFFIX,ixquick.com
@@ -3848,6 +3847,7 @@ payload:
   - DOMAIN-SUFFIX,jamaat.org
   - DOMAIN-SUFFIX,jamestown.org
   - DOMAIN-SUFFIX,jamyangnorbu.com
+  - DOMAIN-SUFFIX,jan.ai
   - DOMAIN-SUFFIX,jandyx.com
   - DOMAIN-SUFFIX,janwongphoto.com
   - DOMAIN-SUFFIX,japan-whores.com
