@@ -10888,6 +10888,7 @@ adx-dre.op.hicloud.com
 adx-exchange.toast.com
 adx-in.ads.heytapmobile.com
 adx-open-service.youku.com
+adx-os.anythinktech.com
 adx-static.ksosoft.com
 adx-tk.rayjump.com
 adx.36kr.com
@@ -21920,6 +21921,7 @@ bxumze.times-gazette.com
 bxumze.tuscaloosanews.com
 bxvirhgaq.com
 bxvlyrw.com
+bxxibvjt.com
 bxxvmjrpegqy.com
 by.dyq.cn
 by.mbai.cn
@@ -41711,6 +41713,7 @@ fq02.shop
 fq03.shop
 fq04.shop
 fq05.shop
+fq06.shop
 fq67.top
 fq9vy0muyqi3.www.madrigalmaps.com
 fqab5xq7qlgt.info
@@ -55416,6 +55419,7 @@ jy04.shop
 jy05.shop
 jy06.shop
 jy07.shop
+jy08.shop
 jy135.com
 jy147a.com
 jybaekajjmrqw.top
@@ -59924,6 +59928,7 @@ log-*.epicdn.me
 log-*.previewnetworks.com
 log-*.zadn.vn
 log-ads.r7.com
+log-ana.h3z.jp
 log-api-mn.huxiu.com
 log-api.cli.im
 log-api.huxiu.com
@@ -71941,6 +71946,7 @@ noodledbulky.top
 noodledesperately.com
 noodokod.xyz
 noodshare.pics
+nooglaug.net
 noojoomo.com
 nookwiser.com
 nooloqfzdta.com
@@ -74445,6 +74451,7 @@ opwofty.cn
 opwoga.xyz
 opxogkbiqkti.com
 oq6ry.com
+oqaejin.icu
 oqbimz.aviasales.ru
 oqcjtifihpi.com
 oqcrqirncna.xyz
@@ -81237,6 +81244,7 @@ qkfwiylmib.com
 qkhhjm.autoscout24.nl
 qkhvongctffugm.com
 qkikkg.xyz
+qkitery.top
 qkjjuhs.com
 qkodjvdsm.com
 qkqlqjjobvkr.top
