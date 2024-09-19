@@ -1,6 +1,6 @@
-#2024/09/19 09:01:50(UTC/GMT+08:00)
-reject rules(120916+25): 120941
+#2024/09/19 20:25:34(UTC/GMT+08:00)
+reject rules(120941-151): 120790
 proxy rules(8081+0): 8081
 social rules(796+0): 796
 video rules(218+0): 218
-total rules(130011+25): 130036
+total rules(130036-151): 129885
