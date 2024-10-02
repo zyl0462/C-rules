@@ -8212,6 +8212,7 @@ ad.mi.com
 ad.mnt123.com
 ad.mo.doubleclick.net
 ad.mobile.youku.com
+ad.mobiuspace.net
 ad.moe.video
 ad.molitv.cn
 ad.moo-mam-tai.com
@@ -8279,6 +8280,7 @@ ad.sinovision.net
 ad.smaad.jp
 ad.smartinmedia.co.kr
 ad.snappea.com
+ad.snaptube.app
 ad.sohu.com
 ad.stsywl.com
 ad.style
@@ -14258,6 +14260,7 @@ api-access.pangolin-sdk-toutiao3.com
 api-access.pangolin-sdk-toutiao4.com
 api-access.pangolin-sdk-toutiao5.com
 api-ad-adapter.wps.com
+api-ad-callback.falconnet.app
 api-ad-product.huxiu.com
 api-ad.kajicam.com
 api-ads.qutaovip.com
@@ -17545,6 +17548,7 @@ ayzylwqazoqow.top
 az.nzn.io
 az200.net
 az693360.vo.msecnd.net
+az697jylm.cc
 az708531.vo.msecnd.net
 azabu-u.ac.jp
 azadify.com
@@ -23590,6 +23594,7 @@ cdn2.auditude.com
 cdn2.cache.vn
 cdn2.crispadvertising.com
 cdn2.moji002.com
+cdn2.sales-frontier.com
 cdn22904910.ahacdn.me
 cdn28786515.ahacdn.me
 cdn2cdn.me
@@ -56638,6 +56643,7 @@ klmmnd.com
 klmrgtvjeiea.com
 klnrew.site
 klonedaset.org
+kloojzn.icu
 kloperd.com
 kloynfsag.com
 klpgmansuchcesu.com
@@ -57237,6 +57243,7 @@ kwtrdd.com
 kwtyuv.com
 kwumme.xyz
 kwurl.ucweb.com
+kwurserd.top
 kwvbhj.jcpenney.com
 kwwgmv.tennistown.de
 kwwvxn.uniqlo.com
@@ -111877,6 +111884,7 @@ verygoodminigames.com
 veryn1ce.com
 verypopularwebsite.com
 verysilenit.com
+veryt111.fun
 vespymedia.com
 vessoupy.com
 vessubysvspr.com
@@ -120938,6 +120946,7 @@ znhlxvb.xyz
 znlgke.jiobit.com
 znlgplt.com
 znmtka.kikocosmetics.com
+znnfzx.xyz
 znnudxutihlksn.com
 znpynwhcqvkudk.com
 znq9.destinia.mx
