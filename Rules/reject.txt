@@ -1323,6 +1323,7 @@
 365sbaffiliates.com
 366226193c.com
 367p.com
+36833185.xyz
 369bgrec.top
 36b7ca5028.com
 36d1ef387c.com
@@ -17727,6 +17728,7 @@ b.pscp.live
 b.publicmobile.ca
 b.qchannel03.cn
 b.rad.msn.com
+b.ranking.apis.sankei-digital.co.jp
 b.redbrickhealth.com
 b.rifub.com
 b.rohde-schwarz.com
@@ -53879,6 +53881,7 @@ iwstat.tudou.com
 iwstats.com
 iwtserve.com
 iwuh.org
+iwursero.top
 iwvo.bym03.cn
 iwwdcglj.com
 iwwmaq.xyz
@@ -57290,6 +57293,7 @@ kvhrrr.top
 kvhtsvy.xyz
 kvidcq.com
 kvjkkwyomjrx.com
+kvkcei.xyz
 kvksis.com
 kvnkjd.kaigoshoku.mynavi.jp
 kvovs.xyz
@@ -97351,6 +97355,7 @@ stat.ado.hu
 stat.adultium.com
 stat.airdroid.com
 stat.alibaba.com
+stat.alltforforaldrar.se
 stat.altalex.com
 stat.api.2gis.ru
 stat.arzamas.academy
@@ -97358,6 +97363,8 @@ stat.baike.com
 stat.bankiros.ru
 stat.bdc.ca
 stat.bigmir.net
+stat.blogg.se
+stat.brollopstorget.se
 stat.buyersedge.com.au
 stat.caijing.com.cn
 stat.canal-plus.com
@@ -97384,6 +97391,7 @@ stat.duokanbox.com
 stat.ea3w.com
 stat.eagleplatform.com
 stat.enter-system.com
+stat.familjeliv.se
 stat.fengniao.com
 stat.funshion.com
 stat.funshion.net
@@ -97476,6 +97484,7 @@ stat.re
 stat.recklesslove.co.za
 stat.ringier.sk
 stat.rizeniskoly.cz
+stat.rodeo.net
 stat.rscc3.cc
 stat.rum.cdnvideo.ru
 stat.russianfood.com
