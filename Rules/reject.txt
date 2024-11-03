@@ -9576,6 +9576,7 @@ ads-cdn.fptplay.net
 ads-chunks.prod.ihrhls.com
 ads-cloud.rovio.com
 ads-collector.luizalabs.com
+ads-config-engine-noneu.truecaller.com
 ads-connect.com
 ads-delivery.b-cdn.net
 ads-delivery.gameforge.com
@@ -10862,7 +10863,6 @@ adx.kul.vn
 adx.mala.cn
 adx.maplehaze.cn
 adx.mocoplex.com
-adx.mossru.com
 adx.opera.com
 adx.phunuadong.vn
 adx.pro.cn
@@ -37498,6 +37498,7 @@ event-api.rdstation.com.br
 event-api.reverb.com
 event-collector.moviesanywhere.com
 event-collector.prd.data.s.joyn.de
+event-dot-learning-piano.appspot.com
 event-listener.air.tv
 event-logger.tagboard.com
 event-reporting-dot-webylytics.appspot.com
@@ -49065,6 +49066,7 @@ immugendx.com
 immunocap.thermofisher.com
 immunocorp.actonservice.com
 imndl.icu
+imniel.com
 imo-cash.de
 imonomy.com
 imp-*.jampp.com
@@ -50485,6 +50487,7 @@ insightful-company-52.com
 insightfulbusinesswisdom.com
 insightfulcompanyinsight.com
 insightgrit.com
+insights-categorizer-noneu.truecaller.com
 insights-collector.newrelic.com
 insights-mxp-cdn.coursecareers.com
 insights-mxp.coursecareers.com
@@ -54048,6 +54051,7 @@ kinotraff.ru
 kinott.com
 kinott.ru
 kinripen.com
+kiolpia.icu
 kiosked.com
 kippbeak.cf
 kipyn.com
@@ -66473,6 +66477,7 @@ mosquitosubjectsimportantly.com
 mosrtaek.net
 mossgaietyhumiliation.com
 mosspf.com
+mossru.com
 mossyiapyges.com
 mostat.wps.cn
 mostauthor.com
@@ -78044,6 +78049,7 @@ qorlxle.com
 qortex.ai
 qosp.msg.71.am
 qoub.rtslgov.cn
+qoubliy.top
 qouvxliy.top
 qouxkn.natuurhuisje.nl
 qovua60gue.tubewolf.com
@@ -96015,6 +96021,7 @@ sync2.audtd.com
 synchrobit.io
 synchrobox.adswizz.com
 synchronizerobot.com
+synchroparomologyauditable.monster
 synconnector.com
 syncwowsails.com
 syndicate.payloadz.com
@@ -109944,6 +109951,7 @@ webeyez.com
 webfanclub.com
 webflowmetrics.com
 webforensics.co.uk
+webfreesave.monster
 webfunny.cn
 webgains.com
 webglstats.com
