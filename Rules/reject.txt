@@ -9561,6 +9561,7 @@ ads-dot-fbc-web-2018.uc.r.appspot.com
 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 ads-gdl.imovideo.ru
 ads-go.adroi.com.cn
+ads-image.production-public.tubi.io
 ads-img-al.xhscdn.com
 ads-img-qc.xhscdn.com
 ads-interfaces.sc-cdn.net
@@ -12620,6 +12621,7 @@ analytics-api.vanceai.com
 analytics-batch.blitz.gg
 analytics-beacon.p.uliza.jp
 analytics-cdiscount.com
+analytics-cds.mobiedu.vn
 analytics-cf.bigcrunch.com
 analytics-cms.whitebeard.me
 analytics-coletor-site.ojc.com.br
@@ -21259,6 +21261,7 @@ bykwtf.victoriassecret.ae
 byluvdiscor.com
 bylwtf.xyz
 bymahuxv.xyz
+bynamebosh.com
 bynix.xyz
 bypasseaseboot.com
 bypassmaestro.com
@@ -21713,6 +21716,7 @@ cafirebreather.com
 cagakzcwyr.com
 cage6west.com
 cageinattentiveconfederate.com
+cagitfiz.com
 cagkpu.suitdirect.co.uk
 caglaikr.net
 caglonseeh.com
@@ -26799,6 +26803,7 @@ cowtpvi.com
 coxiesthubble.com
 coxziptwo.com
 coyizl.embracon.com.br
+coyureviral.com
 cozeswracks.com
 cozibaneco.com
 cozydusk.com
@@ -31756,6 +31761,7 @@ dinerinvite.com
 dinerpropagandatoothbrush.com
 dingbu.bj.bcebos.com
 dingdong.co.il
+dingerhoes.shop
 dingge.cc
 dinghologyden.org
 dingjianlm.com
@@ -37057,6 +37063,7 @@ ev.kck.st
 ev.moneymade.io
 ev.stellarlabs.ai
 ev.tpocdm.com
+ev2.api.bdg.com
 eva-ad.24hstatic.com
 evadavdsp.pro
 evaff.com
@@ -50824,6 +50831,7 @@ iwatero.top
 iwatojc.cn
 iwe.ktvgv.com
 iwebtrack.com
+iweisio.top
 iwerilxo.top
 iwerioo.top
 iwgfdj.iko-yo.net
@@ -57860,6 +57868,7 @@ lwrnikzjpp.com
 lwrohd.xyz
 lwurserl.top
 lwusnt.yogibo.kr
+lwvrv.icu
 lwxjg.com
 lwxs99.cc
 lwxuo.com
@@ -70666,6 +70675,7 @@ ositracker.com
 osjpyw.dico.com.mx
 oskiwood.com
 osm-onead.cdn.hinet.net
+osmeticjewlike.com
 osmoticupbound.com
 osmzym.xyz
 osnksi.czytam.pl
@@ -84170,6 +84180,7 @@ sharion.xyz
 sharkbleed.com
 sharks.vn
 sharkskids.com
+sharondemurer.shop
 sharp.ondu.ru
 sharpay.io
 sharpmarketing.eu
@@ -92009,6 +92020,7 @@ stats.browsertrix.com
 stats.brumtechtapas.co.uk
 stats.buddiy.net
 stats.bungeefit.co.uk
+stats.bunkr.ru
 stats.burocratin.com
 stats.buysellads.com
 stats.byma.com.br
@@ -103055,6 +103067,7 @@ u578.wlwt.com
 u595sebqih.com
 u5e.com
 u5lxh1y1pgxy.shop
+u5ps5.icu
 u6.gg
 u652.myplainview.com
 u68t5.icu
@@ -104390,6 +104403,7 @@ user-clicks.com
 user-metrics.onthemarket.com
 user-red.com
 user-shield-check.com
+user-signals.production-public.tubi.io
 user-stats.rbl.ms
 user.ad-locus.com
 user.headlines.pw
@@ -106744,6 +106758,7 @@ vntikiship.com
 vntkm.com
 vntsm.com
 vntsm.io
+vnuuh.icu
 vnvay.top
 vnvietcombank.cc
 vnvietcombanks.cc
@@ -108459,6 +108474,7 @@ weekendchinholds.com
 weeklideals.com
 ween.bid
 weensnandow.com
+weensydudler.com
 weephuwe.xyz
 weepingheartache.com
 weepingpretext.com
@@ -109676,6 +109692,7 @@ wrapstretch.com
 wrathful-alternative.com
 wrathyblesmol.com
 wrating.com
+wrdamoe.icu
 wrdnaunq.com
 wreaksyolkier.com
 wreathabble.com
