@@ -11958,6 +11958,7 @@ alhi.actonservice.com
 alhiop.thehandsome.com
 alhypnoom.com
 ali-ad.a.yximgs.com
+ali-bj-pcdn-*.biliapi.net
 ali-pro-origin-pull.kwai.net.iberostar.com
 ali-pro-pull.kwai.net.iberostar.com
 ali-stats.jpush.cn
@@ -13849,6 +13850,7 @@ ao-mkt.tableausoftware.com
 ao.jsitel.com
 ao.pioncomm.net
 ao.tolydigital.net
+ao1118kas.top
 aoakss.com
 aoalmfwinbsstec23.com
 aoao11111iis.top
@@ -27332,6 +27334,7 @@ cryo.socialblade.com
 cryorganichash.com
 cryp-o.online
 cryptaloot.pro
+crypto-ads.net
 crypto-coins.com
 crypto-coins.info
 crypto-loot.com
@@ -46623,6 +46626,7 @@ hvxrvef.xyz
 hvxymx.tui.pl
 hvzrrvj.cn
 hw-ot-ad.a.yximgs.com
+hw-sh-pcdn-*.biliapi.net
 hw.zuimeitianqi.com
 hwa.his.huawei.com
 hwad.zuimeitianqi.com
@@ -64129,6 +64133,7 @@ mhvllvgrefplg.com
 mhwbhn.tohapi.fr
 mhwozc.cn
 mhwpwcj.com
+mhwy6.icu
 mhz-design.actonservice.com
 mhzftye.xyz
 mi-de-ner-nis3.info
@@ -86206,6 +86211,7 @@ smetrics.autonews.com
 smetrics.autotrader.com
 smetrics.avalara.com
 smetrics.avancesenrespiratorio.com
+smetrics.avanza.se
 smetrics.avastin-hcp.com
 smetrics.avastin.com
 smetrics.aveva.com
@@ -104761,6 +104767,7 @@ uwaxoyfklhm.com
 uwcu.0b6h.cn
 uwdvcn.com
 uwdzbo.tgw.com
+uweisit.top
 uweriot.top
 uwerpyh.cn
 uwfcqtdb.xyz
