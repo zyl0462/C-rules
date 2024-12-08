@@ -803,3 +803,4 @@ payload:
   - PROCESS-NAME,org.telegram.messenger
   - PROCESS-NAME,telegram-desktop
   - PROCESS-NAME,tw.nekomimi.nekogram
+  - PROCESS-NAME,xyz.nextalone.nagram
