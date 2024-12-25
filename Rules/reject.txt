@@ -10731,6 +10731,7 @@ adx-ad.smart-tv.cn
 adx-bid.tianzhuobj.com
 adx-bj.anythinktech.com
 adx-cn.anythinktech.com
+adx-data.yfanads.com
 adx-drcn.op.dbankcloud.cn
 adx-dre.op.hicloud.com
 adx-exchange.toast.com
@@ -14133,6 +14134,7 @@ api.wsq.umeng.com
 api.xiaohuxi.cn
 api.xk.miui.com
 api.y.igexin.com
+api.yfanads.com
 api.yidaomobi.com
 api.youngle.tech
 api.youtu.qq.com
@@ -22260,6 +22262,7 @@ cdn-api-verify.mob.com
 cdn-bongdadem-net.cdn.ampproject.org
 cdn-channels-pixel.ex.co
 cdn-code.host
+cdn-gw-dv.vip
 cdn-haokanapk.baidu.com
 cdn-image.com
 cdn-jquery.host
@@ -22871,6 +22874,7 @@ cf-eba.everytime.kr
 cf-native.karte.io
 cf-pixelfront-analytics.widencdn.net
 cf.37cs.com
+cf.adxcel.com
 cf.campagnes-france.com
 cf.cdn.inmobi.com
 cf.k053f0.cn
@@ -56337,6 +56341,7 @@ log.polarisoffice.com
 log.popin.cc
 log.prezi.com
 log.propermessage.io
+log.pullcenter.live
 log.pvpgang.com
 log.qchannel03.cn
 log.quora.com
@@ -58656,6 +58661,7 @@ m3uef4b38brmbntdzx.franchiseplus.nl
 m4su.online
 m4zoxtrcea1k.controlconceptsusa.com
 m5.66077.cn
+m51.icu
 m53frvehb.com
 m549z.site
 m583.dailydemocrat.com
@@ -76570,6 +76576,7 @@ qwex.ru
 qwfh39851jtfvkurf21hf.com
 qwfuug.phoneclick.it
 qwiarjayuffn.xyz
+qwilmiy.top
 qwivhkmuksjodtt.com
 qwkmiot.com
 qwlbvlyaklmjo.top
@@ -79591,6 +79598,7 @@ rvvmynjd.love
 rvz9.destinia.co.ro
 rw.marchex.io
 rwdito.carsguide.com.au
+rwdjrn.icu
 rwevib.harmontblaine.com
 rwfkzw.wuerth.it
 rwhneg.breaking-news.jp
@@ -92086,6 +92094,7 @@ statsfa.com
 statsforads.com
 statsforever.com
 statshunt.com
+statsig.anthropic.com
 statsigapi.net
 statsinsight.com
 statsit.com
@@ -99483,6 +99492,7 @@ tracker.winload.de
 tracker.wordstream.com
 tracker.wpserveur.net
 tracker.xgen.dev
+tracker.yfanads.com
 tracker.yhd.com
 tracker.zummycloud.com
 trackerapi.service.echobox.com
@@ -103713,6 +103723,7 @@ utmostsecond.com
 utndln.com
 utnwxhjv.xyz
 utokapa.com
+utoken.umeng.com
 utop.ir
 utop.umengcloud.com
 utopclick.com
@@ -106136,6 +106147,7 @@ vrewpywootyu.com
 vrgvugostlyhewo.info
 vrhesh.avocadogreenmattress.com
 vrichshop.com
+vriesziy.com
 vrime.xyz
 vrinqop.icu
 vrixon.com
@@ -111402,6 +111414,8 @@ yeyou.3393.com
 yezilm.com
 yezztf.pinkelephant.co.kr
 yf5.voyage-prive.at
+yfanads.cn
+yfanads.com
 yfaqgk.xyz
 yfasjfk.icu
 yfaygn.natureetdecouvertes.com
