@@ -927,6 +927,8 @@
 .brookings.edu
 .brucewang.net
 .brutaltgp.com
+.bsky.app
+.bsky.social
 .bstarstatic.com
 .bt2mag.com
 .bt95.com
@@ -1612,6 +1614,7 @@
 .debug.com
 .deck.ly
 .decodet.co
+.deepai.org
 .deepmind.com
 .deezer.com
 .definebabe.com
@@ -1813,6 +1816,7 @@
 .docker.com
 .docker.io
 .dockerhub.com
+.docs.new
 .doctorvoice.org
 .documentingreality.com
 .dogatch.jp
@@ -3183,6 +3187,7 @@
 .hackmd.io
 .hackthatphone.net
 .hahlo.com
+.haijiao.com
 .haiwaikan.com
 .hakkatv.org.tw
 .handcraftedsoftware.org
@@ -5883,6 +5888,7 @@
 .shat-tibet.com
 .shattered.io
 .shazam.com
+.sheets.new
 .sheikyermami.com
 .shellfire.de
 .shemalez.com
@@ -5989,6 +5995,7 @@
 .sleazydream.com
 .slheng.com
 .slickvpn.com
+.slides.new
 .slideshare.net
 .slime.com.tw
 .slinkset.com
@@ -6007,6 +6014,7 @@
 .smith.edu
 .smyxy.org
 .snapchat.com
+.snapseed.com
 .snaptu.com
 .sndcdn.com
 .sneakme.net
@@ -7252,6 +7260,7 @@
 .vporn.com
 .vpser.net
 .vraiesagesse.net
+.vrchat.com
 .vrmtr.com
 .vrsmash.com
 .vs.com
@@ -7371,6 +7380,7 @@
 .wha.la
 .whatblocked.com
 .whatbrowser.org
+.whats.new
 .whatsapp.com
 .whatsapp.net
 .whatsonweibo.com
