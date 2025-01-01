@@ -3133,6 +3133,7 @@
 .greenvpn.org
 .grindr.com
 .grotty-monday.com
+.ground.news
 .groups.google.cn
 .grow.google
 .gs-discuss.com
@@ -3264,6 +3265,7 @@
 .here.com
 .heritage.org
 .heroku.com
+.herokuapp.com
 .heungkongdiscuss.com
 .hexieshe.com
 .hexieshe.xyz
@@ -3432,6 +3434,7 @@
 .hoxx.com
 .hoyolab.com
 .hpa.gov.tw
+.hpjav.com
 .hqcdp.org
 .hqjapanesesex.com
 .hqmovies.com
@@ -3572,6 +3575,7 @@
 .iask.bz
 .iask.ca
 .iav19.com
+.iavian.net
 .ibiblio.org
 .ibit.am
 .iblist.com
@@ -5216,6 +5220,7 @@
 .pcanywhere.net
 .pcc.gov.tw
 .pcdvd.com.tw
+.pcgamestorrents.com
 .pchome.com.tw
 .pcij.org
 .pcloud.com
