@@ -1351,6 +1351,7 @@
 .cnbbnews.wordpress.com
 .cnbc.com
 .cnbcfm.com
+.cnbeta.com.tw
 .cnd.org
 .cnet.com
 .cnex.org.cn
