@@ -12468,6 +12468,7 @@ analytics-gw.games.wanmei.com
 analytics-helper.com
 analytics-hub.3plearning.com
 analytics-ingestion-production.tubitv.com
+analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 analytics-ingestion.pbpms.de
 analytics-ingestion.production-public.tubi.io
 analytics-ingress-global.bitmovin.com
@@ -16965,7 +16966,6 @@ b.iheart.southwest.com
 b.itravel.southwest.com
 b.iwanna.southwest.com
 b.kakoysegodnyaprazdnik.ru
-b.karte.io
 b.koodomobile.com
 b.kouke5.com
 b.kuangtuiguoo18888.com
@@ -23252,6 +23252,7 @@ chugsorlando.com
 chulhawakened.com
 chullohagrode.com
 chultoux.com
+chumealq.com
 chumpaufte.xyz
 chumsaft.com
 chunfuxie.cn
@@ -24812,6 +24813,7 @@ collector.shorte.st
 collector.sspinc.io
 collector.superwall.me
 collector.szlcsc.com
+collector.t-idr.com
 collector.taoxh.life
 collector.tescocompare.com
 collector.trendmd.com
@@ -33166,6 +33168,7 @@ dynamicoxygen.com
 dynamitedata.com
 dynamosbakongo.shop
 dynatrace-managed.com
+dynatrace.att.com
 dynpaa.com
 dynspt.com
 dynsrv.wps.cn
@@ -36067,6 +36070,7 @@ eravprvvqqc.xyz
 erb.tremblant.ca
 erbiscusysexbu.info
 ercoeteasacom.com
+ercoils.com
 erdeallyighab.com
 erdecisesgeorg.info
 erebor.douban.com
@@ -67701,6 +67705,7 @@ o626b32etkg6.com
 o68c.sfr.fr
 o7h.net
 o8.hyatt.com
+o8s.icu
 o8zoz.icu
 o911o.com
 oa-panther.data.aliyun.com
@@ -74395,6 +74400,7 @@ publicityclerks.com
 publiclyphasecategory.com
 publicschoolworks.actonservice.com
 publicsofa.com
+publictelemetry.tophat.com
 publicunloadbags.com
 publift.com
 publipagos.com
@@ -90356,7 +90362,6 @@ static.jampp.com
 static.javhd.com
 static.jebe.renren.com
 static.jointreport-switch.com
-static.karte.io
 static.ku6.com
 static.live.nagezan.net
 static.m.sjzhushou.com
@@ -101294,6 +101299,7 @@ twistsweater.com
 twistyscash.com
 twitob.com
 twittad.com
+twitter.sx
 twitterfollowers.site
 twiz.wizaly.co.uk
 twiz.wizaly.fr
@@ -110174,6 +110180,7 @@ xx-umomfzqik.today
 xx3691b.com
 xxaks01080sspao.xyz
 xxaks01081sspao.xyz
+xxaks01091sspao.xyz
 xxccdshj.com
 xxcgdq.com
 xxdfexbwv.top
