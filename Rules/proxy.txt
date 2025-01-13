@@ -41,6 +41,7 @@
 .1mobile.com
 .1mobile.tw
 .1password.com
+.1point3acres.com
 .1pondo.tv
 .2-hand.info
 .2000fun.com
@@ -130,6 +131,7 @@
 .9001700.com
 .908taiwan.org
 .91porn.com
+.91porny.com
 .91vps.club
 .92ccav.com
 .991.com
@@ -501,6 +503,7 @@
 .atv-ps-fe.amazon.com
 .atv-ps.amazon.com
 .auctions.yahoo.co.jp
+.audacy.com
 .audionow.com
 .auntology.fandom.com
 .authorizeddns.net
@@ -1115,6 +1118,7 @@
 .cdp2006.org
 .cdpa.url.tw
 .cdpeu.org
+.cdpuk.co.uk
 .cdpusa.org
 .cdpweb.org
 .cdpwu.org
@@ -1610,6 +1614,7 @@
 .ddns.net
 .ddns.us
 .de-sci.org
+.deadhouse.org
 .deadline.com
 .deaftone.com
 .debug.com
@@ -2288,6 +2293,7 @@
 .firstfivefollowers.com
 .firstpost.com
 .firstrade.com
+.fish.audio
 .fizzik.com
 .flagsonline.it
 .flecheinthepeche.fr
@@ -3449,6 +3455,7 @@
 .hrtsea.com
 .hrw.org
 .hrweb.org
+.hsex.men
 .hsjp.net
 .hsselite.com
 .hst.net.tw
@@ -3685,6 +3692,7 @@
 .info-graf.fr
 .informer.com
 .ingress.com
+.inherit.live
 .initiativesforchina.org
 .inkbunny.net
 .inkui.com
@@ -4463,6 +4471,7 @@
 .minzhuhua.net
 .minzhuzhanxian.com
 .minzhuzhongguo.org
+.miraheze.org
 .miroguide.com
 .mirrorbooks.com
 .mirrormedia.mg
@@ -4510,6 +4519,7 @@
 .mojim.com
 .mol.gov.tw
 .molihua.org
+.momoshop.com.tw
 .monar.ch
 .mondex.org
 .money-link.com.tw
@@ -5564,6 +5574,7 @@
 .radicalparty.org
 .radiko.jp
 .radio-canada.ca
+.radio-en-ligne.fr
 .radio.garden
 .radioaustralia.net.au
 .radiohilight.net
@@ -5999,6 +6010,7 @@
 .slandr.net
 .slaytizle.com
 .sleazydream.com
+.sleazyfork.org
 .slheng.com
 .slickvpn.com
 .slides.new
@@ -6133,6 +6145,7 @@
 .spotifynewsroom.jp
 .spotilocal.com
 .spreadshirt.es
+.spreaker.com
 .spring-plus.net
 .spring.io
 .spring.net
@@ -6601,8 +6614,10 @@
 .tik-tokapi.com
 .tiktok.com
 .tiktok.us
+.tiktokcdn-us.com
 .tiktokcdn.com
 .tiktokv.com
+.tiktokv.us
 .tiltbrush.com
 .timdir.com
 .time.com
@@ -7949,6 +7964,7 @@
 .yyjlymb.xyz
 .yysub.net
 .yzzk.com
+.z-lib.io
 .z-lib.org
 .z5.app
 .z5.com
