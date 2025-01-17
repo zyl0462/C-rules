@@ -1536,6 +1536,7 @@
 4stats.de
 4t6u.icu
 4u.pl
+4ve.fun
 4wad.com
 4we.icu
 4wm.fun
@@ -2337,6 +2338,7 @@
 8t2.di91ba.cn
 8t9he.cyou
 8trd.online
+8u0.fun
 8ue4rp6yxyis.www.tapmyback.com
 8v1.cn
 8vwxqg.tapin.gg
@@ -22128,6 +22130,7 @@ cdn-haokanapk.baidu.com
 cdn-image.com
 cdn-ketchapp.akamaized.net
 cdn-magiclinks.trackonomics.net
+cdn-media.brightline.tv
 cdn-net.com
 cdn-plugin-sync-upgrade-juui.hismarttv.com
 cdn-qc.coccoc.com
@@ -27167,6 +27170,7 @@ ctvay.net
 ctvnmxl.com
 ctvrtrya.xyz
 ctvshopee.com
+ctwmcd.com
 ctwqxs.autoscout24.at
 ctx.citiservi.es
 ctx.matchads.net
@@ -34554,6 +34558,7 @@ edtotigainare.info
 edtp.de
 edtrainingcenter.actonservice.com
 edttmar.com
+edttwm.com
 edu-lib.com
 edu.jiukang.org
 edu.quizdom.gr
@@ -34587,6 +34592,7 @@ eduynp.fcl-hid.com
 edvfwlacluo.com
 edvxygh.com
 edw.edmunds.com
+edwmpt.com
 edyurliw.top
 ee.0pi84.cn
 ee.1s8pj.cn
@@ -36705,6 +36711,7 @@ eventbarricadewife.com
 eventbus.intuit.com
 eventcapture03.com
 eventcapture06.com
+eventcollector.mcf-prod.a.intuit.com
 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 eventexistence.com
 eventful.com
@@ -38696,6 +38703,7 @@ flipdigital.ru
 flipflap.pro
 flipool.com
 flippantguilt.com
+flippback.com
 flippedfunnel.com
 flipt.actonservice.com
 flirt4e.com
@@ -41538,6 +41546,7 @@ gladsince.com
 gladysway.com
 glaghoowingauck.net
 glaickoxaksy.com
+glaicmauxoah.net
 glaidalr.net
 glaidekeemp.net
 glaidipt.net
@@ -41692,6 +41701,7 @@ glochatuji.com
 glochisprp.com
 glodsaccate.com
 glofodazoass.com
+gloghauzolso.xyz
 glogoowo.net
 glogopse.net
 glokta.info
@@ -43157,7 +43167,6 @@ growthmodemarketing.actonservice.com
 growthpic.weishi.qq.com
 growthrx.in
 growthtransport.com
-grpc.biliapi.net
 grphfzutw.xyz
 grs.dbankcloud.com
 grs.hicloud.com
@@ -43417,6 +43426,7 @@ gumgum.com
 gumlahdeprint.com
 gummierhedera.life
 gumon.site
+gunlockpepped.shop
 gunmi.cn
 gunwaleneedsly.com
 gunzblazingpromo.com
@@ -49408,6 +49418,7 @@ inventionpassenger.com
 inventionwere.com
 inventionyolk.com
 inventoryproducedjustice.com
+inventsloosely.com
 invest-pool.ru
 invest-system.net
 invest.rubicoin.com
@@ -49517,6 +49528,7 @@ ionigravida.com
 ioniserpinones.com
 ioniseryeaoman.shop
 ionistkhaya.website
+ionogenbakutu.shop
 iononetravoy.com
 ionscormationwind.info
 ionthatco.cfd
@@ -64905,6 +64917,7 @@ msz3.destinia.cn
 mt-business.vodafone.com
 mt.gigazine.net
 mt.plateiq.com
+mt.ssai.peacocktv.com
 mt34iofvjay.com
 mt48.net
 mt67.net
@@ -71650,6 +71663,7 @@ pheegopt.xyz
 pheekoamek.net
 pheepudo.net
 pheersie.com
+pheetuth.com
 pheftoud.com
 phemex.shop
 pheniter.com
@@ -74291,6 +74305,7 @@ psbiaf.converse.com
 pschentinfile.com
 psclicks.com
 psdn.xyz
+psedwm.com
 pseeckotees.com
 pseegroah.com
 pseempep.com
@@ -81007,6 +81022,7 @@ scoopmaria.com
 scootcomely.com
 scootloor.com
 scopefile.com
+scopingrile.com
 scorchstrung.com
 score-feed.com
 scoreasleepbother.com
@@ -102341,6 +102357,7 @@ unacceptableperfection.com
 unaccountablecreator.com
 unaccountablepie.com
 unaces.com
+unactkiosk.com
 unads.ru
 unalzlt.top
 unamplespalax.com
@@ -105724,6 +105741,7 @@ vtoajoyxqicss.com
 vtodss.livenation.com
 vtracker.net
 vtracy.de
+vtrk.dv.tech
 vtrtl.de
 vttics.world.co.jp
 vtv24.pro
@@ -106114,6 +106132,7 @@ wallstrads.com
 walmartshoping.com
 walmartva.icu
 walmeric.com
+waltzersurvise.com
 waltzprescriptionplate.com
 wamahe.wokularach.pl
 wamcash.com
@@ -107814,6 +107833,7 @@ wmbldi.compass.it
 wmcasher.ru
 wmcbld.top
 wmccd.com
+wmcdct.com
 wmcdp.io
 wmcdpt.com
 wmclickz.ru
@@ -107841,6 +107861,7 @@ wmptcd.com
 wmptctl.com
 wmpted.com
 wmptengate.com
+wmptpr.com
 wmpuem.com
 wmrok.com
 wmrok.net
