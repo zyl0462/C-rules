@@ -194,6 +194,7 @@ payload:
   - DOMAIN-SUFFIX,abc.xyz
   - DOMAIN-SUFFIX,abchinese.com
   - DOMAIN-SUFFIX,abclite.net
+  - DOMAIN-SUFFIX,abebooks.co.uk
   - DOMAIN-SUFFIX,abebooks.com
   - DOMAIN-SUFFIX,abema-tv.com
   - DOMAIN-SUFFIX,abema.io
@@ -1071,6 +1072,7 @@ payload:
   - DOMAIN-SUFFIX,cari.com.my
   - DOMAIN-SUFFIX,caribbeancom.com
   - DOMAIN-SUFFIX,carmotorshow.com
+  - DOMAIN-SUFFIX,carousell.com.hk
   - DOMAIN-SUFFIX,carrd.co
   - DOMAIN-SUFFIX,carryzhou.com
   - DOMAIN-SUFFIX,cartoonmovement.com
@@ -1192,6 +1194,7 @@ payload:
   - DOMAIN-SUFFIX,channel4.com
   - DOMAIN-SUFFIX,channel5.com
   - DOMAIN-SUFFIX,channelnewsasia.com
+  - DOMAIN-SUFFIX,chanworld.org
   - DOMAIN-SUFFIX,chaoex.com
   - DOMAIN-SUFFIX,chapm25.com
   - DOMAIN-SUFFIX,chat.lmsys.org
@@ -1375,7 +1378,6 @@ payload:
   - DOMAIN-SUFFIX,cmule.org
   - DOMAIN-SUFFIX,cmx.im
   - DOMAIN-SUFFIX,cn-proxy.com
-  - DOMAIN-SUFFIX,cn.dayabook.com
   - DOMAIN-SUFFIX,cn.fmnnow.com
   - DOMAIN-SUFFIX,cn.freeones.com
   - DOMAIN-SUFFIX,cn.giganews.com
@@ -1474,6 +1476,7 @@ payload:
   - DOMAIN-SUFFIX,coolloud.org.tw
   - DOMAIN-SUFFIX,coolncute.com
   - DOMAIN-SUFFIX,coolstuffinc.com
+  - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,coronavirusnow.com
   - DOMAIN-SUFFIX,corumcollege.com
   - DOMAIN-SUFFIX,cos-moe.com
@@ -1614,6 +1617,7 @@ payload:
   - DOMAIN-SUFFIX,darpa.mil
   - DOMAIN-SUFFIX,darrenliuwei.com
   - DOMAIN-SUFFIX,dartlang.org
+  - DOMAIN-SUFFIX,dashlane.com
   - DOMAIN-SUFFIX,dastrassi.org
   - DOMAIN-SUFFIX,data-vocabulary.org
   - DOMAIN-SUFFIX,data.flurry.com
@@ -5405,6 +5409,7 @@ payload:
   - DOMAIN-SUFFIX,polymer-project.org
   - DOMAIN-SUFFIX,polymerhk.com
   - DOMAIN-SUFFIX,poolin.com
+  - DOMAIN-SUFFIX,popai.pro
   - DOMAIN-SUFFIX,popo.tw
   - DOMAIN-SUFFIX,popvote.hk
   - DOMAIN-SUFFIX,popxi.click
@@ -7277,6 +7282,7 @@ payload:
   - DOMAIN-SUFFIX,voxmedia.com
   - DOMAIN-SUFFIX,voxops.net
   - DOMAIN-SUFFIX,voy.com
+  - DOMAIN-SUFFIX,vpl.bibliocommons.com
   - DOMAIN-SUFFIX,vpn.ac
   - DOMAIN-SUFFIX,vpn.cmu.edu
   - DOMAIN-SUFFIX,vpn.sv.cmu.edu
@@ -7463,7 +7469,6 @@ payload:
   - DOMAIN-SUFFIX,widevine.com
   - DOMAIN-SUFFIX,wikaba.com
   - DOMAIN-SUFFIX,wiki.cnitter.com
-  - DOMAIN-SUFFIX,wiki.esu.im
   - DOMAIN-SUFFIX,wiki.gamerp.jp
   - DOMAIN-SUFFIX,wiki.jqueryui.com
   - DOMAIN-SUFFIX,wiki.keso.cn

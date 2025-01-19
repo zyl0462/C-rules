@@ -154,6 +154,7 @@
 .abc.xyz
 .abchinese.com
 .abclite.net
+.abebooks.co.uk
 .abebooks.com
 .abema-tv.com
 .abema.io
@@ -1031,6 +1032,7 @@
 .cari.com.my
 .caribbeancom.com
 .carmotorshow.com
+.carousell.com.hk
 .carrd.co
 .carryzhou.com
 .cartoonmovement.com
@@ -1152,6 +1154,7 @@
 .channel4.com
 .channel5.com
 .channelnewsasia.com
+.chanworld.org
 .chaoex.com
 .chapm25.com
 .chat.lmsys.org
@@ -1335,7 +1338,6 @@
 .cmule.org
 .cmx.im
 .cn-proxy.com
-.cn.dayabook.com
 .cn.fmnnow.com
 .cn.freeones.com
 .cn.giganews.com
@@ -1434,6 +1436,7 @@
 .coolloud.org.tw
 .coolncute.com
 .coolstuffinc.com
+.copilot.microsoft.com
 .coronavirusnow.com
 .corumcollege.com
 .cos-moe.com
@@ -1574,6 +1577,7 @@
 .darpa.mil
 .darrenliuwei.com
 .dartlang.org
+.dashlane.com
 .dastrassi.org
 .data-vocabulary.org
 .data.flurry.com
@@ -5365,6 +5369,7 @@
 .polymer-project.org
 .polymerhk.com
 .poolin.com
+.popai.pro
 .popo.tw
 .popvote.hk
 .popxi.click
@@ -7237,6 +7242,7 @@
 .voxmedia.com
 .voxops.net
 .voy.com
+.vpl.bibliocommons.com
 .vpn.ac
 .vpn.cmu.edu
 .vpn.sv.cmu.edu
@@ -7423,7 +7429,6 @@
 .widevine.com
 .wikaba.com
 .wiki.cnitter.com
-.wiki.esu.im
 .wiki.gamerp.jp
 .wiki.jqueryui.com
 .wiki.keso.cn
