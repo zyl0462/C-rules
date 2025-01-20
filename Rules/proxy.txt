@@ -8083,7 +8083,6 @@ assets-priconne-redive-us.akamaized.net
 bcbolt446c5271-a.akamaihd.net
 chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
 cloud.oracle.com
-copilot.microsoft.com
 cs428.wpc.edgecastcdn.net
 cvws.icloud-content.com
 dashasiafox.akamaized.netflix
