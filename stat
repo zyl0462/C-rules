@@ -1,6 +1,6 @@
-#2025/01/21 09:02:37(UTC/GMT+08:00)
-reject rules(112700+15): 112715
-proxy rules(8113+41): 8154
+#2025/01/21 20:26:43(UTC/GMT+08:00)
+reject rules(112715+4): 112719
+proxy rules(8154+0): 8154
 social rules(796+0): 796
 video rules(218+0): 218
-total rules(121827+56): 121883
+total rules(121883+4): 121887
