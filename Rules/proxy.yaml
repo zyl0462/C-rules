@@ -994,6 +994,7 @@ payload:
   - DOMAIN-SUFFIX,btctrade.im
   - DOMAIN-SUFFIX,btdig.com
   - DOMAIN-SUFFIX,btdigg.org
+  - DOMAIN-SUFFIX,btguard.com
   - DOMAIN-SUFFIX,btku.me
   - DOMAIN-SUFFIX,btku.org
   - DOMAIN-SUFFIX,btlibrary.me
@@ -1858,6 +1859,7 @@ payload:
   - DOMAIN-SUFFIX,dlyoutube.com
   - DOMAIN-SUFFIX,dm-event.net
   - DOMAIN-SUFFIX,dm530.net
+  - DOMAIN-SUFFIX,dma.mil
   - DOMAIN-SUFFIX,dmc.nico
   - DOMAIN-SUFFIX,dmcdn.net
   - DOMAIN-SUFFIX,dmed.technology
@@ -3166,7 +3168,7 @@ payload:
   - DOMAIN-SUFFIX,googlepagecreator.com
   - DOMAIN-SUFFIX,googleplay.com
   - DOMAIN-SUFFIX,googleplus.com
-  - DOMAIN-SUFFIX,googlescholar.comUSA
+  - DOMAIN-SUFFIX,googlescholar.com
   - DOMAIN-SUFFIX,googlesile.com
   - DOMAIN-SUFFIX,googlesource.com
   - DOMAIN-SUFFIX,googleusercontent.com
@@ -3899,7 +3901,6 @@ payload:
   - DOMAIN-SUFFIX,izles.net
   - DOMAIN-SUFFIX,izlesem.org
   - DOMAIN-SUFFIX,j.mp
-  - DOMAIN-SUFFIX,ja.wikipedia.org
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,jackjia.com
   - DOMAIN-SUFFIX,jamaat.org
@@ -7059,6 +7060,7 @@ payload:
   - DOMAIN-SUFFIX,typora.io
   - DOMAIN-SUFFIX,u15.info
   - DOMAIN-SUFFIX,u9un.com
+  - DOMAIN-SUFFIX,ua5v.com
   - DOMAIN-SUFFIX,ub0.cc
   - DOMAIN-SUFFIX,ubddns.org
   - DOMAIN-SUFFIX,uberproxy.net
@@ -7087,6 +7089,8 @@ payload:
   - DOMAIN-SUFFIX,uku.im
   - DOMAIN-SUFFIX,ulike.net
   - DOMAIN-SUFFIX,ulop.net
+  - DOMAIN-SUFFIX,ultrasurf.us
+  - DOMAIN-SUFFIX,ultravpn.com
   - DOMAIN-SUFFIX,ultravpn.fr
   - DOMAIN-SUFFIX,ultraxs.com
   - DOMAIN-SUFFIX,ulyssesapp.com
@@ -7153,6 +7157,7 @@ payload:
   - DOMAIN-SUFFIX,usaip.eu
   - DOMAIN-SUFFIX,usanetwork.com
   - DOMAIN-SUFFIX,uscardforum.com
+  - DOMAIN-SUFFIX,uscg.mil
   - DOMAIN-SUFFIX,uscnpm.org
   - DOMAIN-SUFFIX,usembassy.gov
   - DOMAIN-SUFFIX,userapi.nytlog.com
@@ -7391,6 +7396,7 @@ payload:
   - DOMAIN-SUFFIX,vpnpick.com
   - DOMAIN-SUFFIX,vpnpop.com
   - DOMAIN-SUFFIX,vpnpronet.com
+  - DOMAIN-SUFFIX,vpnproxymaster.com
   - DOMAIN-SUFFIX,vpnreactor.com
   - DOMAIN-SUFFIX,vpnreviewz.com
   - DOMAIN-SUFFIX,vpnsecure.me
@@ -7610,6 +7616,7 @@ payload:
   - DOMAIN-SUFFIX,wlcnew.jigsy.com
   - DOMAIN-SUFFIX,wlx.sowiki.net
   - DOMAIN-SUFFIX,wmflabs.org
+  - DOMAIN-SUFFIX,wmfusercontent.org
   - DOMAIN-SUFFIX,wn.com
   - DOMAIN-SUFFIX,wnacg.com
   - DOMAIN-SUFFIX,wnacg.org
@@ -7844,6 +7851,7 @@ payload:
   - DOMAIN-SUFFIX,yangjianli.com
   - DOMAIN-SUFFIX,yasni.co.uk
   - DOMAIN-SUFFIX,yastatic.net
+  - DOMAIN-SUFFIX,yasukuni.or.jp
   - DOMAIN-SUFFIX,yayabay.com
   - DOMAIN-SUFFIX,yb.uncn.jp
   - DOMAIN-SUFFIX,ycombinator.com
@@ -8085,6 +8093,7 @@ payload:
   - DOMAIN-SUFFIX,yuanzhengtang.org
   - DOMAIN-SUFFIX,yulghun.com
   - DOMAIN-SUFFIX,yunchao.net
+  - DOMAIN-SUFFIX,yunomi.tokyo
   - DOMAIN-SUFFIX,yuvutu.com
   - DOMAIN-SUFFIX,yvesgeleyn.com
   - DOMAIN-SUFFIX,ywpw.com

@@ -955,6 +955,7 @@
 .btctrade.im
 .btdig.com
 .btdigg.org
+.btguard.com
 .btku.me
 .btku.org
 .btlibrary.me
@@ -1819,6 +1820,7 @@
 .dlyoutube.com
 .dm-event.net
 .dm530.net
+.dma.mil
 .dmc.nico
 .dmcdn.net
 .dmed.technology
@@ -3127,7 +3129,7 @@
 .googlepagecreator.com
 .googleplay.com
 .googleplus.com
-.googlescholar.comUSA
+.googlescholar.com
 .googlesile.com
 .googlesource.com
 .googleusercontent.com
@@ -3860,7 +3862,6 @@
 .izles.net
 .izlesem.org
 .j.mp
-.ja.wikipedia.org
 .jable.tv
 .jackjia.com
 .jamaat.org
@@ -7020,6 +7021,7 @@
 .typora.io
 .u15.info
 .u9un.com
+.ua5v.com
 .ub0.cc
 .ubddns.org
 .uberproxy.net
@@ -7048,6 +7050,8 @@
 .uku.im
 .ulike.net
 .ulop.net
+.ultrasurf.us
+.ultravpn.com
 .ultravpn.fr
 .ultraxs.com
 .ulyssesapp.com
@@ -7114,6 +7118,7 @@
 .usaip.eu
 .usanetwork.com
 .uscardforum.com
+.uscg.mil
 .uscnpm.org
 .usembassy.gov
 .userapi.nytlog.com
@@ -7352,6 +7357,7 @@
 .vpnpick.com
 .vpnpop.com
 .vpnpronet.com
+.vpnproxymaster.com
 .vpnreactor.com
 .vpnreviewz.com
 .vpnsecure.me
@@ -7571,6 +7577,7 @@
 .wlcnew.jigsy.com
 .wlx.sowiki.net
 .wmflabs.org
+.wmfusercontent.org
 .wn.com
 .wnacg.com
 .wnacg.org
@@ -7805,6 +7812,7 @@
 .yangjianli.com
 .yasni.co.uk
 .yastatic.net
+.yasukuni.or.jp
 .yayabay.com
 .yb.uncn.jp
 .ycombinator.com
@@ -8046,6 +8054,7 @@
 .yuanzhengtang.org
 .yulghun.com
 .yunchao.net
+.yunomi.tokyo
 .yuvutu.com
 .yvesgeleyn.com
 .ywpw.com
