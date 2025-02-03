@@ -9150,7 +9150,6 @@ adnet.ru
 adnet.sohu.com
 adnetpartner.com
 adnetpub.yaolan.com
-adnetwork.vn
 adnetworkperformance.com
 adnety.com
 adnew.wifi8.com
@@ -11654,7 +11653,6 @@ aj2204.online
 aj2208.online
 aj2218.online
 aj2345.online
-aj2393.online
 aj2396.online
 aj2397.online
 aj2517.bid
@@ -14198,6 +14196,7 @@ apns.ios.ijinshan.com
 apnttuttej.com
 apoll.m.taobao.com
 apollo.caixin.com
+apollo.miniclip.com
 apollo.plein.nl
 apollofind.com
 apolloprogram.io
@@ -23098,7 +23097,6 @@ chayassa.com
 chbheroq.xyz
 chbwe.space
 chd-daolujiance.com
-cheap-ads.net
 cheap-celebration.pro
 cheapcinema.club
 cheapenleaving.com
@@ -40566,7 +40564,6 @@ gamingadlt.com
 gamingfun.me
 gamingonline.top
 gammachug.com
-gammadsp.com
 gammamaximum.com
 gammamkt.com
 gammaplatform.com
@@ -56365,7 +56362,6 @@ log.vneconomy.vn
 log.vnfinance.vn
 log.voicecloud.cn
 log.vov.vn
-log.vovplus.vn
 log.vovworld.vn
 log.wat.tv
 log.web.kugou.com
@@ -60892,7 +60888,6 @@ maulupoa.com
 mautic-learn.teky.edu.vn
 mautic.*.vn
 mautic.200lab.io
-mautic.hubs.vn
 mautic.teky.edu.vn
 mavic852.com
 mavietnam.xyz
@@ -61460,7 +61455,6 @@ mediacpc.com
 mediacpm.com
 mediacpm.pl
 mediacy.actonservice.com
-mediad.asia
 mediad.co.jp
 mediad2.jp
 mediadar.ru
@@ -72202,7 +72196,6 @@ pi.ispot.tv
 pi.technik3d.com
 pi81.shop
 piaads.com
-piads.vn
 piaigyyigyghjmi.xyz
 pianis.shop
 pianwela.xyz
@@ -72488,7 +72481,6 @@ pivotpointsecurity.actonservice.com
 pivotrunner.com
 pivotsforints.com
 pivxkeppgtc.life
-piwik.*.com.vn
 piwik.*.vn
 piwik.org
 piwik.pro
@@ -82972,7 +82964,6 @@ servicing.business.hsbc.com
 servicing.unitedautocredit.net
 serving-ad.tv24.vn
 serving-sys.com
-serving-system.com
 serving.bepolite.eu
 servingcdn.net
 servingserved.com
@@ -84989,7 +84980,6 @@ smart.idmnet.pl
 smart1adserver.com
 smartad.10010.com
 smartad.ee
-smartadnetwork.net
 smartads.statsperform.com
 smartadserver.com
 smartadtags.com
@@ -85000,7 +84990,6 @@ smartcam.adt-worldwide.com
 smartclick.net
 smartclip-services.com
 smartclip.net
-smartconvert.co
 smartcookies.it
 smartcpatrack.com
 smartctr.com
@@ -89467,7 +89456,6 @@ sports-streams-online.com
 sportstoday.pro
 sportstreams.xyz
 sportsyndicator.com
-sporttv.today
 sportzflix.xyz
 spot.spsfactory.com
 spotbeepgreenhouse.com
@@ -94233,7 +94221,6 @@ t.seminoles.com
 t.service.thetimes.co.uk
 t.sfajacks.com
 t.sharethis.com
-t.sieu-viet.com
 t.signalayer.com
 t.simply-hentai.com
 t.sj.qq.com
@@ -103652,6 +103639,7 @@ utiq-aws.net
 utiq.24auto.de
 utiq.24hamburg.de
 utiq.24rhein.de
+utiq.actu.fr
 utiq.buzzfeed.de
 utiq.come-on.de
 utiq.einfach-tasty.de
@@ -104777,7 +104765,6 @@ viads.net
 viaexploudtor.com
 viagogo.se
 viaklera.com
-viam.com.vn
 viamariller.com
 vianadserver.com
 viandryochavo.com
@@ -105339,7 +105326,6 @@ vipyou.bulkpowders.es
 viqiyi.admaster.com.cn
 vir70n.news
 vira.ru
-viraads.com
 viral-cdn.ru
 viral481.com
 viral4buzz.net
@@ -105746,7 +105732,6 @@ vnlvxi.vivastreet.co.uk
 vnmcrd2s.online
 vnmopn.brax.com
 vnn-tracking.vnncdn.net
-vnnayngaytin.vn
 vnpanda.shop
 vnpay-quetthetindung.com
 vnpay-ruttientindung.com
