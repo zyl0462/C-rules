@@ -7898,6 +7898,7 @@ ad.cub.red
 ad.cyapi.cn
 ad.cyycoy.com
 ad.danawa.com
+ad.datadeliver.net
 ad.daum.net
 ad.ddo.jp
 ad.dedecms.com
@@ -33502,6 +33503,7 @@ dzwqfq.alpitour.it
 dzxr711a4yw31.cloudfront.net
 dzypro.xyz
 dzz.wankeedu.com
+dzzdspiu.icu
 e-ad-monitor.huya.com
 e-bankingshopee.vn
 e-click.jp
@@ -44421,6 +44423,7 @@ hdfn.online
 hdggcdn.bayimob.com
 hdickeu.top
 hdicsm.autoscout24.be
+hdinmau.top
 hdinmiu.top
 hdipsumu.top
 hdj.baidu.com
@@ -54417,7 +54420,6 @@ lexozfldkklgvc.com
 lexvek.gap.ae
 leynqj.newport.se
 lezntf.heydudeshoesusa.com
-lf1-cdn-tos.bytegoofy.com
 lf3-ad-union-sdk.pglstatp-toutiao.com
 lf6-ad-union-sdk.pglstatp-toutiao.com
 lf8q.online
@@ -59223,6 +59225,7 @@ markedpail.com
 markentive.actonservice.com
 markerleery.com
 markerly.com
+market-click-baobab.yandex.ru
 market-keyade.macif.fr
 market.178.com
 market.21cn.com
@@ -68317,6 +68320,7 @@ oascentral.sina.com.hk
 oasisadvantage.actonservice.com
 oasishonestydemented.com
 oasismarketing.oasisadvantage.com
+oasjs.kataweb.it
 oask.xulizui6.com
 oassackegh.net
 oassimpi.net
@@ -100822,6 +100826,7 @@ trc85.com
 trccmpnlnk.com
 trccvt.dhc.co.jp
 trck-a8.j-depo.com
+trck.*.prod-na.turntable.sonic.advertising.amazon.dev
 trck.accredible.com
 trck.aeon.co.jp
 trck.asset.malcotools.com
@@ -100851,7 +100856,6 @@ trck.medtronic.com
 trck.my.elca.ch
 trck.naco-do.com
 trck.nuwlnuwl.com
-trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev
 trck.propo.co.jp
 trck.repesta.com
 trck.rework-s.com
