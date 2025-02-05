@@ -7744,6 +7744,7 @@ ad-ebis.bookpass.auone.jp
 ad-ebis.mynavi-job20s.jp
 ad-ebis.toysub.jp
 ad-ettoday.cdn.hinet.net
+ad-events.flashtalking.com
 ad-fam.com
 ad-files.classting.com
 ad-flow.com
@@ -10760,6 +10761,8 @@ adx-exchange.toast.com
 adx-in.ads.heytapmobile.com
 adx-open-service.youku.com
 adx-os.anythinktech.com
+adx-os.bridgeoos.com
+adx-sg-req.bridgeoos.com
 adx-static.ksosoft.com
 adx-tk.rayjump.com
 adx.36kr.com
@@ -13962,6 +13965,7 @@ api.bitp.it
 api.boclinkads.com
 api.botad.kr
 api.branch.io
+api.bridgeoos.com
 api.brs.intl.miui.com
 api.bunzlaucastle.com
 api.bytebrew.io
@@ -14026,6 +14030,7 @@ api.jsfc8.cn
 api.june.so
 api.karpishe.com
 api.ketedata.com
+api.kickoffo.site
 api.kingdata.ksyun.com
 api.ktplay.com
 api.kwaizt.com
@@ -17114,6 +17119,7 @@ b.telus.com
 b.thechive.com
 b.thechivery.com
 b.todaytix.com
+b.trueanthem.com
 b.tvsou.com
 b.unjs.com
 b.vidmob.com
@@ -48157,6 +48163,7 @@ inconclusiveaction.com
 inconsequential-working.com
 inconsistencygasdifficult.com
 inconveniencemimic.com
+incorddrag.com
 incorphishor.com
 increaseplanneddoubtful.com
 increaseprincipal.com
@@ -69045,6 +69052,7 @@ omjtca.emlakjet.com
 omkt.co
 omkxadadsh.com
 omlube.com
+ommatht.com
 ommjkomvweg.com
 omn.americanexpress.com
 omn.costumesupercenter.com
@@ -70316,6 +70324,7 @@ outwingullom.com
 outwitridiculousresume.com
 outwoodeuropa.com
 outyanmegaom.com
+ouveedaiz.net
 ouvertrenewed.com
 ouvjnb.westernbikeworks.com
 ouvrefth.shop
@@ -82886,6 +82895,7 @@ serpentinelay.pro
 serpentreplica.com
 serpentshampoo.com
 sersh.com
+sertingglucid.com
 serv-ac.com
 serv-selectmedia.com
 serv.ds.kakao.com
@@ -97217,6 +97227,7 @@ tnincvf1d1jl.de.themoneytizer.com
 tniujy.natura.com.br
 tnkad.net
 tnkfactory.com
+tnlixn.icu
 tnmpd.xyz
 tnpads.xyz
 tns-counter.ru
@@ -102296,6 +102307,7 @@ u6u.icu
 u78s.top
 u7kgr54jr7.ru
 u7u9.com
+u7y.pw
 u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me
 u8.hujiang.com
 u833ij.com
@@ -108167,6 +108179,7 @@ winterolivia.com
 wintjaywolf.org
 wintrck.com
 winvideo.org
+winzessolicit.com
 wioabfwyigasfbksl.org
 wioboy.xyz
 wip3.adobe.com
@@ -112301,8 +112314,10 @@ zalo-ads-480-td.zadn.vn
 zalo-ads-480.zadn.vn
 zalo-ads-td.zadn.vn
 zalo-ads.zadn.vn
+zalo-web.me
 zaloads-480.zdn.vn
 zalorashop.com
+zaloweb.pro
 zaltaumi.net
 zamar.cn
 zamiko.ru
