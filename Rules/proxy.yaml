@@ -1136,6 +1136,7 @@ payload:
   - DOMAIN-SUFFIX,cccat.co
   - DOMAIN-SUFFIX,cccat.io
   - DOMAIN-SUFFIX,ccdtr.org
+  - DOMAIN-SUFFIX,ccfd.org.tw
   - DOMAIN-SUFFIX,cchere.com
   - DOMAIN-SUFFIX,ccim.org
   - DOMAIN-SUFFIX,cclife.ca
@@ -3199,6 +3200,7 @@ payload:
   - DOMAIN-SUFFIX,graphis.ne.jp
   - DOMAIN-SUFFIX,graphql.org
   - DOMAIN-SUFFIX,gravatar.com
+  - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,great-firewall.com
   - DOMAIN-SUFFIX,great-roc.org
   - DOMAIN-SUFFIX,greatfire.org
@@ -3811,6 +3813,7 @@ payload:
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipaddress.com
   - DOMAIN-SUFFIX,ipalter.com
+  - DOMAIN-SUFFIX,ipdefenseforum.com
   - DOMAIN-SUFFIX,ipfire.org
   - DOMAIN-SUFFIX,ipfs.io
   - DOMAIN-SUFFIX,iphone4hongkong.com
@@ -5011,6 +5014,7 @@ payload:
   - DOMAIN-SUFFIX,nobel.se
   - DOMAIN-SUFFIX,nobelprize.org
   - DOMAIN-SUFFIX,nobodycanstop.us
+  - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,nodesnoop.com
   - DOMAIN-SUFFIX,nofile.io
   - DOMAIN-SUFFIX,nokogiri.org
@@ -5271,6 +5275,7 @@ payload:
   - DOMAIN-SUFFIX,pachosting.com
   - DOMAIN-SUFFIX,pacificpoker.com
   - DOMAIN-SUFFIX,packetix.net
+  - DOMAIN-SUFFIX,pacom.mil
   - DOMAIN-SUFFIX,pacopacomama.com
   - DOMAIN-SUFFIX,paddle.com
   - DOMAIN-SUFFIX,paddleapi.com
@@ -7166,7 +7171,6 @@ payload:
   - DOMAIN-SUFFIX,usfk.mil
   - DOMAIN-SUFFIX,usgs.gov
   - DOMAIN-SUFFIX,ushuarencity.echainhost.com
-  - DOMAIN-SUFFIX,usinfo.state.gov
   - DOMAIN-SUFFIX,usma.edu
   - DOMAIN-SUFFIX,usmc.mil
   - DOMAIN-SUFFIX,usmgtcg.ning.com
@@ -7678,7 +7682,6 @@ payload:
   - DOMAIN-SUFFIX,wwitv.com
   - DOMAIN-SUFFIX,www.abclite.net
   - DOMAIN-SUFFIX,www.ajsands.com
-  - DOMAIN-SUFFIX,www.americorps.gov
   - DOMAIN-SUFFIX,www.antd.org
   - DOMAIN-SUFFIX,www.aolnews.com
   - DOMAIN-SUFFIX,www.businessinsider.com.au

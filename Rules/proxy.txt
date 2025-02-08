@@ -1097,6 +1097,7 @@
 .cccat.co
 .cccat.io
 .ccdtr.org
+.ccfd.org.tw
 .cchere.com
 .ccim.org
 .cclife.ca
@@ -3160,6 +3161,7 @@
 .graphis.ne.jp
 .graphql.org
 .gravatar.com
+.greasyfork.org
 .great-firewall.com
 .great-roc.org
 .greatfire.org
@@ -3772,6 +3774,7 @@
 .ip.sb
 .ipaddress.com
 .ipalter.com
+.ipdefenseforum.com
 .ipfire.org
 .ipfs.io
 .iphone4hongkong.com
@@ -4972,6 +4975,7 @@
 .nobel.se
 .nobelprize.org
 .nobodycanstop.us
+.nodeseek.com
 .nodesnoop.com
 .nofile.io
 .nokogiri.org
@@ -5232,6 +5236,7 @@
 .pachosting.com
 .pacificpoker.com
 .packetix.net
+.pacom.mil
 .pacopacomama.com
 .paddle.com
 .paddleapi.com
@@ -7127,7 +7132,6 @@
 .usfk.mil
 .usgs.gov
 .ushuarencity.echainhost.com
-.usinfo.state.gov
 .usma.edu
 .usmc.mil
 .usmgtcg.ning.com
@@ -7639,7 +7643,6 @@
 .wwitv.com
 .www.abclite.net
 .www.ajsands.com
-.www.americorps.gov
 .www.antd.org
 .www.aolnews.com
 .www.businessinsider.com.au
