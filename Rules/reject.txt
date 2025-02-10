@@ -8281,6 +8281,7 @@ adalytics.prixacdn.net
 adamantsnail.com
 adamatic.co
 adamoads.com
+adanxing.com
 adaos-ads.net
 adap.tv
 adapd.com
@@ -14087,6 +14088,7 @@ api.pubfinity.com
 api.publytics.net
 api.push.daoyoudao.com
 api.push.le.com
+api.qttunion.com
 api.qvpublish.com
 api.rappel-coinbase.com
 api.receptivity.io
@@ -38298,6 +38300,7 @@ februarynip.com
 febtzd.xyz
 fecabookk.com
 fecguzhzeia.vip
+feckurteg.net
 fedapush.net
 fedassuagecompare.com
 federalacerbitylid.com
@@ -56850,6 +56853,7 @@ loosenpuppetnone.com
 lootexhausted.com
 lootynews.com
 loovaist.net
+loowhujoom.net
 looyu.com
 loozubaitoa.com
 lope4refl.com
@@ -56939,6 +56943,7 @@ louses.net
 loushoafie.net
 loustran288gek.com
 lousyfastened.com
+louthicoozit.net
 louxoxo.com
 love-banner.com
 love-money.de
@@ -67668,6 +67673,7 @@ nonestolesantes.com
 nonfictionrobustchastise.com
 nonfictiontickle.com
 nongrayrestis.com
+nonguds.com
 nonissue.com
 nonjurysundang.top
 nonoossol.xyz
@@ -74064,7 +74070,7 @@ prealpha.go.levelbank.com
 preanalytication.com
 prearmskabiki.com
 prebid-*.rubiconproject.com
-prebid-cache.ifunny.co
+prebid-cache*.ifunny.co
 prebid-log.getpublica.com
 prebid-server.newsbreak.com
 prebid.cwi.re
@@ -74627,6 +74633,7 @@ promote.biz.weibo.cn
 promote.caixin.com
 promoted.sndcdn.com
 promoted.soundcloud.com
+promotion-partner.kuaishou.com
 promotion.gomlab.com
 promotion.haravan.com
 promotion.lginnotek.com
@@ -83629,6 +83636,7 @@ sharexy.com
 sharing.kptncook.com
 sharion.xyz
 sharkbleed.com
+sharkfirelife.com
 sharks.vn
 sharkskids.com
 sharondemurer.shop
@@ -89924,6 +89932,7 @@ srgev.com
 srhuafeng.com
 srkft.com
 srm4.destinia.co.no
+srmdata-*.com
 srmdata-eur.com
 srmdata-us.com
 srmdata.com
@@ -91291,6 +91300,7 @@ staticiv.com
 staticjs.cn
 statics.3987.com
 statics.9669.com
+statics.adanxing.com
 statics.woozooo.com
 staticsfs.host
 statictapcdn-a.akamaihd.net
@@ -96552,6 +96562,7 @@ threechurch.com
 threedrive.su
 threeinvincible.com
 threetruck.com
+threewoodslose.com
 threkuth.com
 threrlak.com
 thresholdunusual.com
@@ -103688,6 +103699,7 @@ urxbvw.tui.nl
 uryle.ru
 us-api-d.dutils.com
 us-api-fc.dutils.com
+us-behavior.apitd.net
 us-central1-markuphero.cloudfunctions.net
 us-devs-data.dutils.com
 us-east-1.paa-reporting-advertising.amazon
