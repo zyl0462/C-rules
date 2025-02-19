@@ -104,6 +104,7 @@
 .5isotoi5.org
 .5itv.tv
 .5maodang.com
+.611study.icu
 .63i.com
 .64museum.org
 .64tianwang.com
@@ -4886,6 +4887,7 @@
 .news.tvbs.com.tw
 .news.yahoo.com
 .news.ycombinator.com
+.news1.kr
 .news100.com.tw
 .newsancai.com
 .newsblur.com
@@ -5353,6 +5355,7 @@
 .picturedip.com
 .pictures.playboy.com
 .picturesocial.com
+.picuki.com
 .pigav.com
 .pimg.tw
 .pin-cong.com
