@@ -178,6 +178,7 @@
 .accountkit.com
 .aceros-de-hispania.com
 .acevpn.com
+.acg.rip
 .acg18.me
 .acgbox.org
 .acgkj.com
@@ -358,6 +359,7 @@
 .anidom.com
 .animecrazy.net
 .aniscartujo.com
+.annas-archive.se
 .annatam.com
 .anobii.com
 .anonfiles.com
@@ -583,6 +585,7 @@
 .bangchen.net
 .bangdream.space
 .bangkokpost.com
+.bangumi.moe
 .bangyoulater.com
 .bankmobilevibe.com
 .bannedbook.org
@@ -1292,6 +1295,7 @@
 .chubun.com
 .churchinhongkong.org
 .chushigangdrug.ch
+.ci-en.jp
 .ciciai.com
 .cienen.com
 .cineastentreff.de
@@ -1872,6 +1876,7 @@
 .donmai.us
 .dontfilter.us
 .dontmovetochina.com
+.doosho.com
 .doourbest.org
 .dorjeshugden.com
 .dotplane.com
@@ -2163,6 +2168,7 @@
 .ezpc.tk
 .ezpeer.com
 .ezua.com
+.f-droid.org
 .f1esports.com
 .f1manager.com
 .f1play.com
@@ -2578,6 +2584,7 @@
 .free-proxy.cz
 .free-ss.site
 .free-ssh.com
+.free.bg
 .free.fr
 .free4u.com.ar
 .freealim.com
@@ -3443,6 +3450,7 @@
 .hojemacau.com.mo
 .hola.com
 .hola.org
+.hole.thu.monster
 .holymountaincn.com
 .holyspiritspeaks.org
 .home.sina.com
@@ -3484,6 +3492,7 @@
 .hougaige.com
 .howtoforge.com
 .hoxx.com
+.hoy.tv
 .hoyolab.com
 .hpa.gov.tw
 .hpjav.com
@@ -3525,7 +3534,6 @@
 .huaxiabao.org
 .huaxin.ph
 .huayuworld.org
-.hub.docker.com
 .hudatoriq.web.id
 .hudson.org
 .huffingtonpost.ca
@@ -4099,6 +4107,7 @@
 .koornk.com
 .koranmandarin.com
 .korenan2.com
+.kpkuang.org
 .kqes.net
 .kraken.com
 .krtco.com.tw
@@ -4358,6 +4367,7 @@
 .mamingzhe.com
 .manchukuo.net
 .mandiant.com
+.mangabz.com
 .mangafox.com
 .mangafox.me
 .mangaup.jp
@@ -4909,6 +4919,7 @@
 .newsweek.com
 .newtaiwan.com.tw
 .newtalk.tw
+.newthuhole.com
 .newyorker.com
 .newyorktimes.com
 .nexon.com
@@ -5250,6 +5261,7 @@
 .page.link
 .page2rss.com
 .pagodabox.com
+.paimon.moe
 .palacemoon.com
 .paldengyal.com
 .paljorpublications.com
@@ -5324,6 +5336,7 @@
 .pen.io
 .penchinese.com
 .penchinese.net
+.pendrivelinux.com
 .pentalogic.net
 .penthouse.com
 .pentoy.hk
@@ -5347,6 +5360,7 @@
 .phosphation13.rssing.com
 .photodharma.net
 .photofocus.com
+.photonmedia.net
 .phprcdn.com
 .phuquocservices.com
 .piaotian.net
@@ -5391,12 +5405,14 @@
 .pixelmator.com
 .pixelqi.com
 .pixiv.net
+.pixiv.org
 .pixivsketch.net
 .pixnet.in
 .pixnet.net
 .pk.com
 .pki.goog
 .pkqjiasu.com
+.pkuanvil.com
 .placemix.com
 .play-asia.com
 .playartifact.com
@@ -5428,6 +5444,7 @@
 .podcast.co
 .podictionary.com
 .poe.com
+.points-media.com
 .pokemon.com
 .pokerstars.com
 .pokerstars.net
@@ -6387,6 +6404,7 @@
 .symcd.com
 .syncback.com
 .synergyse.com
+.syosetu.com
 .sysresccd.org
 .sytes.net
 .syx86.com
@@ -6541,6 +6559,7 @@
 .thebobs.com
 .thebodyshop-usa.com
 .thecenter.mit.edu
+.thechasernews.co.uk
 .thechinabeat.org
 .thechinacollection.org
 .thechinastory.org
@@ -6603,6 +6622,7 @@
 .threads.net
 .threatchaos.com
 .throughnightsfire.com
+.thuhole.com
 .thumbzilla.com
 .thywords.com
 .thywords.com.tw
@@ -7130,6 +7150,7 @@
 .uscardforum.com
 .uscg.mil
 .uscnpm.org
+.use.typekit.net
 .usembassy.gov
 .userapi.nytlog.com
 .usercontent.goog
@@ -7529,6 +7550,7 @@
 .wiki.gamerp.jp
 .wiki.jqueryui.com
 .wiki.keso.cn
+.wiki.metacubex.one
 .wiki.oauth.net
 .wiki.phonegap.com
 .wikia.com
@@ -7560,6 +7582,7 @@
 .wildammo.com
 .williamhill.com
 .willw.net
+.wilsoncenter.org
 .wimpmusic.com
 .windowsphoneme.com
 .windscribe.com
