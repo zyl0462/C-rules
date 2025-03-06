@@ -50,6 +50,7 @@
 .2017.hk
 .2021hkcharter.com
 .2047.name
+.2049bbs.xyz
 .20thcenturystudios.com.au
 .20thcenturystudios.com.br
 .20thcenturystudios.jp
@@ -276,6 +277,7 @@
 .alicejapan.co.jp
 .aliengu.com
 .alive.bar
+.aljazeera.com
 .alkasir.com
 .all4mom.org
 .allcoin.com
@@ -503,7 +505,6 @@
 .async.be
 .atc.org.au
 .atchinese.com
-.atdmt.com
 .atgfw.org
 .athenaeizou.com
 .atlanta168.com
@@ -817,6 +818,7 @@
 .blogdns.org
 .blogger.com
 .blogimg.jp
+.blogjav.net
 .bloglines.com
 .bloglovin.com
 .blogs.com
@@ -972,6 +974,8 @@
 .btaia.com
 .btbit.net
 .btbtav.com
+.btbtt.co
+.btbtt.me
 .btc.com
 .btc98.com
 .btcbank.bank
@@ -1051,6 +1055,7 @@
 .cam4.jp
 .cam4.sg
 .camfrog.com
+.campaign-archive.com
 .campaignforuyghurs.org
 .cams.com
 .cams.org.sg
@@ -1269,6 +1274,7 @@
 .chinatopsex.com
 .chinatown.com.au
 .chinatweeps.com
+.chinauncensored.tv
 .chinaview.wordpress.com
 .chinaway.org
 .chinaworker.info
@@ -1340,6 +1346,7 @@
 .civilmedia.tw
 .civisec.org
 .civitai.com
+.cixiaoya.club
 .ck101.com
 .cl.d0z.net
 .cl.ly
@@ -1659,6 +1666,7 @@
 .dcard.tw
 .dcmilitary.com
 .ddc.com.tw
+.ddex.io
 .ddhw.info
 .dditscdn.com
 .ddns.info
@@ -1674,6 +1682,7 @@
 .deaftone.com
 .debug.com
 .deck.ly
+.deck.new
 .decodet.co
 .deepai.org
 .deepmind.com
@@ -1877,6 +1886,7 @@
 .dnsrd.com
 .dnssec.net
 .dnvod.tv
+.doc.new
 .docker.com
 .docker.io
 .dockerhub.com
@@ -2047,6 +2057,7 @@
 .edoors.com
 .edubridge.com
 .edupro.org
+.edx-cdn.org
 .eeas.europa.eu
 .eesti.ee
 .eevpn.com
@@ -2152,6 +2163,7 @@
 .etaiwannews.com
 .etherdelta.com
 .ethermine.org
+.etherscan.com
 .etherscan.io
 .etizer.org
 .etokki.com
@@ -2169,6 +2181,7 @@
 .europa.eu
 .evchk.wikia.com
 .even.stream
+.everipedia.org
 .evernote.com
 .evozi.com
 .evschool.net
@@ -2406,6 +2419,8 @@
 .fooooo.com
 .foreignaffairs.com
 .foreignpolicy.com
+.form.new
+.forms.new
 .formula1.com
 .forthethrone.com
 .forum.baby-kingdom.com
@@ -2711,6 +2726,7 @@
 .fubo.tv
 .fubotv.com
 .fucd.com
+.fuchsia.dev
 .fuckcnnic.net
 .fuckgfw.org
 .fuckgfw233.org
@@ -3821,6 +3837,7 @@
 .intl.iqiyi.com
 .investigating.wordpress.com
 .investing.com
+.invidio.us
 .inxian.com
 .io.io
 .iole.tv
@@ -4052,6 +4069,7 @@
 .justicefortenzin.org
 .justmysocks.net
 .justmysocks1.net
+.justmysockscn.com
 .justpaste.it
 .justtristan.com
 .juyuange.org
@@ -4122,6 +4140,7 @@
 .kineox.free.fr
 .kingdomsalvation.org
 .kinghost.com
+.kingkong.com.tw
 .kingstone.com.tw
 .kink.com
 .kinmen.org.tw
@@ -4434,6 +4453,7 @@
 .manta.com
 .manyvoices.news
 .maplew.com
+.maps.googleapis.com
 .marc.info
 .marguerite.su
 .marketwatch.com
@@ -4526,6 +4546,7 @@
 .mercatox.com
 .mercdn.net
 .mercyprophet.org
+.mergersandinquisitions.com
 .mergersandinquisitions.org
 .meridian-trust.org
 .meridian.net
@@ -5020,6 +5041,7 @@
 .nicovideo.jp
 .nighost.org
 .nightlife141.com
+.nightswatch.top
 .nih.gov
 .nike.com
 .nikkei.co.jp
@@ -5223,6 +5245,7 @@
 .onejav.com
 .onenote.com
 .onetrust.com
+.onevps.com
 .onion.city
 .onion.ly
 .online.recoveryversion.org
@@ -5333,6 +5356,7 @@
 .palmislife.com
 .paltalk.com
 .panamapapers.sueddeutsche.de
+.pandafan.pub
 .pandapow.co
 .pandapow.net
 .pandavpn-jp.com
@@ -5371,6 +5395,7 @@
 .pawoo.net
 .paxful.com
 .payhulu.com
+.payments-jp.amazon.com
 .pbs.org
 .pbwiki.com
 .pbworks.com
@@ -5577,6 +5602,7 @@
 .prayforchina.net
 .premeforwindows7.com
 .premproxy.com
+.presentation.new
 .presentationzen.com
 .presidentlee.tw
 .prestige-av.com
@@ -5618,6 +5644,7 @@
 .proxypy.net
 .proxyroad.com
 .proxytunnel.net
+.proxz.com
 .proyectoclubes.com
 .prozz.net
 .psblog.name
@@ -5678,6 +5705,7 @@
 .qianglie.com
 .qiangwaikan.com
 .qiangyou.org
+.qianmo.tw
 .qidian.ca
 .qienkuen.org
 .qiwen.lu
@@ -5817,6 +5845,7 @@
 .reddit.com
 .redditlist.com
 .redditmedia.com
+.redditspace.com
 .redditstatic.com
 .redhat.com
 .redhotlabs.com
@@ -5922,7 +5951,6 @@
 .s1.nudezz.com
 .s1heng.com
 .s1s1s1.com
-.s3-ap-northeast-1.amazonaws.com
 .s3-ap-southeast-1.amazonaws.com
 .s3-ap-southeast-2.amazonaws.com
 .s3.amazonaws.com
@@ -6000,6 +6028,7 @@
 .secure.hustler.com
 .secure.logmein.com
 .secure.raxcdn.com
+.secure.shadowsocks.nu
 .secureservercdn.net
 .securetunnel.com
 .securityinabox.org
@@ -6065,7 +6094,6 @@
 .shapeservices.com
 .share-videos.se
 .share.america.gov
-.share.dmhy.org
 .share.ovi.com
 .share.youthwant.com.tw
 .sharebee.com
@@ -6076,6 +6104,7 @@
 .shat-tibet.com
 .shattered.io
 .shazam.com
+.sheet.new
 .sheets.new
 .sheikyermami.com
 .shellfire.de
@@ -6104,6 +6133,7 @@
 .shopdisney.com
 .shopee.tw
 .shopping.com
+.shopping.yahoo.co.jp
 .shops-disney.com
 .shopspeedtv.com
 .showbiz.omy.sg
@@ -6123,9 +6153,11 @@
 .sijihuisuo.club
 .sijihuisuo.com
 .silkbook.com
+.silvergatebank.com
 .simbolostwitter.com
 .simg.jp
 .simp.ly
+.simplecd.me
 .simplecd.org
 .simplenote.com
 .simpleproductivityblog.com
@@ -6154,12 +6186,14 @@
 .sis.xxx
 .sis001.com
 .sis001.us
+.site.new
 .site2unblock.com
 .site90.net
 .sitebro.tw
 .sitekreator.com
 .siteks.uk.to
 .sitemaps.org
+.sites.new
 .six-degrees.io
 .sixth.biz
 .sjrt.org
@@ -6327,6 +6361,7 @@
 .spotifyjobs.com
 .spotifynewsroom.jp
 .spotilocal.com
+.spreadsheet.new
 .spreadshirt.es
 .spreaker.com
 .spring-plus.net
@@ -6359,6 +6394,7 @@
 .ssr.tools
 .ssrshare.com
 .ssrshare.us
+.ssrtool.com
 .sss.camp
 .sstatic.net
 .sstm.moe
@@ -6487,6 +6523,7 @@
 .symauth.com
 .symcb.com
 .symcd.com
+.synapse.org
 .syncback.com
 .synergyse.com
 .syosetu.com
@@ -6906,6 +6943,7 @@
 .tosh.comedycentral.com
 .tospotify.com
 .totalvpn.com
+.tou.tv
 .toutiaoabc.com
 .towngain.com
 .toypark.in
@@ -6975,6 +7013,7 @@
 .tumutanzi.com
 .tumview.com
 .tunein.com
+.tunein.streamguys1.com
 .tunnelbear.com
 .tunnelblick.net
 .tunnelr.com
@@ -7014,7 +7053,6 @@
 .tw-npo.org
 .tw.gigacircle.com
 .tw.hao123.com
-.tw.iqiyi.com
 .tw.jiepang.com
 .tw.streetvoice.com
 .tw.tomonews.net
@@ -7317,6 +7355,7 @@
 .versavpn.com
 .verybs.com
 .vevo.com
+.vewas.net
 .vft.com.tw
 .vhx.tv
 .vhxqa1.com
@@ -7358,6 +7397,7 @@
 .viki.io
 .viki.net
 .vikiplatform.com
+.vilanet.me
 .vilavpn.com
 .vimeo-staging.com
 .vimeo-staging2.com
@@ -7572,6 +7612,7 @@
 .webrush.net
 .webs-tv.net
 .website.informer.com
+.website.new
 .websitepulse.com
 .websnapr.com
 .webtype.com
