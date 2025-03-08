@@ -154,6 +154,7 @@ payload:
   - DOMAIN-SUFFIX,66.ca
   - DOMAIN-SUFFIX,666kb.com
   - DOMAIN-SUFFIX,666pool.cn
+  - DOMAIN-SUFFIX,69shuba.cx
   - DOMAIN-SUFFIX,6do.news
   - DOMAIN-SUFFIX,6do.world
   - DOMAIN-SUFFIX,6park.com
@@ -2927,6 +2928,7 @@ payload:
   - DOMAIN-SUFFIX,github.blog
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,gitlab.com
@@ -3213,6 +3215,7 @@ payload:
   - DOMAIN-SUFFIX,google.vg
   - DOMAIN-SUFFIX,google.vu
   - DOMAIN-SUFFIX,google.ws
+  - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googleapps.com
   - DOMAIN-SUFFIX,googlearth.com
   - DOMAIN-SUFFIX,googleartproject.com
@@ -4491,7 +4494,6 @@ payload:
   - DOMAIN-SUFFIX,manta.com
   - DOMAIN-SUFFIX,manyvoices.news
   - DOMAIN-SUFFIX,maplew.com
-  - DOMAIN-SUFFIX,maps.googleapis.com
   - DOMAIN-SUFFIX,marc.info
   - DOMAIN-SUFFIX,marguerite.su
   - DOMAIN-SUFFIX,marketwatch.com
@@ -5583,6 +5585,7 @@ payload:
   - DOMAIN-SUFFIX,politiscales.net
   - DOMAIN-SUFFIX,poloniex.com
   - DOMAIN-SUFFIX,polygon.com
+  - DOMAIN-SUFFIX,polymarket.com
   - DOMAIN-SUFFIX,polymer-project.org
   - DOMAIN-SUFFIX,polymerhk.com
   - DOMAIN-SUFFIX,poolbinance.com
@@ -6994,7 +6997,6 @@ payload:
   - DOMAIN-SUFFIX,trakt.tv
   - DOMAIN-SUFFIX,trans.wenweipo.com
   - DOMAIN-SUFFIX,translate.goog
-  - DOMAIN-SUFFIX,translate.googleapis.com
   - DOMAIN-SUFFIX,transparency.org
   - DOMAIN-SUFFIX,treemall.com.tw
   - DOMAIN-SUFFIX,trello.com

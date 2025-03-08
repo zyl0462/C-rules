@@ -115,6 +115,7 @@
 .66.ca
 .666kb.com
 .666pool.cn
+.69shuba.cx
 .6do.news
 .6do.world
 .6park.com
@@ -2888,6 +2889,7 @@
 .github.blog
 .github.com
 .github.io
+.githubassets.com
 .githubcopilot.com
 .githubusercontent.com
 .gitlab.com
@@ -3174,6 +3176,7 @@
 .google.vg
 .google.vu
 .google.ws
+.googleapis.com
 .googleapps.com
 .googlearth.com
 .googleartproject.com
@@ -4452,7 +4455,6 @@
 .manta.com
 .manyvoices.news
 .maplew.com
-.maps.googleapis.com
 .marc.info
 .marguerite.su
 .marketwatch.com
@@ -5544,6 +5546,7 @@
 .politiscales.net
 .poloniex.com
 .polygon.com
+.polymarket.com
 .polymer-project.org
 .polymerhk.com
 .poolbinance.com
@@ -6955,7 +6958,6 @@
 .trakt.tv
 .trans.wenweipo.com
 .translate.goog
-.translate.googleapis.com
 .transparency.org
 .treemall.com.tw
 .trello.com
