@@ -5268,7 +5268,7 @@
 .ooyala.com
 .open.com.hk
 .open.firstory.me
-.openai.com
+.open.spotify.com
 .openallweb.com
 .opendemocracy.net
 .opendn.xyz
