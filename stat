@@ -1,6 +1,6 @@
-#2025/03/11 20:28:50(UTC/GMT+08:00)
-reject rules(135728+48): 135776
+#2025/03/12 09:06:59(UTC/GMT+08:00)
+reject rules(135776+11): 135787
 proxy rules(8385+0): 8385
-social rules(796+0): 796
+social rules(796-19): 777
 video rules(218+0): 218
-total rules(145127+48): 145175
+total rules(145175-8): 145167
