@@ -50,6 +50,7 @@
 .2017.hk
 .2021hkcharter.com
 .2047.name
+.2047.one
 .2049bbs.xyz
 .20thcenturystudios.com.au
 .20thcenturystudios.com.br
@@ -664,6 +665,7 @@
 .bcvcdn.com
 .bdsmvideos.net
 .beaconevents.com
+.bearteach.com
 .beautyandthebeastmusical.co.uk
 .bebo.com
 .beeg.com
@@ -1036,6 +1038,7 @@
 .cableav.tv
 .cablegatesearch.net
 .cabletv.com.hk
+.cachefly.com
 .cachefly.net
 .cachinese.com
 .cacnw.com
@@ -1560,6 +1563,7 @@
 .curvefish.com
 .cusp.hk
 .cusu.hk
+.cutout.pro
 .cutscenes.net
 .cw.com.tw
 .cwb.gov.tw
@@ -2232,6 +2236,7 @@
 .faceless.me
 .facesofnyfw.com
 .facesoftibetanselfimmolators.info
+.factchecklab.org
 .factpedia.org
 .fail.hk
 .faith100.org
@@ -2717,6 +2722,7 @@
 .fse.tv
 .fssta.com
 .fsurf.com
+.ft.com
 .ftchinese.com
 .ftp1.biz
 .ftpserver.biz
@@ -2814,6 +2820,7 @@
 .gcmasia.com
 .gcpnews.com
 .gcr.io
+.gdaily.org
 .gdbt.net
 .gdzf.org
 .geek-art.net
@@ -2850,6 +2857,7 @@
 .getmdl.io
 .getoutline.org
 .getpricetag.com
+.getsession.org
 .getsocialscope.com
 .getsync.com
 .gettr.com
@@ -4951,6 +4959,7 @@
 .netflixinvestor.com
 .netflixstudios.com
 .netflixtechblog.com
+.netlify.app
 .netmarble.com
 .netme.cc
 .netsarang.com
@@ -6312,6 +6321,7 @@
 .soundcloudmail.com
 .soundofhope.kr
 .soundofhope.org
+.soundon.fm
 .soup.io
 .soupofmedia.com
 .sourceforge.net
@@ -6673,6 +6683,7 @@
 .tfc-taiwan.org.tw
 .tfhub.dev
 .tfiflve.com
+.tg-me.com
 .th.hao123.com
 .thaicn.com
 .thb.gov.tw
@@ -7859,6 +7870,7 @@
 .x-art.com
 .x-berry.com
 .x-wall.org
+.x.ai
 .x.co
 .x.com
 .x.company
