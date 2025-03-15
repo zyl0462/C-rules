@@ -2333,7 +2333,6 @@
 .feedburner.com
 .feeder.co
 .feedly.com
-.feedly.comfastgpt.run
 .feeds.fileforum.com
 .feedsportal.com
 .feedx.net
