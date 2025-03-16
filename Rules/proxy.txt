@@ -2301,7 +2301,6 @@
 .fast.com
 .fast.wistia.com
 .fastestvpn.com
-.fastgpt.run
 .fastly.net
 .fastmail.com
 .fastpic.ru
