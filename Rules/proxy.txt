@@ -1451,6 +1451,7 @@
 .coin2co.in
 .coinbase.com
 .coinbene.com
+.coincarp.com
 .coinegg.com
 .coinex.com
 .coingecko.com
@@ -2093,7 +2094,6 @@
 .emule-ed2k.com
 .emulefans.com
 .emuparadise.me
-.en.favotter.net
 .en.hao123.com
 .enanyang.my
 .encoretvb.com
@@ -2277,6 +2277,7 @@
 .fandom.com
 .fangbinxing.com
 .fangeming.com
+.fangeming.comffvpn.com
 .fangeqiang.com
 .fanglizhi.info
 .fangmincn.org
@@ -2300,7 +2301,6 @@
 .fartit.com
 .farwestchina.com
 .fast.com
-.fast.wistia.com
 .fastestvpn.com
 .fastly.net
 .fastmail.com
@@ -2827,6 +2827,7 @@
 .geekheart.info
 .gekikame.com
 .gelbooru.com
+.gemini.com
 .generated.photos
 .geni.us
 .genius.com
@@ -5249,6 +5250,7 @@
 .on.cc
 .on2.com
 .onapp.com
+.one.one.one.one
 .onedrive.com
 .onedrive.live.com
 .onedumb.com
@@ -7392,7 +7394,6 @@
 .video.aol.co.uk
 .video.aol.com
 .video.ap.org
-.video.fdbox.com
 .video.foxbusiness.com
 .video.google.com
 .videobam.com
