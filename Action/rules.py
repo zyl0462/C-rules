@@ -44,7 +44,7 @@ DIRECT_URL = ('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/ma
               'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DouYin/DouYin.yaml',
               'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ByteDance/ByteDance.yaml'
              )
-reject_set = set([i for i in get_text(REJECT_URL[0]).split("\n") if not (i.startswith('#') or i.startswith('!'))])
+reject_set = set([i for i in get_text(REJECT_URL[0]).split("\n") if not ((len(i) == 0) or i.startswith('#') or i.startswith('!'))])
 reject_set.update([i[2:-1] for i in get_text(REJECT_URL[1]).split("\n") if (i.startswith('||') and i.endswith('^') and ( not ('*' in i)))])
 LEN_reject = len(reject_set)
 reject_text = '\n'.join(sorted(reject_set))
@@ -54,14 +54,14 @@ del reject_set,reject_text
 
 proxy_set = set()
 for item in PROXY_URL[0]:
-    proxy_set.update([i for i in get_text(item).split("\n") if not (i.startswith('#') or i.startswith('!'))])
+    proxy_set.update([i for i in get_text(item).split("\n") if not ((len(i) == 0) or i.startswith('#') or i.startswith('!'))])
 LEN_proxy_domain = len(proxy_set)
 proxy_text = '\n'.join(sorted(proxy_set))
 with open("./Rules/proxy.txt", "w",encoding='utf-8') as f:
     f.write(proxy_text)
 proxy_set.clear()
 for item in PROXY_URL[1]:
-    proxy_set.update([i for i in get_text(item).split("\n") if not (i.startswith('#') or i.startswith('payload:'))])
+    proxy_set.update([i for i in get_text(item).split("\n") if not ((len(i) == 0) or i.startswith('#') or i.startswith('payload:'))])
 LEN_proxy = len(proxy_set)
 proxy_text = 'payload:\n' + '\n'.join(sorted(proxy_set))
 with open("./Rules/proxy.yaml", "w",encoding='utf-8') as f:
@@ -70,7 +70,7 @@ del proxy_set,proxy_text
 
 direct_set = set()
 for item in DIRECT_URL:
-    direct_set.update([i for i in get_text(item).split("\n") if not (i.startswith('#') or i.startswith('payload:'))])
+    direct_set.update([i for i in get_text(item).split("\n") if not ((len(i) == 0) or i.startswith('#') or i.startswith('payload:'))])
 LEN_direct = len(direct_set)
 direct_text = 'payload:\n' + '\n'.join(sorted(direct_set))
 with open("./Rules/direct.yaml", "w",encoding='utf-8') as f:
