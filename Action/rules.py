@@ -54,7 +54,7 @@ for i in reject_set:
     qx_set.add(j)
 qx_text = '\n'.join(sorted(qx_set))
 with open("./Rules/qx.conf", "w",encoding='utf-8') as f:
-    f.write(reject_text)
+    f.write(qx_text)
 del j,qx_set,qx_text
 
 LEN_reject = len(reject_set)
