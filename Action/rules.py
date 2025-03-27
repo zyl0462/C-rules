@@ -44,20 +44,37 @@ DIRECT_URL = ('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/ma
               'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DouYin/DouYin.yaml',
               'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ByteDance/ByteDance.yaml'
              )
-reject_set = set([i for i in get_text(REJECT_URL[0]).split("\n") if not ((len(i) == 0) or i.startswith('#') or i.startswith('!') or i.endswith('.'))])
-reject_set.update([i[2:-1] for i in get_text(REJECT_URL[1]).split("\n") if (i.startswith('||') and i.endswith('^') and ( not ('*' in i)) and (not i.endswith('.^')))])
+tmp_set = set([i for i in get_text(REJECT_URL[0]).split("\n") if not ((len(i) == 0) or i.startswith('#') or i.startswith('!') or i.endswith('.'))])
+tmp_set.update([i[2:-1] for i in get_text(REJECT_URL[1]).split("\n") if (i.startswith('||') and i.endswith('^') and ( not ('*' in i)) and (not i.endswith('.^')))])
+
+reject_set = set()
+j = ''
+for i in tmp_set:
+    if i.startswith('.') :
+        j = "  - '+" + i + '''
+    else :
+        j = "  - '" + i + '''
+    reject_set.add(j)
+tmp_set.clear()
 LEN_reject = len(reject_set)
-reject_text = '\n'.join(sorted(reject_set))
-with open("./Rules/reject.text", "w",encoding='utf-8') as f:
+reject_text = 'payload:\n' + '\n'.join(sorted(reject_set))
+with open("./Rules/reject.yaml", "w",encoding='utf-8') as f:
     f.write(reject_text)
 del reject_set,reject_text
 
 proxy_set = set()
 for item in PROXY_URL[0]:
-    proxy_set.update([i for i in get_text(item).split("\n") if not ((len(i) == 0) or i.startswith('#') or i.startswith('!'))])
+    tmp_set.update([i for i in get_text(item).split("\n") if not ((len(i) == 0) or i.startswith('#') or i.startswith('!'))])
+for i in tmp_set:
+    if i.startswith('.') :
+        j = "  - '+" + i + '''
+    else :
+        j = "  - '" + i + '''
+    proxy_set.add(j)
+tmp_set.clear()
 LEN_proxy_domain = len(proxy_set)
-proxy_text = '\n'.join(sorted(proxy_set))
-with open("./Rules/proxy.text", "w",encoding='utf-8') as f:
+proxy_text =  'payload:\n' + '\n'.join(sorted(proxy_set))
+with open("./Rules/proxy-domain.yaml", "w",encoding='utf-8') as f:
     f.write(proxy_text)
 proxy_set.clear()
 for item in PROXY_URL[1]:
