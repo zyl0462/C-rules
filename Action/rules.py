@@ -48,7 +48,7 @@ reject_set = set([i for i in get_text(REJECT_URL[0]).split("\n") if not ((len(i)
 reject_set.update([i[2:-1] for i in get_text(REJECT_URL[1]).split("\n") if (i.startswith('||') and i.endswith('^') and ( not ('*' in i)) and (not i.endswith('.^')))])
 LEN_reject = len(reject_set)
 reject_text = '\n'.join(sorted(reject_set))
-with open("./Rules/reject.txt", "w",encoding='utf-8') as f:
+with open("./Rules/reject.text", "w",encoding='utf-8') as f:
     f.write(reject_text)
 del reject_set,reject_text
 
@@ -57,7 +57,7 @@ for item in PROXY_URL[0]:
     proxy_set.update([i for i in get_text(item).split("\n") if not ((len(i) == 0) or i.startswith('#') or i.startswith('!'))])
 LEN_proxy_domain = len(proxy_set)
 proxy_text = '\n'.join(sorted(proxy_set))
-with open("./Rules/proxy.txt", "w",encoding='utf-8') as f:
+with open("./Rules/proxy.text", "w",encoding='utf-8') as f:
     f.write(proxy_text)
 proxy_set.clear()
 for item in PROXY_URL[1]:
