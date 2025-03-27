@@ -68,9 +68,9 @@ for item in PROXY_URL[0]:
 j = ''
 for i in tmp_set:
     if i.startswith('.'):
-        j = "  - '+" + i + '''
+        j = "  - '+" + i + "'"
     else:
-        j = "  - '" + i + '''
+        j = "  - '" + i + "'"
     proxy_set.add(j)
 tmp_set.clear()
 LEN_proxy_domain = len(proxy_set)
