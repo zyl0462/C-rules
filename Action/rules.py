@@ -50,9 +50,9 @@ tmp_set.update([i[2:-1] for i in get_text(REJECT_URL[1]).split("\n") if (i.start
 reject_set = set()
 j = ''
 for i in tmp_set:
-    if i.startswith('.') :
+    if i.startswith('.'):
         j = "  - '+" + i + '''
-    else :
+    else:
         j = "  - '" + i + '''
     reject_set.add(j)
 tmp_set.clear()
@@ -65,10 +65,11 @@ del reject_set,reject_text
 proxy_set = set()
 for item in PROXY_URL[0]:
     tmp_set.update([i for i in get_text(item).split("\n") if not ((len(i) == 0) or i.startswith('#') or i.startswith('!'))])
+j = ''
 for i in tmp_set:
-    if i.startswith('.') :
+    if i.startswith('.'):
         j = "  - '+" + i + '''
-    else :
+    else:
         j = "  - '" + i + '''
     proxy_set.add(j)
 tmp_set.clear()
