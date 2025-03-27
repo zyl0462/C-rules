@@ -51,9 +51,9 @@ reject_set = set()
 j = ''
 for i in tmp_set:
     if i.startswith('.'):
-        j = "  - '+" + i + '''
+        j = "  - '+" + i + "'"
     else:
-        j = "  - '" + i + '''
+        j = "  - '" + i + "'"
     reject_set.add(j)
 tmp_set.clear()
 LEN_reject = len(reject_set)
