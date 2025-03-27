@@ -20,7 +20,7 @@ REJECT_URL = ("https://raw.githubusercontent.com/privacy-protection-tools/anti-A
              "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt")
 PROXY_URL = (('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Proxy/Proxy_Domain.txt',
              'https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt'),
-             ('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Proxy/Proxy.yaml',
+             ('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Proxy/Proxy_Classical.yaml',
               'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix_Classical.yaml',
              'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleTV/AppleTV.yaml',
              'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.yaml',
