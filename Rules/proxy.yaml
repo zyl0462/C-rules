@@ -1204,6 +1204,7 @@ payload:
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
   - DOMAIN-SUFFIX,chatnook.com
+  - DOMAIN-SUFFIX,chaturbate.com
   - DOMAIN-SUFFIX,checkgfw.com
   - DOMAIN-SUFFIX,chengmingmag.com
   - DOMAIN-SUFFIX,chenguangcheng.com
