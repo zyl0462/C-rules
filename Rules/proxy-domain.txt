@@ -142,6 +142,7 @@ payload:
 .85st.com
 .881903.com
 .888.com
+.8888.google
 .888poker.com
 .89-64.org
 .89.64.charter.constitutionalism.solutions
@@ -504,6 +505,7 @@ payload:
 .audiomack.com
 .audionow.com
 .auntology.fandom.com
+.auth.openai.com
 .authorizeddns.net
 .authorizeddns.org
 .authorizeddns.us
@@ -1905,7 +1907,6 @@ payload:
 .emule-ed2k.com
 .emulefans.com
 .emuparadise.me
-.en.favotter.net
 .en.hao123.com
 .enanyang.my
 .encrypt.me
@@ -2077,6 +2078,7 @@ payload:
 .fandom.com
 .fangbinxing.com
 .fangeming.com
+.fangeming.comffvpn.com
 .fangeqiang.com
 .fanglizhi.info
 .fangmincn.org
@@ -4436,6 +4438,7 @@ payload:
 .news.cnyes.com
 .news.ebc.net.tw
 .news.msn.com.tw
+.news.mt.co.kr
 .news.nationalgeographic.com
 .news.omy.sg
 .news.seehua.com
@@ -4678,6 +4681,7 @@ payload:
 .on2.com
 .onapp.com
 .one.one
+.one.one.one.one
 .onedrive.com
 .onedrive.live.com
 .onedumb.com
@@ -5337,6 +5341,7 @@ payload:
 .rusvpn.com
 .ruten.com.tw
 .rutracker.net
+.rutracker.org
 .rutube.ru
 .ruyiseek.com
 .rxhj.net
@@ -5351,6 +5356,7 @@ payload:
 .s3-ap-southeast-1.amazonaws.com
 .s3-ap-southeast-2.amazonaws.com
 .s3.amazonaws.com
+.s3.eu-central-1.amazonaws.com
 .s4miniarchive.com
 .s8forum.com
 .sa.hao123.com
@@ -5560,6 +5566,7 @@ payload:
 .sina.com.hk
 .sina.com.tw
 .sinchew.com.my
+.sing-box.sagernet.org
 .singaporepools.com.sg
 .singfortibet.com
 .singlelogin.app
@@ -6688,6 +6695,7 @@ payload:
 .v.gd
 .v.roucdn
 .v2.help
+.v2.hysteria.network
 .v2ex.co
 .v2ex.com
 .v2fly.org
@@ -6737,7 +6745,6 @@ payload:
 .video.aol.co.uk
 .video.aol.com
 .video.ap.org
-.video.fdbox.com
 .video.foxbusiness.com
 .videobam.com
 .videodetective.com
