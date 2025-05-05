@@ -504,7 +504,6 @@ payload:
 .audiomack.com
 .audionow.com
 .auntology.fandom.com
-.auth.openai.com
 .authorizeddns.net
 .authorizeddns.org
 .authorizeddns.us
@@ -2944,6 +2943,7 @@ payload:
 .halktv.com.tr
 .handcraftedsoftware.org
 .hanime.tv
+.hanime1.me
 .hanminzu.org
 .hanunyi.com
 .hao.news
@@ -4155,6 +4155,7 @@ payload:
 .mirrormedia.com.tw
 .mirrormedia.mg
 .missav.com
+.missav.ws
 .mist.vip
 .mit.edu
 .mitao.com.tw
@@ -4709,7 +4710,7 @@ payload:
 .ooyala.com
 .open.com.hk
 .open.firstory.me
-.open.spotify.com
+.openai.com
 .openallweb.com
 .openbase.com
 .opendemocracy.net
@@ -5561,6 +5562,7 @@ payload:
 .simplenote.com
 .simpleproductivityblog.com
 .simpleswap.io
+.simplex.chat
 .sina.com.hk
 .sina.com.tw
 .sinchew.com.my
@@ -5742,6 +5744,7 @@ payload:
 .spike.com
 .sports.williamhill.com
 .spotflux.com
+.spotify.com
 .spreadsheet.new
 .spreadshirt.es
 .spreaker.com
@@ -6026,6 +6029,7 @@ payload:
 .teepr.com
 .tehrantimes.com
 .telecomspace.com
+.telega.one
 .telegra.ph
 .telegram-cdn.org
 .telegram.dog
@@ -6035,6 +6039,7 @@ payload:
 .telegramdownload.com
 .telegraph.co.uk
 .telesco.pe
+.tellapart.com
 .tellme.pw
 .tenacy.com
 .tenor.com
@@ -6049,6 +6054,7 @@ payload:
 .tfhub.dev
 .tfiflve.com
 .tg-me.com
+.tg.dev
 .tgfcer.com
 .tgstat.com
 .th.hao123.com
@@ -7468,6 +7474,7 @@ payload:
 .zmedia.com.tw
 .zmw.cn
 .zodgame.us
+.zodgame.xyz
 .zoho.com
 .zomobo.net
 .zonaeuropa.com
