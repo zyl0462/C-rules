@@ -3348,6 +3348,7 @@ payload:
   - DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
   - DOMAIN-SUFFIX,handcraftedsoftware.org
   - DOMAIN-SUFFIX,hanime.tv
+  - DOMAIN-SUFFIX,hanime1.me
   - DOMAIN-SUFFIX,hanminzu.org
   - DOMAIN-SUFFIX,hanunyi.com
   - DOMAIN-SUFFIX,hao.news
@@ -4587,6 +4588,7 @@ payload:
   - DOMAIN-SUFFIX,mirrormedia.com.tw
   - DOMAIN-SUFFIX,mirrormedia.mg
   - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,missav.ws
   - DOMAIN-SUFFIX,mist.vip
   - DOMAIN-SUFFIX,mit.edu
   - DOMAIN-SUFFIX,mitao.com.tw
@@ -6013,6 +6015,7 @@ payload:
   - DOMAIN-SUFFIX,simplenote.com
   - DOMAIN-SUFFIX,simpleproductivityblog.com
   - DOMAIN-SUFFIX,simpleswap.io
+  - DOMAIN-SUFFIX,simplex.chat
   - DOMAIN-SUFFIX,sina.com.hk
   - DOMAIN-SUFFIX,sina.com.tw
   - DOMAIN-SUFFIX,sinchew.com.my
@@ -7991,6 +7994,7 @@ payload:
   - DOMAIN-SUFFIX,zlibcdn2.com
   - DOMAIN-SUFFIX,zmedia.com.tw
   - DOMAIN-SUFFIX,zodgame.us
+  - DOMAIN-SUFFIX,zodgame.xyz
   - DOMAIN-SUFFIX,zoho.com
   - DOMAIN-SUFFIX,zomobo.net
   - DOMAIN-SUFFIX,zonaeuropa.com
