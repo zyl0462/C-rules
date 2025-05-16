@@ -9,6 +9,7 @@ payload:
 .10beasts.net
 .10conditionsoflove.com
 .10musume.com
+.111666.best
 .123rf.com
 .12bet.com
 .12vpn.com
@@ -39,16 +40,7 @@ payload:
 .1dumb.com
 .1e100.net
 .1eew.com
-.1lib.cloud
-.1lib.cz
-.1lib.domains
-.1lib.education
-.1lib.eu
-.1lib.limited
-.1lib.pl
 .1lib.sk
-.1lib.to
-.1lib.tw
 .1mobile.com
 .1mobile.tw
 .1password.com
@@ -73,7 +65,6 @@ payload:
 .24smile.org
 .25u.com
 .2du5.com
-.2lib.org
 .2lipstube.com
 .2shared.com
 .2waky.com
@@ -86,7 +77,6 @@ payload:
 .3arabtv.com
 .3boys2girls.com
 .3d-game.com
-.3lib.net
 .3proxy.ru
 .3ren.ca
 .3tui.net
@@ -459,7 +449,6 @@ payload:
 .arlingtoncemetery.mil
 .armorgames.com
 .army.mil
-.art1lib.com
 .art4tibet1998.org
 .arte.tv
 .artofpeacefoundation.org
@@ -501,7 +490,6 @@ payload:
 .att.com
 .auctions.yahoo.co.jp
 .audacy.com
-.audiomack.com
 .audionow.com
 .auntology.fandom.com
 .authorizeddns.net
@@ -539,11 +527,7 @@ payload:
 .azure.com
 .azureedge.net
 .azurewebsites.net
-.b-ok.africa
-.b-ok.asia
 .b-ok.cc
-.b-ok.global
-.b-ok.org
 .b.hatena.ne.jp
 .b0ne.com
 .baby-kingdom.com
@@ -886,18 +870,9 @@ payload:
 .boobstagram.com
 .book.com.tw
 .book.zi5.me
-.book4you.org
 .bookdepository.com
 .bookepub.com
-.bookfi.net
 .books.com.tw
-.booksc.eu
-.booksc.me
-.booksc.org
-.booksc.xyz
-.bookshome.info
-.bookshome.net
-.bookshome.world
 .booktopia.com.au
 .bookwalker.com.tw
 .boomssr.com
@@ -1325,7 +1300,6 @@ payload:
 .cloud.dify.ai
 .cloud.mail.ru
 .cloudcone.com
-.cloudflare-dns.com
 .cloudflare-ipfs.com
 .cloudflare.com
 .cloudfront.net
@@ -1390,7 +1364,6 @@ payload:
 .coin2co.in
 .coinbase.com
 .coinbene.com
-.coincarp.com
 .coinegg.com
 .coinex.com
 .coingecko.com
@@ -1407,7 +1380,6 @@ payload:
 .com.uk
 .comedycentral.com
 .comefromchina.com
-.comffvpn.com
 .comic-mega.me
 .comico.tw
 .commandarms.com
@@ -1600,7 +1572,6 @@ payload:
 .ddns.net
 .ddns.us
 .de-sci.org
-.de1lib.org
 .deadhouse.org
 .deadline.com
 .deaftone.com
@@ -2085,7 +2056,6 @@ payload:
 .fangongheike.com
 .fanhaodang.com
 .fanhaolou.com
-.fani.com
 .fanqiang.network
 .fanqiang.tk
 .fanqiangdang.com
@@ -2110,7 +2080,6 @@ payload:
 .faststone.org
 .fatakat-n.club
 .fatbtc.com
-.favcomic.com
 .favotter.net
 .favstar.fm
 .fawanghuihui.org
@@ -2452,7 +2421,6 @@ payload:
 .geekheart.info
 .gekikame.com
 .gelbooru.com
-.gemini.com
 .generated.photos
 .geni.us
 .genius.com
@@ -2561,7 +2529,6 @@ payload:
 .gnci.org.hk
 .gnews.org
 .go-pki.com
-.go-to-library.sk
 .go-to-zlibrary.se
 .go.com
 .go.jp
@@ -2922,7 +2889,6 @@ payload:
 .gzm.tv
 .gzone-anime.info
 .h-china.org
-.h-ciyuan.com
 .h-moe.com
 .h1n1china.org
 .h528.com
@@ -3051,7 +3017,6 @@ payload:
 .hk.hao123img.com
 .hk.jiepang.com
 .hk01.com
-.hk1lib.org
 .hk32168.com
 .hka8964.wordpress.com
 .hkacg.com
@@ -3144,6 +3109,7 @@ payload:
 .hotav.tv
 .hotbak.net
 .hotcoin.com
+.hotcool.tw
 .hotels.cn
 .hotfrog.com.tw
 .hotgoo.com
@@ -3241,7 +3207,6 @@ payload:
 .hyperrate.com
 .hypothes.is
 .hyread.com.tw
-.hysteria.network
 .i-cable.com
 .i-part.com.tw
 .i-scmp.com
@@ -3462,7 +3427,6 @@ payload:
 .isupportuyghurs.org
 .itaboo.info
 .itaiwan.gov.tw
-.italian-books.sk
 .italiatibet.org
 .itasoftware.com
 .itemdb.com
@@ -3814,9 +3778,6 @@ payload:
 .library.usc.cuhk.edu.hk
 .libraryinformationtechnology.com
 .libredd.it
-.libsolutions.app
-.libsolutions.domains
-.libsolutions.net
 .libsyn.com
 .licdn.com
 .lidecheng.com
@@ -3945,7 +3906,6 @@ payload:
 .m.slandr.net
 .m8008.com
 .ma.hao123.com
-.ma1lib.org
 .macgamestore.com
 .macid.co
 .macromedia.com
@@ -3989,7 +3949,6 @@ payload:
 .mansion.com
 .mansionpoker.com
 .manta.com
-.manwa.me
 .manyvoices.news
 .maplew.com
 .marc.info
@@ -4258,6 +4217,7 @@ payload:
 .msn.com.tw
 .mstdn.social
 .mswe1.org
+.mt.co.kr
 .mthruf.com
 .mtw.tl
 .mubi.com
@@ -4722,7 +4682,6 @@ payload:
 .openallweb.com
 .openbase.com
 .opendemocracy.net
-.opendesktop.org
 .opendn.xyz
 .openervpn.in
 .openid.net
@@ -5381,7 +5340,6 @@ payload:
 .safeguarddefenders.com
 .safervpn.com
 .safety.google
-.sagernet.org
 .saintyculture.com
 .saiq.me
 .sakuralive.com
@@ -5489,7 +5447,6 @@ payload:
 .sftindia.org
 .sftuk.org
 .sfx.ms
-.sg1lib.org
 .sgwritings.com
 .sgzhan.com
 .shadeyouvpn.com
@@ -5581,11 +5538,7 @@ payload:
 .sinchew.com.my
 .singaporepools.com.sg
 .singfortibet.com
-.singlelogin.app
-.singlelogin.me
-.singlelogin.re
 .singlelogin.se
-.singlelogin.site
 .singpao.com.hk
 .singtao.ca
 .singtao.com
@@ -5712,7 +5665,6 @@ payload:
 .sosad.fun
 .sosreader.com
 .sostibet.org
-.sotwe.com
 .sou-tong.org
 .soubory.com
 .soul-plus.net
@@ -5786,7 +5738,6 @@ payload:
 .ssh91.com
 .ssl.webpack.de
 .ssl443.org
-.ssm.fun
 .sspanel.net
 .sspanel.org
 .sspro.ml
@@ -6135,7 +6086,6 @@ payload:
 .thlib.org
 .thomasbernhard.org
 .thongdreams.com
-.thotsbay.tv
 .threadreaderapp.com
 .threads.com
 .threads.net
@@ -6286,6 +6236,7 @@ payload:
 .tngrnow.com
 .tngrnow.net
 .tnp.org
+.tnt-ea.com
 .to-porno.com
 .todoist.com
 .togetter.com
@@ -7069,6 +7020,7 @@ payload:
 .wireguard.com
 .wisdompubs.org
 .wisevid.com
+.wistia.com
 .withgoogle.com
 .withyoutube.com
 .witnessleeteaching.com
@@ -7415,11 +7367,8 @@ payload:
 .z-lib.fo
 .z-lib.gd
 .z-lib.gl
-.z-lib.gs
 .z-lib.io
 .z-lib.org
-.z-lib.ps
-.z-library.se
 .z-library.sk
 .zacebook.com
 .zalmos.com
@@ -7484,9 +7433,6 @@ payload:
 .zippyshare.com
 .zkaip.com
 .zkiz.com
-.zlib.life
-.zlibcdn.com
-.zlibcdn2.com
 .zmedia.com.tw
 .zmw.cn
 .zodgame.us
