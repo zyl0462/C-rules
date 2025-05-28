@@ -170,7 +170,6 @@ payload:
 .abitno.linpie.com
 .ablwang.com
 .aboluowang.com
-.about.google
 .about.me
 .aboutgfw.com
 .abpchina.org
@@ -231,7 +230,6 @@ payload:
 .ai-kan.net
 .ai-wen.net
 .ai.binwang.me
-.ai.google
 .aiosearch.com
 .aiph.net
 .airasia.com
@@ -744,7 +742,6 @@ payload:
 .blog.foolsmountain.com
 .blog.fuckgfw233.org
 .blog.goo.ne.jp
-.blog.google
 .blog.istef.info
 .blog.jackjia.com
 .blog.jp
@@ -1239,7 +1236,6 @@ payload:
 .chrlawyers.hk
 .chrome.com
 .chromecast.com
-.chromeenterprise.google
 .chromeexperiments.com
 .chromercise.com
 .chromestatus.com
@@ -1377,7 +1373,6 @@ payload:
 .colacloud.net
 .collateralmurder.com
 .collateralmurder.org
-.com.google
 .com.uk
 .comedycentral.com
 .comefromchina.com
@@ -1431,7 +1426,6 @@ payload:
 .creaders.net
 .creadersnet.com
 .creativelab5.com
-.crisisresponse.google
 .crisp.chat
 .cristyli.com
 .crittercism.com
@@ -1595,7 +1589,6 @@ payload:
 .depositphotos.com
 .derekhsu.homeip.net
 .desc.se
-.design.google
 .desipro.de
 .deskconnect.com
 .dessci.com
@@ -1669,7 +1662,6 @@ payload:
 .dmm.com
 .dns-dns.com
 .dns-stuff.com
-.dns.google
 .dns04.com
 .dns05.com
 .dns1.us
@@ -1696,7 +1688,6 @@ payload:
 .dolf.org.hk
 .dollf.com
 .domain.club.tw
-.domains.google
 .domaintoday.com.au
 .donga.com
 .dongtaiwang.com
@@ -1893,7 +1884,6 @@ payload:
 .entermap.com
 .entnt.com
 .entrust.net
-.environment.google
 .epa.gov.tw
 .epac.to
 .episcopalchurch.org
@@ -2422,7 +2412,6 @@ payload:
 .geekheart.info
 .gekikame.com
 .gelbooru.com
-.gemini.google
 .generated.photos
 .geni.us
 .genius.com
@@ -2854,7 +2843,6 @@ payload:
 .grotty-monday.com
 .ground.news
 .groups.google.cn
-.grow.google
 .gs-discuss.com
 .gsearch.media
 .gsp.target.com
@@ -3756,7 +3744,6 @@ payload:
 .lenwhite.com
 .leorockwell.com
 .lerosua.org
-.lers.google
 .lesoir.be
 .lester850.info
 .letou.com
@@ -4459,7 +4446,6 @@ payload:
 .nhncorp.jp
 .nianticlabs.com
 .nic.cz.cc
-.nic.google
 .nic.gov
 .nicovideo.jp
 .nighost.org
@@ -4512,7 +4498,6 @@ payload:
 .nordstromrack.com
 .nordvpn.com
 .nos.nl
-.notebooklm.google
 .notepad-plus-plus.org
 .notion.so
 .nottinghampost.com
@@ -4691,7 +4676,6 @@ payload:
 .openid.net
 .openleaks.org
 .opensea.io
-.opensource.google
 .openstreetmap.org
 .opentech.fund
 .openvpn.net
@@ -4795,7 +4779,6 @@ payload:
 .partypoker.com
 .passion.com
 .passiontimes.hk
-.passwords.google
 .paste.ee
 .pastebin.com
 .pastie.org
@@ -4919,7 +4902,6 @@ payload:
 .pkuanvil.com
 .placemix.com
 .play-asia.com
-.play.google
 .playartifact.com
 .playboy.com
 .playboyplus.com
@@ -5015,7 +4997,6 @@ payload:
 .presentationzen.com
 .presidentlee.tw
 .prestige-av.com
-.pride.google
 .primevideo.com
 .printfriendly.com
 .prism-break.org
@@ -5227,7 +5208,6 @@ payload:
 .redtube.com
 .referer.us
 .reflectivecode.com
-.registry.google
 .reimu.net
 .relaxbbs.com
 .relay.com.tw
@@ -5238,7 +5218,6 @@ payload:
 .renminbao.com
 .renyurenquan.org
 .rerouted.org
-.research.google
 .resilio.com
 .resistchina.org
 .retweeteffect.com
@@ -5344,7 +5323,6 @@ payload:
 .safechat.com
 .safeguarddefenders.com
 .safervpn.com
-.safety.google
 .sagernet.org
 .saintyculture.com
 .saiq.me
@@ -5798,7 +5776,6 @@ payload:
 .storage.yandex.net
 .storagenewsletter.com
 .store.steampowered.com
-.stories.google
 .storify.com
 .storj.io
 .storm.mg
@@ -5861,7 +5838,6 @@ payload:
 .surge.run
 .suroot.com
 .surrenderat20.net
-.sustainability.google
 .suyangg.com
 .svsfx.com
 .swagbucks.com
@@ -6392,7 +6368,6 @@ payload:
 .tuvpn.com
 .tuzaijidi.com
 .tv.com
-.tv.google
 .tv.jtbc.joins.com
 .tvants.com
 .tvb.com
