@@ -717,6 +717,7 @@ payload:
 .bl-doujinsouko.com
 .blacked.com
 .blacklogic.com
+.blackmagicdesign.com
 .blackvpn.com
 .blewpass.com
 .blingblingsquad.net
@@ -7256,6 +7257,7 @@ payload:
 .yam.com
 .yam.org.tw
 .yande.re
+.yandex.com
 .yandex.net
 .yandex.ru
 .yanghengjun.com
