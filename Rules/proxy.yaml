@@ -10,7 +10,6 @@ payload:
   - DOMAIN,cvws.icloud-content.com
   - DOMAIN,developer.apple.com
   - DOMAIN,e13252.dscg.akamaiedge.net
-  - DOMAIN,gemini.google.com
   - DOMAIN,h-netflix.online-metrix.net
   - DOMAIN,hls-amt.itunes.apple.com
   - DOMAIN,hls.itunes.apple.com
@@ -1127,6 +1126,7 @@ payload:
   - DOMAIN-SUFFIX,cdjp.org
   - DOMAIN-SUFFIX,cdn-telegram.org
   - DOMAIN-SUFFIX,cdn.angruo.com
+  - DOMAIN-SUFFIX,cdn.arstechnica.net
   - DOMAIN-SUFFIX,cdn.segment.com
   - DOMAIN-SUFFIX,cdnews.com.tw
   - DOMAIN-SUFFIX,cdninstagram.com
@@ -1292,6 +1292,7 @@ payload:
   - DOMAIN-SUFFIX,churchinhongkong.org
   - DOMAIN-SUFFIX,chushigangdrug.ch
   - DOMAIN-SUFFIX,ci-en.jp
+  - DOMAIN-SUFFIX,cici.com
   - DOMAIN-SUFFIX,ciciai.com
   - DOMAIN-SUFFIX,cienen.com
   - DOMAIN-SUFFIX,cineastentreff.de
@@ -1389,6 +1390,7 @@ payload:
   - DOMAIN-SUFFIX,codeskulptor.org
   - DOMAIN-SUFFIX,codespot.com
   - DOMAIN-SUFFIX,cofacts.tw
+  - DOMAIN-SUFFIX,coffeemanga.to
   - DOMAIN-SUFFIX,coin2co.in
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,coinbene.com
