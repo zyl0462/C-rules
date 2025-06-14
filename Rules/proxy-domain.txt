@@ -33,7 +33,6 @@ payload:
 .1984.city
 .1984bbs.com
 .1984bbs.org
-.1989report.hkja.org.hk
 .1991way.com
 .1998cdp.org
 .1bao.org
@@ -161,7 +160,6 @@ payload:
 .aamacau.com
 .abc.com
 .abc.net.au
-.abc.pp.ru
 .abc.xyz
 .abchinese.com
 .abclite.net
@@ -174,6 +172,7 @@ payload:
 .about.me
 .aboutgfw.com
 .abpchina.org
+.abplive.com
 .abs.edu
 .acast.com
 .accim.org
@@ -370,7 +369,6 @@ payload:
 .aol.co.uk
 .aol.com
 .aolcdn.com
-.aolchannels.aol.com
 .aolnews.com
 .aomedia.org
 .aomiwang.com
@@ -408,17 +406,13 @@ payload:
 .app-measurement.net
 .app.box.com
 .app.cloudcone.com
-.app.evozi.com
-.app.heywire.com
 .app.smartmailcloud.com
-.app.tutanota.com
 .appadvice.com
 .appbrain.com
 .appdownloader.net
 .apple-dns.net
 .applecensorship.com
 .appledaily.com
-.appledaily.com.hk
 .appledaily.com.tw
 .apps.evozi.com
 .appshopper.com
@@ -493,12 +487,10 @@ payload:
 .auntology.fandom.com
 .authorizeddns.net
 .authorizeddns.org
-.authorizeddns.us
 .autodraw.com
 .av-e-body.com
 .av.com
 .av.movie
-.av.nightlife141.com
 .av01.tv
 .avaaz.org
 .avbody.tv
@@ -592,19 +584,14 @@ payload:
 .bbs.hanminzu.org
 .bbs.huasing.org
 .bbs.junglobal.net
-.bbs.kimy.com.tw
 .bbs.mikocon.com
 .bbs.morbell.com
 .bbs.mychat.to
 .bbs.naixi.net
-.bbs.netbig.com
 .bbs.nyinfor.com
-.bbs.ozchinese.com
-.bbs.qmzdd.com
 .bbs.sina.com
 .bbs.skykiwi.com
 .bbs.sou-tong.org
-.bbs.tuitui.info
 .bbsdigest.com
 .bbsfeed.com
 .bbsland.com
@@ -698,7 +685,6 @@ payload:
 .bit.no.com
 .bitbay.net
 .bitbucket.org
-.bitc.bme.emory.edu
 .bitchute.com
 .bitcointalk.org
 .bitcoinworld.com
@@ -732,22 +718,17 @@ payload:
 .blockedbyhk.com
 .blockless.com
 .blocktempo.com
-.blog.calibre-ebook.com
-.blog.cnyes.com
 .blog.com
 .blog.cryptographyengineering.com
 .blog.de
-.blog.exblog.co.jp
 .blog.excite.co.jp
 .blog.expofutures.com
 .blog.fizzik.com
 .blog.foolsmountain.com
 .blog.fuckgfw233.org
 .blog.goo.ne.jp
-.blog.istef.info
 .blog.jackjia.com
 .blog.jp
-.blog.kangye.org
 .blog.lester850.info
 .blog.martinoei.com
 .blog.pathtosharepoint.com
@@ -755,15 +736,11 @@ payload:
 .blog.qooza.hk
 .blog.ranxiang.com
 .blog.reimu.net
-.blog.sina.com.tw
 .blog.sogoo.org
 .blog.soylent.com
-.blog.syx86.cn
 .blog.syx86.com
 .blog.taragana.com
 .blog.tiney.com
-.blog.workflow.is
-.blog.xuite.net
 .blog.youthwant.com.tw
 .blogblog.com
 .blogcatalog.com
@@ -776,9 +753,6 @@ payload:
 .bloglines.com
 .bloglovin.com
 .blogs.com
-.blogs.libraryinformationtechnology.com
-.blogs.tampabay.com
-.blogs.yahoo.co.jp
 .blogsmithmedia.com
 .blogspot.ae
 .blogspot.al
@@ -1120,7 +1094,6 @@ payload:
 .cftfc.com
 .cgdepot.org
 .cgst.edu
-.ch.shvoong.com
 .change.org
 .changeip.name
 .changeip.net
@@ -1276,7 +1249,6 @@ payload:
 .civitai.com
 .cixiaoya.club
 .ck101.com
-.cl.d0z.net
 .cl.ly
 .clarionproject.org
 .classicalguitarblog.net
@@ -1291,7 +1263,6 @@ payload:
 .clearwisdom.net
 .clementine-player.org
 .clien.net
-.cling.omy.sg
 .clinica-tibet.ru
 .clipconverter.cc
 .clipfish.de
@@ -1324,8 +1295,6 @@ payload:
 .cn-proxy.com
 .cn.fmnnow.com
 .cn.freeones.com
-.cn.giganews.com
-.cn.ibtimes.com
 .cn.nytstyle.com
 .cn.sandscotaicentral.com
 .cn.shafaqna.com
@@ -1333,8 +1302,6 @@ payload:
 .cn.theaustralian.com.au
 .cn.uncyclopedia.wikia.com
 .cn.uptodown.com
-.cn.voa.mobi
-.cn2.streetvoice.com
 .cn6.eu
 .cna.com.tw
 .cnabc.com
@@ -1387,7 +1354,6 @@ payload:
 .comments.app
 .commentshk.com
 .communistcrimes.org
-.community.windy.com
 .communitychoicecu.com
 .comodoca.com
 .comparitech.com
@@ -1412,7 +1378,6 @@ payload:
 .copilot.microsoft.com
 .corumcollege.com
 .cos-moe.com
-.cosmic.monar.ch
 .cosplayjav.pl
 .costco.com
 .cotweet.com
@@ -1512,7 +1477,6 @@ payload:
 .dajiyuan.com
 .dajiyuan.de
 .dajiyuan.eu
-.dajusha.baywords.com
 .dalailama-archives.org
 .dalailama.com
 .dalailama.mn
@@ -1589,7 +1553,6 @@ payload:
 .deja.com
 .delcamp.net
 .delicious.com
-.demo.opera-mini.net
 .demo.unlock-music.dev
 .democrats.org
 .demosisto.hk
@@ -1754,7 +1717,6 @@ payload:
 .dubox.com
 .duck.com
 .duckdns.org
-.duckduckgo-owned-server.yahoo.net
 .duckduckgo.com
 .duckload.com
 .duckmylife.com
@@ -1832,7 +1794,6 @@ payload:
 .ecimg.tw
 .ecministry.net
 .economist.com
-.ecsm.vs.com
 .ecstart.com
 .edgecastcdn.net
 .edgekey.net
@@ -1993,7 +1954,6 @@ payload:
 .f8.com
 .fa.gov.tw
 .fabric.io
-.facebook.br
 .facebook.com
 .facebook.de
 .facebook.design
@@ -2017,7 +1977,6 @@ payload:
 .falsefire.com
 .falun-co.org
 .falun-ny.net
-.falun.caltech.edu
 .falunart.org
 .falunasia.info
 .falunau.org
@@ -2133,9 +2092,9 @@ payload:
 .filesor.com
 .fillthesquare.org
 .filmingfortibet.org
-.filmy.olabloga.pl
 .filthdump.com
 .financetwitter.com
+.financialexpress.com
 .finchvpn.com
 .findbook.tw
 .findmespot.com
@@ -2197,13 +2156,8 @@ payload:
 .forms.new
 .forum.baby-kingdom.com
 .forum.cyberctm.com
-.forum.idsam.com
-.forum.my903.com
 .forum.mymaji.com
-.forum.omy.sg
 .forum.palmislife.com
-.forum.setty.com.tw
-.forum.sina.com.hk
 .forum.slime.com.tw
 .forum.tvb.com
 .forum.xinbao.de
@@ -2211,7 +2165,6 @@ payload:
 .forums-free.com
 .fotile.me
 .fountmedia.io
-.fourface.nodesnoop.com
 .fourthinternational.org
 .foxbusiness.com
 .foxdie.us
@@ -2296,7 +2249,6 @@ payload:
 .freewww.info
 .freexinwen.com
 .freeyellow.com
-.freeyoutubeproxy.net
 .freezhihu.org
 .frienddy.com
 .friendfeed-media.com
@@ -2373,9 +2325,7 @@ payload:
 .gamebase.com.tw
 .gamejolt.com
 .gameloft.com
-.gamer-cds.cdn.hinet.net
 .gamer.com.tw
-.gamer2-cds.cdn.hinet.net
 .gamerp.jp
 .gamez.com.tw
 .gamme.com.tw
@@ -2521,7 +2471,6 @@ payload:
 .gmll.org
 .gmocloud.com
 .gmodules.com
-.gmozomg.izihost.org
 .gmp4.com
 .gmx.net
 .gnci.org.hk
@@ -2530,12 +2479,10 @@ payload:
 .go-to-zlibrary.se
 .go.com
 .go.jp
-.go.nesnode.com
 .go.sony.com
 .go141.com
 .go5.dev
 .goagent.biz
-.goagent.codeplex.com
 .goagentplus.com
 .gobet.cc
 .godaddy.com
@@ -2570,7 +2517,6 @@ payload:
 .goo.ne.jp
 .good.news
 .gooday.xyz
-.gooddns.info
 .goodhope.school
 .goodnewsnetwork.org
 .goodreaders.com
@@ -2789,14 +2735,12 @@ payload:
 .googlehosted.com
 .googleideas.com
 .googleinsidesearch.com
-.googlelabs.com
 .googlemail.com
 .googlemashups.com
 .googlepagecreator.com
 .googleplay.com
 .googleplus.com
 .googlescholar.com
-.googlesile.com
 .googlesource.com
 .googleusercontent.com
 .googlevideo.com
@@ -2849,7 +2793,6 @@ payload:
 .grok.com
 .grotty-monday.com
 .ground.news
-.groups.google.cn
 .gs-discuss.com
 .gsearch.media
 .gsp.target.com
@@ -2937,7 +2880,6 @@ payload:
 .hechaji.com
 .heeact.edu.tw
 .hegre-art.com
-.heix.pp.ru
 .helixstudios.net
 .helloandroid.com
 .helloavgirls.com
@@ -2996,6 +2938,7 @@ payload:
 .himalayanglacier.com
 .himemix.com
 .himemix.net
+.hindustantimes.com
 .hinet.net
 .hitbtc.com
 .hitomi.la
@@ -3062,7 +3005,6 @@ payload:
 .hkreporter.com
 .hkreporter.loved.hk
 .hku.hk
-.hkupop.hku.hk
 .hkusu.net
 .hkvwet.com
 .hkwcc.org.hk
@@ -3083,7 +3025,6 @@ payload:
 .holyspiritspeaks.org
 .home.saxo
 .home.sina.com
-.home.so-net.net.tw
 .homedepot.com
 .homeperversion.com
 .homeservershow.com
@@ -3110,7 +3051,6 @@ payload:
 .hotels.cn
 .hotfrog.com.tw
 .hotgoo.com
-.hotpornshow.com
 .hotpot.hk
 .hotshame.com
 .hotspotshield.com
@@ -3293,7 +3233,6 @@ payload:
 .imageflea.com
 .imageglass.org
 .images-gaytube.com
-.images.comico.tw
 .imageshack.us
 .imagevenue.com
 .imagezilla.net
@@ -3323,10 +3262,12 @@ payload:
 .incloak.com
 .incredibox.fr
 .independent.co.uk
+.india.com
 .indiablooms.com
 .indianarrative.com
 .indiandefensenews.in
 .indiatimes.com
+.indiatoday.in
 .indiemerch.com
 .indsr.org.tw
 .inews-api.tvb.com
@@ -3353,7 +3294,6 @@ payload:
 .institut-tibetain.org
 .instructables.com
 .interactivebrokers.com
-.international-news.newsmagazine.asia
 .internet.org
 .internetdefenseleague.org
 .internetfreedom.org
@@ -3390,7 +3330,6 @@ payload:
 .ipvanish.com
 .iredmail.org
 .irib.ir
-.ironbigfools.compython.net
 .ironpython.net
 .ironsocket.com
 .is-a-hunter.com
@@ -3431,7 +3370,6 @@ payload:
 .itgonglun.com
 .ithelp.ithome.com.tw
 .ithome.com.tw
-.its.caltech.edu
 .itsaol.com
 .itshidden.com
 .itsky.it
@@ -3463,7 +3401,6 @@ payload:
 .jandyx.com
 .janwongphoto.com
 .japan-whores.com
-.japanfirst.asianfreeforum.com
 .japanhdv.com
 .japantimes.co.jp
 .jav.com
@@ -3740,7 +3677,6 @@ payload:
 .lefora.com
 .left21.hk
 .legalporno.com
-.legaltech.law.com
 .legra.ph
 .legsjapan.com
 .leirentv.ca
@@ -3900,8 +3836,6 @@ payload:
 .m.hkgalden.com
 .m.me
 .m.moegirl.org
-.m.plixi.com
-.m.slandr.net
 .m8008.com
 .ma.hao123.com
 .macgamestore.com
@@ -3916,7 +3850,6 @@ payload:
 .madou.club
 .madrau.com
 .madthumbs.com
-.magazines.sina.com.tw
 .magic-net.info
 .mahabodhi.org
 .mahjongsoul.com
@@ -3931,7 +3864,6 @@ payload:
 .maizhong.org
 .makemymood.com
 .makkahnewspaper.com
-.makzhou.warehouse333.com
 .malaysiakini.com
 .mamingzhe.com
 .manchukuo.net
@@ -4269,7 +4201,6 @@ payload:
 .myeclipseide.com
 .myfontastic.com
 .myforum.com.hk
-.myforum.com.uk
 .myfreecams.com
 .myfreepaysite.com
 .myfreshnet.com
@@ -4391,6 +4322,7 @@ payload:
 .newchen.com
 .newgrounds.com
 .newhighlandvision.com
+.newindianexpress.com
 .newipnow.com
 .newlandmagazine.com.au
 .newmitbbs.com
@@ -4400,16 +4332,15 @@ payload:
 .news.msn.com.tw
 .news.mt.co.kr
 .news.nationalgeographic.com
-.news.omy.sg
 .news.seehua.com
 .news.sina.com.hk
-.news.sina.com.tw
 .news.sinchew.com.my
 .news.singtao.ca
 .news.tvbs.com.tw
 .news.ycombinator.com
 .news1.kr
 .news100.com.tw
+.news18.com
 .newsancai.com
 .newsblur.com
 .newschinacomment.org
@@ -4477,7 +4408,6 @@ payload:
 .ninth.biz
 .nitter.cc
 .nitter.net
-.nitter.pussthecat.org
 .niu.moe
 .niusnews.com
 .njactb.org
@@ -4568,8 +4498,6 @@ payload:
 .nvquan.org
 .nvtongzhisheng.org
 .nwtca.org
-.ny.stgloballink.com
-.ny.visiontimes.com
 .nyaa.eu
 .nyaa.si
 .nybooks.com
@@ -4602,7 +4530,6 @@ payload:
 .ocnttv.com
 .ocreampies.com
 .ocry.com
-.ocsp.int-x3.letsencrypt.org
 .october-review.org
 .oculus.com
 .oculuscdn.com
@@ -4627,7 +4554,6 @@ payload:
 .olabloga.pl
 .old-cat.net
 .old.honeynet.org
-.old.nabble.com
 .olehdtv.com
 .olelive.com
 .olevod.com
@@ -4865,7 +4791,6 @@ payload:
 .picidae.net
 .picjs.xyz
 .picturedip.com
-.pictures.playboy.com
 .picturesocial.com
 .picuki.com
 .pigav.com
@@ -4964,7 +4889,7 @@ payload:
 .pornhost.com
 .pornhub.com
 .pornhubdeutsch.net
-.pornmm.net
+.pornmate.com
 .pornoxo.com
 .pornrapidshare.com
 .pornsharing.com
@@ -5044,7 +4969,6 @@ payload:
 .pscp.tv
 .pshvpn.com
 .psiphon.ca
-.psiphon.civisec.org
 .psiphon3.com
 .psiphontoday.com
 .pstatic.net
@@ -5313,7 +5237,6 @@ payload:
 .s-nbcnews.com
 .s.team
 .s.yimg.com
-.s1.nudezz.com
 .s1heng.com
 .s1s1s1.com
 .s3-ap-northeast-1.amazonaws.com
@@ -5396,7 +5319,6 @@ payload:
 .secretsline.biz
 .secure.hustler.com
 .secure.logmein.com
-.secure.raxcdn.com
 .secure.shadowsocks.nu
 .secureservercdn.net
 .securetunnel.com
@@ -5505,7 +5427,6 @@ payload:
 .shopee.tw
 .shopping.com
 .shopping.yahoo.co.jp
-.showbiz.omy.sg
 .showhaotu.com
 .showtime.jp
 .showwe.tw
@@ -5559,7 +5480,6 @@ payload:
 .site90.net
 .sitebro.tw
 .sitekreator.com
-.siteks.uk.to
 .sitemaps.org
 .sites.new
 .six-degrees.io
@@ -5725,8 +5645,6 @@ payload:
 .srcf.ucam.org
 .srocket.us
 .ss-link.com
-.ss.carryzhou.com
-.ss.levyhsu.com
 .ss.pythonic.life
 .ss7.vzw.com
 .ssa.gov
@@ -5750,6 +5668,7 @@ payload:
 .st.luluku.pw
 .stackoverflow.com
 .stage64.hk
+.standard.co.uk
 .standupfortibet.org
 .standwithhk.org
 .stanford.edu
@@ -5760,7 +5679,6 @@ payload:
 .stat.gov.tw
 .state.gov
 .static-economist.com
-.static.comico.tw
 .static.shemalez.com
 .static01.nyt.com
 .statically.io
@@ -5811,7 +5729,6 @@ payload:
 .stumbleupon.com
 .stupidvideos.com
 .stweetly.com
-.subacme.rerouted.org
 .subhd.tv
 .substack.com
 .successfn.com
@@ -5876,7 +5793,6 @@ payload:
 .t-g.com
 .t.co
 .t.me
-.t.orzdream.com
 .t35.com
 .t66y.com
 .t91y.com
@@ -5972,7 +5888,6 @@ payload:
 .teachparentstech.org
 .teamamericany.com
 .teamviewer.com
-.tech2.in.com
 .techcrunch.com
 .technews.tw
 .technorati.com
@@ -5990,7 +5905,6 @@ payload:
 .telecomspace.com
 .telega.one
 .telegra.ph
-.telegram-cdn.org
 .telegram.dog
 .telegram.me
 .telegram.org
@@ -6043,6 +5957,7 @@ payload:
 .thegioitinhoc.vn
 .thegly.com
 .theguardian.com
+.thehansindia.com
 .thehindu.com
 .thehots.info
 .thehousenews.com
@@ -6197,7 +6112,6 @@ payload:
 .timdir.com
 .time.com
 .timeinc.net
-.times.hinet.net
 .timesnownews.com
 .timesofindia.indiatimes.com
 .timsah.com
@@ -6263,7 +6177,6 @@ payload:
 .topsy.com
 .toptip.ca
 .toptoon.net
-.tor.blingblingsquad.net
 .tor.updatestar.com
 .tora.to
 .torcn.com
@@ -6292,7 +6205,6 @@ payload:
 .tracfone.com
 .tradingview.com
 .trakt.tv
-.trans.wenweipo.com
 .translate.goog
 .transparency.org
 .travelinkcard.com
@@ -6312,7 +6224,6 @@ payload:
 .truesocial.media
 .trulyergonomic.com
 .trustasiassl.com
-.truth101.co.tv
 .truthontour.org
 .truthsocial.com
 .truveo.com
@@ -6340,7 +6251,6 @@ payload:
 .tubepornclassic.com
 .tubestack.com
 .tubewolf.com
-.tui.orzdream.com
 .tuibeitu.net
 .tuidang.net
 .tuidang.org
@@ -6373,7 +6283,6 @@ payload:
 .turansam.org
 .turbobit.net
 .turbohide.com
-.turbotwitter.com
 .turkistantimes.com
 .turntable.fm
 .tushycash.com
@@ -6397,7 +6306,6 @@ payload:
 .tw.jiepang.com
 .tw.streetvoice.com
 .tw.tomonews.net
-.tw.voa.mobi
 .tw01.org
 .twaitter.com
 .twapperkeeper.com
@@ -6620,7 +6528,6 @@ payload:
 .usertrust.com
 .usfk.mil
 .usgs.gov
-.ushuarencity.echainhost.com
 .usma.edu
 .usmc.mil
 .usmgtcg.ning.com
@@ -6678,7 +6585,6 @@ payload:
 .vbstatic.co
 .vcf-online.org
 .vcfbuilder.org
-.vds.rightster.com
 .vegas.williamhill.com
 .vegasred.com
 .velkaepocha.sk
@@ -6706,8 +6612,6 @@ payload:
 .video.aol.ca
 .video.aol.co.uk
 .video.aol.com
-.video.ap.org
-.video.fdbox.com
 .video.foxbusiness.com
 .videobam.com
 .videodetective.com
@@ -6744,7 +6648,6 @@ payload:
 .vjmedia.com.hk
 .vk.com
 .vllcs.org
-.vlog.xuite.net
 .vmixcore.com
 .vmpsoft.com
 .vn.hao123.com
@@ -6863,7 +6766,6 @@ payload:
 .want-daily.com
 .wanz-factory.com
 .wapedia.mobi
-.warbler.iconfactory.net
 .warehouse333.com
 .warroom.org
 .waselpro.com
@@ -6953,7 +6855,6 @@ payload:
 .whichav.com
 .whippedass.com
 .whispersystems.org
-.whitebear.freebearblog.org
 .whodns.xyz
 .whoer.net
 .whotalking.com
@@ -6961,7 +6862,6 @@ payload:
 .whyx.org
 .widevine.com
 .wikaba.com
-.wiki.cnitter.com
 .wiki.esu.im
 .wiki.gamerp.jp
 .wiki.jqueryui.com
@@ -7023,7 +6923,6 @@ payload:
 .wizcrafts.net
 .wjbk.org
 .wlcnew.jigsy.com
-.wlx.sowiki.net
 .wmflabs.org
 .wmfusercontent.org
 .wn.com
@@ -7086,7 +6985,6 @@ payload:
 .wuyanblog.com
 .wwe.com
 .wwitv.com
-.www.abclite.net
 .www.ajsands.com
 .www.antd.org
 .www.aolnews.com
@@ -7103,7 +7001,6 @@ payload:
 .www.imdb.com
 .www.kindleren.com
 .www.klip.me
-.www.lamenhu.com
 .www.lib.virginia.edu
 .www.linksalpha.com
 .www.lorenzetti.com.br
@@ -7113,7 +7010,6 @@ payload:
 .www.msn.com
 .www.nbc.com
 .www.nodeloc.com
-.www.orchidbbs.com
 .www.owind.com
 .www.oxid.it
 .www.powerpointninja.com
@@ -7123,10 +7019,8 @@ payload:
 .www.skype.com
 .www.tablesgenerator.com
 .www.taiwanonline.cc
-.www.taup.org.tw
 .www.thechinastory.org
 .www.wan-press.org
-.www.wangruowang.org
 .www.websnapr.com
 .www.zensur.freerk.com
 .www1.american.edu
@@ -7146,7 +7040,6 @@ payload:
 .x24hr.com
 .x365x.com
 .x3guide.com
-.xa.yimg.com
 .xanga.com
 .xbabe.com
 .xbookcn.com
@@ -7160,7 +7053,6 @@ payload:
 .xerotica.com
 .xfiles.to
 .xfinity.com
-.xfm.pp.ru
 .xfxssr.me
 .xgmyd.com
 .xhamster.com
@@ -7332,7 +7224,6 @@ payload:
 .youtu.be
 .youtube-nocookie.com
 .youtube.com
-.youtubecn.com
 .youtubeeducation.com
 .youtubegaming.com
 .youtubekids.com
