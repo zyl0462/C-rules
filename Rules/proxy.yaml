@@ -236,6 +236,7 @@ payload:
   - DOMAIN-SUFFIX,aboutfacebook.com
   - DOMAIN-SUFFIX,aboutgfw.com
   - DOMAIN-SUFFIX,abpchina.org
+  - DOMAIN-SUFFIX,abplive.com
   - DOMAIN-SUFFIX,abs.edu
   - DOMAIN-SUFFIX,acast.com
   - DOMAIN-SUFFIX,accessfacebookfromschool.com
@@ -457,13 +458,11 @@ payload:
   - DOMAIN-SUFFIX,apetube.com
   - DOMAIN-SUFFIX,api.ai
   - DOMAIN-SUFFIX,api.amplitude.com
-  - DOMAIN-SUFFIX,api.linksalpha.com
   - DOMAIN-SUFFIX,api.mixpanel.com
   - DOMAIN-SUFFIX,api.proxlet.com
   - DOMAIN-SUFFIX,api.statsig.com
   - DOMAIN-SUFFIX,api.termius.com
   - DOMAIN-SUFFIX,apiary.io
-  - DOMAIN-SUFFIX,apidocs.linksalpha.com
   - DOMAIN-SUFFIX,apigee.com
   - DOMAIN-SUFFIX,apk-dl.com
   - DOMAIN-SUFFIX,apk.support
@@ -1929,7 +1928,6 @@ payload:
   - DOMAIN-SUFFIX,entermap.com
   - DOMAIN-SUFFIX,entnt.com
   - DOMAIN-SUFFIX,entrust.net
-  - DOMAIN-SUFFIX,epa.gov.tw
   - DOMAIN-SUFFIX,epac.to
   - DOMAIN-SUFFIX,episcopalchurch.org
   - DOMAIN-SUFFIX,episodic.com
@@ -2458,6 +2456,7 @@ payload:
   - DOMAIN-SUFFIX,filmingfortibet.org
   - DOMAIN-SUFFIX,filthdump.com
   - DOMAIN-SUFFIX,financeleadsonline.com
+  - DOMAIN-SUFFIX,financialexpress.com
   - DOMAIN-SUFFIX,finchvpn.com
   - DOMAIN-SUFFIX,findbook.tw
   - DOMAIN-SUFFIX,findmespot.com
@@ -3359,7 +3358,6 @@ payload:
   - DOMAIN-SUFFIX,helloss.pw
   - DOMAIN-SUFFIX,hellotxt.com
   - DOMAIN-SUFFIX,hellouk.org
-  - DOMAIN-SUFFIX,help.linksalpha.com
   - DOMAIN-SUFFIX,helpeachpeople.com
   - DOMAIN-SUFFIX,helplinfen.com
   - DOMAIN-SUFFIX,helpshift.com
@@ -3414,6 +3412,7 @@ payload:
   - DOMAIN-SUFFIX,himemix.com
   - DOMAIN-SUFFIX,himemix.net
   - DOMAIN-SUFFIX,hindiweb.com
+  - DOMAIN-SUFFIX,hindustantimes.com
   - DOMAIN-SUFFIX,hinet.net
   - DOMAIN-SUFFIX,hitbtc.com
   - DOMAIN-SUFFIX,hitomi.la
@@ -3733,10 +3732,12 @@ payload:
   - DOMAIN-SUFFIX,incapdns.net
   - DOMAIN-SUFFIX,incredibox.fr
   - DOMAIN-SUFFIX,independent.co.uk
+  - DOMAIN-SUFFIX,india.com
   - DOMAIN-SUFFIX,indiablooms.com
   - DOMAIN-SUFFIX,indianarrative.com
   - DOMAIN-SUFFIX,indiandefensenews.in
   - DOMAIN-SUFFIX,indiatimes.com
+  - DOMAIN-SUFFIX,indiatoday.in
   - DOMAIN-SUFFIX,indiemerch.com
   - DOMAIN-SUFFIX,indsr.org.tw
   - DOMAIN-SUFFIX,inf.news
@@ -4847,12 +4848,14 @@ payload:
   - DOMAIN-SUFFIX,newchen.com
   - DOMAIN-SUFFIX,newgrounds.com
   - DOMAIN-SUFFIX,newhighlandvision.com
+  - DOMAIN-SUFFIX,newindianexpress.com
   - DOMAIN-SUFFIX,newipnow.com
   - DOMAIN-SUFFIX,newlandmagazine.com.au
   - DOMAIN-SUFFIX,newmitbbs.com
   - DOMAIN-SUFFIX,newnews.ca
   - DOMAIN-SUFFIX,news1.kr
   - DOMAIN-SUFFIX,news100.com.tw
+  - DOMAIN-SUFFIX,news18.com
   - DOMAIN-SUFFIX,newsancai.com
   - DOMAIN-SUFFIX,newsblur.com
   - DOMAIN-SUFFIX,newschinacomment.org
@@ -4994,7 +4997,6 @@ payload:
   - DOMAIN-SUFFIX,ntdtv.ru
   - DOMAIN-SUFFIX,ntdtvla.com
   - DOMAIN-SUFFIX,ntrfun.com
-  - DOMAIN-SUFFIX,ntsna.gov.tw
   - DOMAIN-SUFFIX,ntu.edu.tw
   - DOMAIN-SUFFIX,nu.nl
   - DOMAIN-SUFFIX,nubiles.net
@@ -6202,6 +6204,7 @@ payload:
   - DOMAIN-SUFFIX,staging-controlbe.floonet.goog
   - DOMAIN-SUFFIX,staging-databe.floonet.goog
   - DOMAIN-SUFFIX,staging.databe.floonet.goog
+  - DOMAIN-SUFFIX,standard.co.uk
   - DOMAIN-SUFFIX,standupfortibet.org
   - DOMAIN-SUFFIX,standwithhk.org
   - DOMAIN-SUFFIX,stanford.edu
@@ -6492,6 +6495,7 @@ payload:
   - DOMAIN-SUFFIX,thegly.com
   - DOMAIN-SUFFIX,thegooglestore.com
   - DOMAIN-SUFFIX,theguardian.com
+  - DOMAIN-SUFFIX,thehansindia.com
   - DOMAIN-SUFFIX,thehindu.com
   - DOMAIN-SUFFIX,thehots.info
   - DOMAIN-SUFFIX,thehousenews.com
@@ -7040,7 +7044,6 @@ payload:
   - DOMAIN-SUFFIX,usefreevpn.com
   - DOMAIN-SUFFIX,usembassy.gov
   - DOMAIN-SUFFIX,useplannr.com
-  - DOMAIN-SUFFIX,userapi.nytlog.com
   - DOMAIN-SUFFIX,usercontent.dev
   - DOMAIN-SUFFIX,usercontent.goog
   - DOMAIN-SUFFIX,usertrust.com
@@ -7509,7 +7512,6 @@ payload:
   - DOMAIN-SUFFIX,wwitv.com
   - DOMAIN-SUFFIX,www-facebook.com
   - DOMAIN-SUFFIX,www.destinationurl.com
-  - DOMAIN-SUFFIX,www.linksalpha.com
   - DOMAIN-SUFFIX,www.pxcc.com
   - DOMAIN-SUFFIX,www1.biz
   - DOMAIN-SUFFIX,wwwfacebok.com

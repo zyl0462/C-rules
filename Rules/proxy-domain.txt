@@ -382,7 +382,6 @@ payload:
 .api-verify.recaptcha.net
 .api.ai
 .api.amplitude.com
-.api.linksalpha.com
 .api.mixpanel.com
 .api.proxlet.com
 .api.pureapk.com
@@ -390,7 +389,6 @@ payload:
 .api.steampowered.com
 .api.termius.com
 .apiary.io
-.apidocs.linksalpha.com
 .apigee.com
 .apk-dl.com
 .apk.support
@@ -1852,7 +1850,6 @@ payload:
 .entermap.com
 .entnt.com
 .entrust.net
-.epa.gov.tw
 .epac.to
 .episcopalchurch.org
 .epochhk.com
@@ -2441,6 +2438,7 @@ payload:
 .githubusercontent.com
 .gitlab.com
 .gitlab.io
+.gitlab.net
 .gitmemory.com
 .gizlen.net
 .gjczz.com
@@ -2887,7 +2885,6 @@ payload:
 .helloss.pw
 .hellotxt.com
 .hellouk.org
-.help.linksalpha.com
 .helpeachpeople.com
 .helplinfen.com
 .helpshift.com
@@ -4480,7 +4477,6 @@ payload:
 .ntdtv.ru
 .ntdtvla.com
 .ntrfun.com
-.ntsna.gov.tw
 .ntu.edu.tw
 .nu.nl
 .nubiles.net
@@ -6522,7 +6518,6 @@ payload:
 .use.typekit.net
 .usefreevpn.com
 .usembassy.gov
-.userapi.nytlog.com
 .usercontent.goog
 .users.skynet.be
 .usertrust.com
@@ -7002,7 +6997,6 @@ payload:
 .www.kindleren.com
 .www.klip.me
 .www.lib.virginia.edu
-.www.linksalpha.com
 .www.lorenzetti.com.br
 .www.m-sport.co.uk
 .www.monlamit.org
