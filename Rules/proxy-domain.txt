@@ -2148,6 +2148,7 @@ payload:
 .foolsmountain.com
 .fooooo.com
 .footwiball.com
+.forbes.com
 .foreignaffairs.com
 .foreignpolicy.com
 .form.new
