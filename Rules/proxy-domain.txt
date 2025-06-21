@@ -320,6 +320,7 @@ payload:
 .ampproject.net
 .ampproject.org
 .amtb-taipei.org
+.amuletmc.com
 .anaconda.com
 .anchor.fm
 .anchorfree.com
