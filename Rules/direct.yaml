@@ -2633,6 +2633,7 @@ payload:
   - DOMAIN-SUFFIX,makeeu.com
   - DOMAIN-SUFFIX,mallheadphone.com
   - DOMAIN-SUFFIX,map.qq.com
+  - DOMAIN-SUFFIX,marscode.cn
   - DOMAIN-SUFFIX,mashort.cn
   - DOMAIN-SUFFIX,material.istreamsche.com
   - DOMAIN-SUFFIX,mayshijia.com
@@ -3209,6 +3210,8 @@ payload:
   - DOMAIN-SUFFIX,tqiangg.net
   - DOMAIN-SUFFIX,tracking-location.com
   - DOMAIN-SUFFIX,tradevip1.com
+  - DOMAIN-SUFFIX,trae.cn
+  - DOMAIN-SUFFIX,trae.com.cn
   - DOMAIN-SUFFIX,trfgvb.com
   - DOMAIN-SUFFIX,truedepth3d.com
   - DOMAIN-SUFFIX,tryrating.com
