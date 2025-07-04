@@ -1666,6 +1666,7 @@ payload:
 .donmai.us
 .dontfilter.us
 .dontmovetochina.com
+.doom9.org
 .doosho.com
 .doourbest.org
 .dorjeshugden.com
