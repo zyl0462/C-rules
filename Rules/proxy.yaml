@@ -7532,6 +7532,7 @@ payload:
   - DOMAIN-SUFFIX,www-facebook.com
   - DOMAIN-SUFFIX,www.destinationurl.com
   - DOMAIN-SUFFIX,www.pxcc.com
+  - DOMAIN-SUFFIX,www.xicons.org
   - DOMAIN-SUFFIX,www1.biz
   - DOMAIN-SUFFIX,wwwfacebok.com
   - DOMAIN-SUFFIX,wwwfacebook.com
