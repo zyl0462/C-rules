@@ -26,6 +26,7 @@ payload:
   - DOMAIN,production-openaicom-storage.azureedge.net
   - DOMAIN,static.cloudflareinsights.com
   - DOMAIN,testflight.apple.com
+  - DOMAIN,trae-api-sg.mchost.guru
   - DOMAIN,tv.applemusic.com
   - DOMAIN,uts-api.itunes.apple.com
   - DOMAIN,voice.telephony.goog
@@ -1026,6 +1027,7 @@ payload:
   - DOMAIN-SUFFIX,byrut.org
   - DOMAIN-SUFFIX,bytedapm.com
   - DOMAIN-SUFFIX,bytegecko-i18n.com
+  - DOMAIN-SUFFIX,byteintlapi.com
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,c-est-simple.com
   - DOMAIN-SUFFIX,c-span.org
@@ -4408,6 +4410,7 @@ payload:
   - DOMAIN-SUFFIX,marguerite.su
   - DOMAIN-SUFFIX,marketwatch.com
   - DOMAIN-SUFFIX,markzuckerberg.com
+  - DOMAIN-SUFFIX,marscode.com
   - DOMAIN-SUFFIX,martau.com
   - DOMAIN-SUFFIX,martincartoons.com
   - DOMAIN-SUFFIX,martinoei.com
@@ -7280,6 +7283,7 @@ payload:
   - DOMAIN-SUFFIX,wainao.me
   - DOMAIN-SUFFIX,waiwaier.com
   - DOMAIN-SUFFIX,wallet.com
+  - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,wallmama.com
   - DOMAIN-SUFFIX,wallornot.org
   - DOMAIN-SUFFIX,wallpapercasa.com
