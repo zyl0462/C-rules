@@ -126,6 +126,8 @@ payload:
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,alibaba.com.cn
   - DOMAIN-SUFFIX,alibabacapital.com
+  - DOMAIN-SUFFIX,alibabachengdun.com
+  - DOMAIN-SUFFIX,alibabachengdun.net
   - DOMAIN-SUFFIX,alibabacloud.co.in
   - DOMAIN-SUFFIX,alibabacloud.com
   - DOMAIN-SUFFIX,alibabacloud.com.au
@@ -143,6 +145,7 @@ payload:
   - DOMAIN-SUFFIX,alibabagroup.com
   - DOMAIN-SUFFIX,alibabainno.com
   - DOMAIN-SUFFIX,alibabaplanet.com
+  - DOMAIN-SUFFIX,alibabastars.com
   - DOMAIN-SUFFIX,alibabatech.org
   - DOMAIN-SUFFIX,alibabatechqa.com
   - DOMAIN-SUFFIX,alibabaued.com
@@ -1288,7 +1291,9 @@ payload:
   - DOMAIN-SUFFIX,cqcorea.com
   - DOMAIN-SUFFIX,cqhimalayanky.com
   - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN-SUFFIX,cs-eval.com
   - DOMAIN-SUFFIX,csjplatform.com
+  - DOMAIN-SUFFIX,cthh9mnv.com
   - DOMAIN-SUFFIX,cuffiesaldi.com
   - DOMAIN-SUFFIX,cups.org
   - DOMAIN-SUFFIX,custom-iphonecase.com
@@ -1487,6 +1492,7 @@ payload:
   - DOMAIN-SUFFIX,ewtp.com
   - DOMAIN-SUFFIX,ewtp.org
   - DOMAIN-SUFFIX,ex.puata.info
+  - DOMAIN-SUFFIX,f09qgja1.com
   - DOMAIN-SUFFIX,f61a.com
   - DOMAIN-SUFFIX,f61b.com
   - DOMAIN-SUFFIX,faceid99.com
@@ -1932,6 +1938,7 @@ payload:
   - DOMAIN-SUFFIX,gfvip08ar.com
   - DOMAIN-SUFFIX,gfvip08as.com
   - DOMAIN-SUFFIX,gfvip08at.com
+  - DOMAIN-SUFFIX,ggunk1tn.com
   - DOMAIN-SUFFIX,ghtianshancn.com
   - DOMAIN-SUFFIX,gifshow.com
   - DOMAIN-SUFFIX,gktianshanjd.com
@@ -1993,6 +2000,7 @@ payload:
   - DOMAIN-SUFFIX,gxic.club
   - DOMAIN-SUFFIX,gyhimalayanul.com
   - DOMAIN-SUFFIX,h5util.com
+  - DOMAIN-SUFFIX,h7fpuyk8.com
   - DOMAIN-SUFFIX,haibaoyl.com
   - DOMAIN-SUFFIX,headphonepubs.com
   - DOMAIN-SUFFIX,headphones-cool.com
@@ -2063,6 +2071,8 @@ payload:
   - DOMAIN-SUFFIX,huoshanzhibo.net
   - DOMAIN-SUFFIX,hz.pre.tbusergw.taobao.net
   - DOMAIN-SUFFIX,hz.tbusergw.taobao.net
+  - DOMAIN-SUFFIX,hzchengdun.com
+  - DOMAIN-SUFFIX,hzchengdun.net
   - DOMAIN-SUFFIX,hzyzhp.com
   - DOMAIN-SUFFIX,i-book.com
   - DOMAIN-SUFFIX,i-book.net
@@ -2791,6 +2801,7 @@ payload:
   - DOMAIN-SUFFIX,nic.xin
   - DOMAIN-SUFFIX,nicesshop.net
   - DOMAIN-SUFFIX,njibhu.com
+  - DOMAIN-SUFFIX,nndz3xu7.com
   - DOMAIN-SUFFIX,nnjioko.com
   - DOMAIN-SUFFIX,novelfm.com
   - DOMAIN-SUFFIX,novelfmpic.com
@@ -2822,6 +2833,7 @@ payload:
   - DOMAIN-SUFFIX,onsaletrend.com
   - DOMAIN-SUFFIX,oortgslb.com
   - DOMAIN-SUFFIX,organicfruitapps.com
+  - DOMAIN-SUFFIX,oshield.com
   - DOMAIN-SUFFIX,outletbeatsshop.com
   - DOMAIN-SUFFIX,overapple.com
   - DOMAIN-SUFFIX,oyxdwx.com
@@ -3096,6 +3108,7 @@ payload:
   - DOMAIN-SUFFIX,szwinnertechnology.com
   - DOMAIN-SUFFIX,t-jh.cn
   - DOMAIN-SUFFIX,taeapp.com
+  - DOMAIN-SUFFIX,taji-ai.com
   - DOMAIN-SUFFIX,takegoto.com
   - DOMAIN-SUFFIX,tangping.com
   - DOMAIN-SUFFIX,tangping.com.cn
@@ -3361,6 +3374,7 @@ payload:
   - DOMAIN-SUFFIX,xppgsx.com
   - DOMAIN-SUFFIX,xrqorv.com
   - DOMAIN-SUFFIX,xsyeli.com
+  - DOMAIN-SUFFIX,xtianlang.com
   - DOMAIN-SUFFIX,xunxi.com
   - DOMAIN-SUFFIX,xylofh.com
   - DOMAIN-SUFFIX,ybtianshantu.com
