@@ -2359,6 +2359,7 @@ payload:
 .gardennetworks.org
 .garena.com
 .gartlive.com
+.garudalinux.org
 .gate-project.com
 .gate.io
 .gatecoin.com
@@ -4429,6 +4430,7 @@ payload:
 .nintendo.com
 .nintendo.net
 .ninth.biz
+.nirsoft.net
 .nitter.cc
 .nitter.net
 .niu.moe
@@ -6732,6 +6734,7 @@ payload:
 .vpnworldwide.com
 .vporn.com
 .vpser.net
+.vpsxb.net
 .vraiesagesse.net
 .vrchat.com
 .vrmtr.com
