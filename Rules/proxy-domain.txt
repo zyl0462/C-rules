@@ -460,6 +460,7 @@ payload:
 .asiaharvest.org
 .asianage.com
 .asianews.it
+.asianfanfics.com
 .asiansexdiary.com
 .asianspiss.com
 .asianwomensfilm.de
@@ -6248,6 +6249,7 @@ payload:
 .truesocial.media
 .trulyergonomic.com
 .trustasiassl.com
+.trustwallet.com
 .truth101.co.tv
 .truthontour.org
 .truthsocial.com
@@ -7286,6 +7288,7 @@ payload:
 .z-lib.gl
 .z-lib.io
 .z-lib.org
+.z-library.ec
 .z-library.sk
 .zacebook.com
 .zalmos.com
