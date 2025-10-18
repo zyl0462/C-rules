@@ -535,6 +535,7 @@ payload:
   - DOMAIN-SUFFIX,asiaharvest.org
   - DOMAIN-SUFFIX,asianage.com
   - DOMAIN-SUFFIX,asianews.it
+  - DOMAIN-SUFFIX,asianfanfics.com
   - DOMAIN-SUFFIX,asiansexdiary.com
   - DOMAIN-SUFFIX,asianspiss.com
   - DOMAIN-SUFFIX,asianwomensfilm.de
@@ -6782,6 +6783,7 @@ payload:
   - DOMAIN-SUFFIX,truesocial.media
   - DOMAIN-SUFFIX,trulyergonomic.com
   - DOMAIN-SUFFIX,trustasiassl.com
+  - DOMAIN-SUFFIX,trustwallet.com
   - DOMAIN-SUFFIX,truth101.co.tv
   - DOMAIN-SUFFIX,truthontour.org
   - DOMAIN-SUFFIX,truthsocial.com
@@ -7348,6 +7350,7 @@ payload:
   - DOMAIN-SUFFIX,webrtc.org
   - DOMAIN-SUFFIX,webrush.net
   - DOMAIN-SUFFIX,webs-tv.net
+  - DOMAIN-SUFFIX,websdr.org
   - DOMAIN-SUFFIX,website.new
   - DOMAIN-SUFFIX,websitepulse.com
   - DOMAIN-SUFFIX,websnapr.com
@@ -7632,6 +7635,7 @@ payload:
   - DOMAIN-SUFFIX,xn--noss43i.com
   - DOMAIN-SUFFIX,xn--oiq.cc
   - DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
+  - DOMAIN-SUFFIX,xn--u2u927b.com
   - DOMAIN-SUFFIX,xnpool.com
   - DOMAIN-SUFFIX,xnxx-cdn.com
   - DOMAIN-SUFFIX,xnxx.com
@@ -7944,6 +7948,7 @@ payload:
   - DOMAIN-SUFFIX,z-lib.gl
   - DOMAIN-SUFFIX,z-lib.io
   - DOMAIN-SUFFIX,z-lib.org
+  - DOMAIN-SUFFIX,z-library.ec
   - DOMAIN-SUFFIX,z-library.sk
   - DOMAIN-SUFFIX,zacebook.com
   - DOMAIN-SUFFIX,zalmos.com
