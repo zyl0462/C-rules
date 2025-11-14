@@ -2807,6 +2807,7 @@ payload:
 .great-roc.org
 .greatfire.org
 .greatfire.us7.list-manage.com
+.greatfirevpn.com
 .greatfirewall.biz
 .greatfirewallofchina.net
 .greatfirewallofchina.org
