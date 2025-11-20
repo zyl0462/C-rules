@@ -1298,6 +1298,7 @@ payload:
 .cloudflare-dns.com
 .cloudflare-ipfs.com
 .cloudflare.com
+.cloudflarestatus.com
 .cloudfront.net
 .cloudfunctions.net
 .cloudgarage.jp
@@ -3756,6 +3757,7 @@ payload:
 .liberal.org.hk
 .libertysculpturepark.com
 .libertytimes.com.tw
+.library-access.sk
 .library.usc.cuhk.edu.hk
 .libraryinformationtechnology.com
 .libredd.it
@@ -4058,6 +4060,7 @@ payload:
 .mihk.hk
 .mihr.com
 .mihua.org
+.mij.rip
 .mikanani.me
 .mike.cz.cc
 .mikesoltys.com
@@ -4115,6 +4118,7 @@ payload:
 .mixpod.com
 .mixx.com
 .mizzmona.com
+.mji.rip
 .mjib.gov.tw
 .mjj.rip
 .mjlsh.usc.cuhk.edu.hk
@@ -7157,6 +7161,7 @@ payload:
 .xn--11xs86f.icu
 .xn--4gq171p.com
 .xn--90wwvt03e.com
+.xn--9iqy04a7fi01l.com
 .xn--9pr62r24a.com
 .xn--czq75pvv1aj5c.org
 .xn--i2ru8q2qg.com
