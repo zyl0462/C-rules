@@ -464,7 +464,6 @@ payload:
   - DOMAIN-SUFFIX,api.ai
   - DOMAIN-SUFFIX,api.amplitude.com
   - DOMAIN-SUFFIX,api.mixpanel.com
-  - DOMAIN-SUFFIX,api.palworldgame.com
   - DOMAIN-SUFFIX,api.proxlet.com
   - DOMAIN-SUFFIX,api.statsig.com
   - DOMAIN-SUFFIX,api.termius.com
@@ -1050,6 +1049,7 @@ payload:
   - DOMAIN-SUFFIX,c-est-simple.com
   - DOMAIN-SUFFIX,c-span.org
   - DOMAIN-SUFFIX,c-spanvideo.org
+  - DOMAIN-SUFFIX,c.gle
   - DOMAIN-SUFFIX,c.mi.com
   - DOMAIN-SUFFIX,c100tibet.org
   - DOMAIN-SUFFIX,c2cx.com
@@ -1646,6 +1646,7 @@ payload:
   - DOMAIN-SUFFIX,demo.opera-mini.net
   - DOMAIN-SUFFIX,democrats.org
   - DOMAIN-SUFFIX,demosisto.hk
+  - DOMAIN-SUFFIX,deno.com
   - DOMAIN-SUFFIX,deno.dev
   - DOMAIN-SUFFIX,dependabot.com
   - DOMAIN-SUFFIX,depositphotos.com
@@ -1756,7 +1757,6 @@ payload:
   - DOMAIN-SUFFIX,dockerhub.com
   - DOMAIN-SUFFIX,dockerstatus.com
   - DOMAIN-SUFFIX,docs.cfw.lbyczf.com
-  - DOMAIN-SUFFIX,docs.deno.com
   - DOMAIN-SUFFIX,docs.new
   - DOMAIN-SUFFIX,doctorvoice.org
   - DOMAIN-SUFFIX,documentingreality.com
@@ -3746,7 +3746,6 @@ payload:
   - DOMAIN-SUFFIX,imageflea.com
   - DOMAIN-SUFFIX,imageglass.org
   - DOMAIN-SUFFIX,images-gaytube.com
-  - DOMAIN-SUFFIX,images.prismic.io
   - DOMAIN-SUFFIX,imageshack.us
   - DOMAIN-SUFFIX,imagevenue.com
   - DOMAIN-SUFFIX,imagezilla.net
@@ -4015,7 +4014,6 @@ payload:
   - DOMAIN-SUFFIX,jiangweiping.com
   - DOMAIN-SUFFIX,jiaoyou8.com
   - DOMAIN-SUFFIX,jibemobile.com
-  - DOMAIN-SUFFIX,jichangtj.com
   - DOMAIN-SUFFIX,jiehua.cz
   - DOMAIN-SUFFIX,jiehua.tv
   - DOMAIN-SUFFIX,jiepang.com
@@ -4381,7 +4379,6 @@ payload:
   - DOMAIN-SUFFIX,lsmradio.com
   - DOMAIN-SUFFIX,lsmwebcast.com
   - DOMAIN-SUFFIX,lsxszzg.com
-  - DOMAIN-SUFFIX,lt.sntp.uk
   - DOMAIN-SUFFIX,ltn.com.tw
   - DOMAIN-SUFFIX,luckydesigner.space
   - DOMAIN-SUFFIX,luckymobile.ca
@@ -4398,7 +4395,6 @@ payload:
   - DOMAIN-SUFFIX,lzjscript.com
   - DOMAIN-SUFFIX,lzmtnews.org
   - DOMAIN-SUFFIX,m-sport.co.uk
-  - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,m.plixi.com
   - DOMAIN-SUFFIX,m.slandr.net
@@ -4568,6 +4564,7 @@ payload:
   - DOMAIN-SUFFIX,microsoft-falcon.io
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoftapp.net
+  - DOMAIN-SUFFIX,microsoftpersonalcontent.com
   - DOMAIN-SUFFIX,microsofttranslator.com
   - DOMAIN-SUFFIX,microvpn.com
   - DOMAIN-SUFFIX,middle-way.net
@@ -5286,6 +5283,7 @@ payload:
   - DOMAIN-SUFFIX,paljorpublications.com
   - DOMAIN-SUFFIX,palmislife.com
   - DOMAIN-SUFFIX,paltalk.com
+  - DOMAIN-SUFFIX,palworldgame.com
   - DOMAIN-SUFFIX,pancakeswap.finance
   - DOMAIN-SUFFIX,pandafan.pub
   - DOMAIN-SUFFIX,pandapow.co
@@ -5527,6 +5525,7 @@ payload:
   - DOMAIN-SUFFIX,primevideo.com
   - DOMAIN-SUFFIX,printfriendly.com
   - DOMAIN-SUFFIX,prism-break.org
+  - DOMAIN-SUFFIX,prismic.io
   - DOMAIN-SUFFIX,prisoneralert.com
   - DOMAIN-SUFFIX,pritunl.com
   - DOMAIN-SUFFIX,privacybox.de
@@ -6130,6 +6129,7 @@ payload:
   - DOMAIN-SUFFIX,sneakme.net
   - DOMAIN-SUFFIX,snowlionpub.com
   - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,sntp.uk
   - DOMAIN-SUFFIX,sobees.com
   - DOMAIN-SUFFIX,soc.mil
   - DOMAIN-SUFFIX,social.edu.ci

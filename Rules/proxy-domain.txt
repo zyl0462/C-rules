@@ -973,6 +973,7 @@ payload:
 .c-est-simple.com
 .c-span.org
 .c-spanvideo.org
+.c.gle
 .c.mi.com
 .c100tibet.org
 .c2cx.com
@@ -1581,6 +1582,7 @@ payload:
 .demo.unlock-music.dev
 .democrats.org
 .demosisto.hk
+.deno.com
 .deno.dev
 .depositphotos.com
 .derekhsu.homeip.net
@@ -3495,7 +3497,6 @@ payload:
 .jgoodies.com
 .jiangweiping.com
 .jiaoyou8.com
-.jichangtj.com
 .jiehua.cz
 .jiehua.tv
 .jiepang.com
@@ -3885,7 +3886,6 @@ payload:
 .lzjscript.com
 .lzmtnews.org
 .m-sport.co.uk
-.m-team.cc
 .m.hkgalden.com
 .m.me
 .m.moegirl.org
@@ -4054,6 +4054,7 @@ payload:
 .microsoft-falcon.io
 .microsoft.com
 .microsoftapp.net
+.microsoftpersonalcontent.com
 .microsofttranslator.com
 .microvpn.com
 .middle-way.net
@@ -4742,6 +4743,7 @@ payload:
 .paljorpublications.com
 .palmislife.com
 .paltalk.com
+.palworldgame.com
 .panamapapers.sueddeutsche.de
 .pancakeswap.finance
 .pandafan.pub
@@ -4990,6 +4992,7 @@ payload:
 .primevideo.com
 .printfriendly.com
 .prism-break.org
+.prismic.io
 .prisoneralert.com
 .pritunl.com
 .privacybox.de
@@ -5587,6 +5590,7 @@ payload:
 .sndcdn.com
 .sneakme.net
 .snowlionpub.com
+.sntp.uk
 .sobees.com
 .soc.mil
 .social.datalabour.com
