@@ -697,6 +697,7 @@ payload:
 .bit.do
 .bit.ly
 .bit.no.com
+.bitbaby.com
 .bitbay.net
 .bitbucket.org
 .bitc.bme.emory.edu
@@ -3229,6 +3230,7 @@ payload:
 .id.hao123.com
 .id.heroku.com
 .idaiwan.com
+.idcflare.com
 .iddddg.com
 .idemocracy.asia
 .identi.ca
