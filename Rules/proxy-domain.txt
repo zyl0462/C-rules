@@ -5745,6 +5745,7 @@ payload:
 .stat.gov.tw
 .state.gov
 .static-economist.com
+.static.pocketcasts.com
 .static.shemalez.com
 .static01.nyt.com
 .statically.io
