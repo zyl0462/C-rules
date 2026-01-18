@@ -253,6 +253,7 @@ payload:
 .ajsands.com
 .akademiye.org
 .akamai.net
+.akamai.tvb.com
 .akamaihd.net
 .akamaistream.net
 .akiba-online.com
@@ -345,7 +346,10 @@ payload:
 .animecrazy.net
 .animeshippuuden.com
 .aniscartujo.com
+.annas-archive.in
+.annas-archive.li
 .annas-archive.org
+.annas-archive.pm
 .annas-archive.se
 .annatam.com
 .anobii.com
@@ -2199,7 +2203,6 @@ payload:
 .forum.omy.sg
 .forum.palmislife.com
 .forum.slime.com.tw
-.forum.tvb.com
 .forum.xinbao.de
 .forum4hk.com
 .forums-free.com
@@ -4307,6 +4310,7 @@ payload:
 .mytalkbox.com
 .myteamspeak.com
 .mytizi.com
+.mytvsuper.com
 .mywife.cc
 .mywww.biz
 .myz.info
@@ -6384,6 +6388,7 @@ payload:
 .tv.jtbc.joins.com
 .tvants.com
 .tvb.com
+.tvbanywhere.com
 .tvboxnow.com
 .tvbs.com.tw
 .tvider.com
