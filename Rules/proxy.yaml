@@ -2651,6 +2651,7 @@ payload:
   - DOMAIN-SUFFIX,freess.org
   - DOMAIN-SUFFIX,freessh.us
   - DOMAIN-SUFFIX,freetcp.com
+  - DOMAIN-SUFFIX,freeterabox.com
   - DOMAIN-SUFFIX,freetibet.net
   - DOMAIN-SUFFIX,freetibet.org
   - DOMAIN-SUFFIX,freetibetanheroes.org
@@ -6062,6 +6063,7 @@ payload:
   - DOMAIN-SUFFIX,sijihuisuo.com
   - DOMAIN-SUFFIX,silkbook.com
   - DOMAIN-SUFFIX,silvergatebank.com
+  - DOMAIN-SUFFIX,simianx.ai
   - DOMAIN-SUFFIX,simp.ly
   - DOMAIN-SUFFIX,simplecd.me
   - DOMAIN-SUFFIX,simplecd.org
@@ -7772,6 +7774,7 @@ payload:
   - DOMAIN-SUFFIX,yesasia.com
   - DOMAIN-SUFFIX,yesasia.com.hk
   - DOMAIN-SUFFIX,yeyeclub.com
+  - DOMAIN-SUFFIX,yfsp.tv
   - DOMAIN-SUFFIX,ygto.com
   - DOMAIN-SUFFIX,yhcw.net
   - DOMAIN-SUFFIX,yibada.com

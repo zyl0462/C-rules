@@ -66,7 +66,6 @@ payload:
 .25u.com
 .2du5.com
 .2lipstube.com
-.2mdn.net
 .2shared.com
 .2waky.com
 .3-a.net
@@ -587,6 +586,7 @@ payload:
 .bbc.co.uk
 .bbc.com
 .bbc.in
+.bbc.pdn.tritondigital.com
 .bbcchinese.com
 .bbchat.tv
 .bbci.co.uk
@@ -1562,6 +1562,7 @@ payload:
 .dbgjd.com
 .dcard.tw
 .dcmilitary.com
+.dcs-spotify.megaphone.fm
 .ddc.com.tw
 .ddex.io
 .ddhw.info
@@ -2947,6 +2948,7 @@ payload:
 .helloss.pw
 .hellotxt.com
 .hellouk.org
+.help.byspotify.com
 .helpeachpeople.com
 .helplinfen.com
 .helpshift.com
