@@ -251,6 +251,7 @@ payload:
 .akamaistream.net
 .akiba-online.com
 .akiba-web.com
+.akile.io
 .akinator.com
 .akow.org
 .al-islam.com
@@ -474,6 +475,7 @@ payload:
 .aspnetcdn.com
 .assembla.com
 .assets.bwbx.io
+.assets.nxtrace.org
 .assimp.org
 .astrill.com
 .async.be
@@ -3915,6 +3917,7 @@ payload:
 .mediafreakcity.com
 .mediawiki.org
 .medium.com
+.meee.com.tw
 .meetav.com
 .meetup.com
 .mefeedia.com
@@ -4560,6 +4563,7 @@ payload:
 .openai.com
 .openallweb.com
 .openbase.com
+.opencritic.com
 .opendemocracy.net
 .opendn.xyz
 .openervpn.in
@@ -6912,6 +6916,7 @@ payload:
 .www.antd.org
 .www.aolnews.com
 .www.bing.com
+.www.clashverge.dev
 .www.cmoinc.org
 .www.dmm.com
 .www.eastturkistan.net
