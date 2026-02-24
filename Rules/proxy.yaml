@@ -333,6 +333,7 @@ payload:
   - DOMAIN-SUFFIX,akamaistream.net
   - DOMAIN-SUFFIX,akiba-online.com
   - DOMAIN-SUFFIX,akiba-web.com
+  - DOMAIN-SUFFIX,akile.io
   - DOMAIN-SUFFIX,akinator.com
   - DOMAIN-SUFFIX,akow.org
   - DOMAIN-SUFFIX,al-islam.com
@@ -557,6 +558,7 @@ payload:
   - DOMAIN-SUFFIX,aspistrategist.org.au
   - DOMAIN-SUFFIX,aspnetcdn.com
   - DOMAIN-SUFFIX,assembla.com
+  - DOMAIN-SUFFIX,assets.nxtrace.org
   - DOMAIN-SUFFIX,assimp.org
   - DOMAIN-SUFFIX,astrill.com
   - DOMAIN-SUFFIX,async.be
@@ -4503,6 +4505,7 @@ payload:
   - DOMAIN-SUFFIX,mediafreakcity.com
   - DOMAIN-SUFFIX,mediawiki.org
   - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,meee.com.tw
   - DOMAIN-SUFFIX,meet.new
   - DOMAIN-SUFFIX,meetav.com
   - DOMAIN-SUFFIX,meetup.com
@@ -5192,6 +5195,7 @@ payload:
   - DOMAIN-SUFFIX,openallweb.com
   - DOMAIN-SUFFIX,openbase.com
   - DOMAIN-SUFFIX,opencreate.org
+  - DOMAIN-SUFFIX,opencritic.com
   - DOMAIN-SUFFIX,opendemocracy.net
   - DOMAIN-SUFFIX,opendn.xyz
   - DOMAIN-SUFFIX,openervpn.in
@@ -6765,6 +6769,7 @@ payload:
   - DOMAIN-SUFFIX,topshareware.com
   - DOMAIN-SUFFIX,toptip.ca
   - DOMAIN-SUFFIX,toptoon.net
+  - DOMAIN-SUFFIX,tor.eff.org
   - DOMAIN-SUFFIX,tora.to
   - DOMAIN-SUFFIX,torcn.com
   - DOMAIN-SUFFIX,torguard.net
@@ -7055,6 +7060,7 @@ payload:
   - DOMAIN-SUFFIX,unification.net
   - DOMAIN-SUFFIX,unification.org.tw
   - DOMAIN-SUFFIX,unirule.cloud
+  - DOMAIN-SUFFIX,uniswap.org
   - DOMAIN-SUFFIX,unitedsocialpress.com
   - DOMAIN-SUFFIX,unity3d.com
   - DOMAIN-SUFFIX,unix100.com
@@ -7575,6 +7581,7 @@ payload:
   - DOMAIN-SUFFIX,wwe.com
   - DOMAIN-SUFFIX,wwitv.com
   - DOMAIN-SUFFIX,www-facebook.com
+  - DOMAIN-SUFFIX,www.clashverge.dev
   - DOMAIN-SUFFIX,www.destinationurl.com
   - DOMAIN-SUFFIX,www.lamenhu.com
   - DOMAIN-SUFFIX,www.orchidbbs.com
