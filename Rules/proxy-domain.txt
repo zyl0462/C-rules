@@ -5372,6 +5372,7 @@ payload:
 .shipcamouflage.com
 .shireyishunjian.com
 .shitaotv.org
+.shitjournal.org
 .shixiao.org
 .shizhao.org
 .shkspr.mobi
