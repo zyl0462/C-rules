@@ -5208,6 +5208,7 @@ payload:
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,openaicom.imgix.net
   - DOMAIN-SUFFIX,openallweb.com
+  - DOMAIN-SUFFIX,openart.ai
   - DOMAIN-SUFFIX,openbase.com
   - DOMAIN-SUFFIX,opencreate.org
   - DOMAIN-SUFFIX,opencritic.com
