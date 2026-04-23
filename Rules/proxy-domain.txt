@@ -410,6 +410,7 @@ payload:
 .app-measurement.net
 .app.box.com
 .app.cloudcone.com
+.app.element.io
 .app.heywire.com
 .app.smartmailcloud.com
 .app.tutanota.com
@@ -469,6 +470,7 @@ payload:
 .asianspiss.com
 .asianwomensfilm.de
 .asiaone.com
+.asiasociety.org
 .asiatgp.com
 .asiatoday.us
 .ask.com
@@ -627,6 +629,7 @@ payload:
 .beijingzx.org
 .belamionline.com
 .bell.wiki
+.bellingcat.com
 .bemywife.cc
 .beric.me
 .berlinerbericht.de
@@ -3362,6 +3365,7 @@ payload:
 .ismprofessional.net
 .isohunt.com
 .israbox.com
+.issues.chromium.org
 .issuu.com
 .istars.co.nz
 .istarshine.com
@@ -3646,6 +3650,7 @@ payload:
 .lamnia.co.uk
 .lamrim.com
 .landofhope.tv
+.lantern.io
 .lantosfoundation.org
 .laogai.org
 .laogairesearch.org
@@ -5073,6 +5078,7 @@ payload:
 .raw.githack.com
 .rawgit.com
 .rawgithub.com
+.rawstory.com
 .razyboard.com
 .rcam.target.com
 .rcinet.ca
@@ -5092,6 +5098,7 @@ payload:
 .reason.com
 .rebatesrule.net
 .recaptcha.net
+.recordedfuture.com
 .recordhistory.org
 .recovery.org.tw
 .recoveryversion.com.tw
@@ -5157,6 +5164,7 @@ payload:
 .rmjdw.com
 .rmjdw132.info
 .roadshow.hk
+.roblox.com
 .roboforex.com
 .robustnessiskey.com
 .rocket-inc.net
@@ -5945,6 +5953,7 @@ payload:
 .thewgo.org
 .thewirechina.com
 .theync.com
+.thinkchina.sg
 .thinkgeek.com
 .thinkingtaiwan.com
 .thinkwithgoogle.com
