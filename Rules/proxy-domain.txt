@@ -5261,9 +5261,6 @@ payload:
 .sbme.me
 .sbs.com.au
 .sbti.unun.dev
-.scache.vzw.com
-.scache1.vzw.com
-.scache2.vzw.com
 .scasino.com
 .scdn.co
 .schema.org
@@ -5614,7 +5611,6 @@ payload:
 .srocket.us
 .ss-link.com
 .ss.levyhsu.com
-.ss7.vzw.com
 .ssa.gov
 .ssglobal.co
 .ssglobal.me
