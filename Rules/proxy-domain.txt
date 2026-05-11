@@ -1515,6 +1515,7 @@ payload:
 .dashlane.com
 .dastrassi.org
 .data-vocabulary.org
+.data18.com
 .datalabour.com
 .daum.net
 .david-kilgour.com
@@ -1711,6 +1712,7 @@ payload:
 .dsmtp.com
 .dssott.com
 .dstk.dk
+.dt18.com
 .dtdns.net
 .dtiblog.com
 .dtic.mil
