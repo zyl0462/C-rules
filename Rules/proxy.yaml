@@ -1629,6 +1629,7 @@ payload:
   - DOMAIN-SUFFIX,dashlane.com
   - DOMAIN-SUFFIX,dastrassi.org
   - DOMAIN-SUFFIX,data-vocabulary.org
+  - DOMAIN-SUFFIX,data18.com
   - DOMAIN-SUFFIX,datalabour.com
   - DOMAIN-SUFFIX,dataliberation.org
   - DOMAIN-SUFFIX,daum.net
@@ -1823,7 +1824,6 @@ payload:
   - DOMAIN-SUFFIX,dowei.org
   - DOMAIN-SUFFIX,dowjones.com
   - DOMAIN-SUFFIX,download.dappcdn.com
-  - DOMAIN-SUFFIX,download.qatp1.net
   - DOMAIN-SUFFIX,dphk.org
   - DOMAIN-SUFFIX,dpool.top
   - DOMAIN-SUFFIX,dpp.org.tw
@@ -1845,6 +1845,7 @@ payload:
   - DOMAIN-SUFFIX,dsmtp.com
   - DOMAIN-SUFFIX,dssott.com
   - DOMAIN-SUFFIX,dstk.dk
+  - DOMAIN-SUFFIX,dt18.com
   - DOMAIN-SUFFIX,dtdns.net
   - DOMAIN-SUFFIX,dtiblog.com
   - DOMAIN-SUFFIX,dtic.mil
@@ -4703,7 +4704,6 @@ payload:
   - DOMAIN-SUFFIX,moneywithfacebook.com
   - DOMAIN-SUFFIX,monica.im
   - DOMAIN-SUFFIX,monitorchina.org
-  - DOMAIN-SUFFIX,monitoring.qpdp1.net
   - DOMAIN-SUFFIX,monitorware.com
   - DOMAIN-SUFFIX,monlamit.org
   - DOMAIN-SUFFIX,monocloud.me
@@ -5654,10 +5654,8 @@ payload:
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,pythonic.life
   - DOMAIN-SUFFIX,pytorch.org
-  - DOMAIN-SUFFIX,qagpublic.qatp1.net
   - DOMAIN-SUFFIX,qanote.com
   - DOMAIN-SUFFIX,qbittorrent.org
-  - DOMAIN-SUFFIX,qgadmin.qcpp1.net
   - DOMAIN-SUFFIX,qgirl.com.tw
   - DOMAIN-SUFFIX,qhigh.com
   - DOMAIN-SUFFIX,qi-gong.me
@@ -5680,8 +5678,6 @@ payload:
   - DOMAIN-SUFFIX,qstatus.com
   - DOMAIN-SUFFIX,qtrac.eu
   - DOMAIN-SUFFIX,qtweeter.com
-  - DOMAIN-SUFFIX,qualysapi.qatp1.net
-  - DOMAIN-SUFFIX,qualysguard.qpdp1.net
   - DOMAIN-SUFFIX,quannengshen.org
   - DOMAIN-SUFFIX,quantumbooter.net
   - DOMAIN-SUFFIX,quay.io
@@ -5943,7 +5939,6 @@ payload:
   - DOMAIN-SUFFIX,sbme.me
   - DOMAIN-SUFFIX,sbs.com.au
   - DOMAIN-SUFFIX,sbti.unun.dev
-  - DOMAIN-SUFFIX,scanservice1.qcpp1.net
   - DOMAIN-SUFFIX,scasino.com
   - DOMAIN-SUFFIX,scdn.co
   - DOMAIN-SUFFIX,schema.org
