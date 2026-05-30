@@ -460,6 +460,7 @@ payload:
 .arunachalforests.gov.in
 .arvanstorage.ir
 .arweave.org
+.as.mr
 .asacp.org
 .asdfg.jp
 .asg.to
@@ -563,6 +564,7 @@ payload:
 .bangdream.space
 .bangkokpost.com
 .bangumi.moe
+.bangumi.tv
 .bangyoulater.com
 .bankmobilevibe.com
 .bannedbook.org
@@ -658,6 +660,7 @@ payload:
 .beyondfirewall.com
 .bfnn.org
 .bfsh.hk
+.bgm.tv
 .bgme.me
 .bgvpn.com
 .bianlei.com
@@ -1134,6 +1137,7 @@ payload:
 .cherrysave.com
 .chhongbi.org
 .chicagoncmtv.com
+.chii.in
 .china-mmm.jp.net
 .china-mmm.net
 .china-mmm.sa.com
@@ -2374,6 +2378,7 @@ payload:
 .geekheart.info
 .gekikame.com
 .gelbooru.com
+.gencraft.com
 .generated.photos
 .geni.us
 .genius.com
@@ -2944,6 +2949,7 @@ payload:
 .hicairo.com
 .hiccears.com
 .hidden-advent.org
+.hiddify.com
 .hide.me
 .hidecloud.com
 .hidein.net
@@ -6579,6 +6585,7 @@ payload:
 .vcf-online.org
 .vcfbuilder.org
 .vds.rightster.com
+.veed.io
 .vegas.williamhill.com
 .vegasred.com
 .velkaepocha.sk
