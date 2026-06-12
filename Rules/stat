@@ -1,6 +1,6 @@
-#2026/06/12 11:31:30(UTC/GMT+08:00)
-reject rules(189830+155): 189985
+#2026/06/12 22:48:29(UTC/GMT+08:00)
+reject rules(189985+224): 190209
 proxy-domain rules(7357+0): 7357
 proxy rules(9426+0): 9426
 direct rules(3580+0): 3580
-total rules(210193+155): 210348
+total rules(210348+224): 210572
