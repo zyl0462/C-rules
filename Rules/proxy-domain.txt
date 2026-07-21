@@ -1279,6 +1279,7 @@ payload:
 .ck101.com
 .cl.ly
 .clarionproject.org
+.clashyun.com
 .classicalguitarblog.net
 .claude.ai
 .claude.com
@@ -5880,6 +5881,7 @@ payload:
 .synergyse.com
 .syosetu.com
 .sysresccd.org
+.sysub.com
 .sytes.net
 .syx86.com
 .szbbs.net
