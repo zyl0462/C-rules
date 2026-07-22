@@ -7381,6 +7381,7 @@ payload:
 .zengjinyan.org
 .zenmate.com
 .zenmate.com.ru
+.zenmux.ai
 .zerohedge.com
 .zeronet.io
 .zeutch.com
