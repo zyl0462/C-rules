@@ -1108,6 +1108,7 @@ payload:
 .centerforhumanreprod.com
 .centralnation.com
 .centurys.net
+.cerebras.ai
 .certificate-transparency.org
 .certificate.revocationcheck.com
 .cex.io
@@ -1243,6 +1244,7 @@ payload:
 .chromercise.com
 .chromestatus.com
 .chromium.org
+.cht.com.tw
 .chuang-yen.org
 .chubold.com
 .chubun.com
