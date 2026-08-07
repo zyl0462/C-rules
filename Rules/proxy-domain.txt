@@ -509,7 +509,6 @@ payload:
 .auctions.yahoo.co.jp
 .audacy.com
 .audionow.com
-.auntology.fandom.com
 .autodraw.com
 .av-e-body.com
 .av.com
@@ -3109,7 +3108,6 @@ payload:
 .homeperversion.com
 .homeservershow.com
 .honeynet.org
-.hongkong.fandom.com
 .hongkongfp.com
 .hongmeimei.com
 .hongzhi.li
