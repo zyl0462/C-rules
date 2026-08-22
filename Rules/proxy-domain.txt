@@ -906,6 +906,7 @@ payload:
 .breaking911.com
 .breakingtweets.com
 .breakwall.net
+.briarproject.org
 .briefdream.com
 .briian.com
 .brill.com
@@ -1139,6 +1140,7 @@ payload:
 .chat.lmsys.org
 .chat.openai.com
 .chatgpt.com
+.chatgpt.site
 .chatnook.com
 .chatpdf.com
 .chaturbate.com
