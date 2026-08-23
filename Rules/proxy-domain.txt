@@ -3029,6 +3029,7 @@ payload:
 .himemix.net
 .hindustantimes.com
 .hinet.net
+.historylines.net
 .hitbtc.com
 .hitomi.la
 .hitun.io
@@ -3674,6 +3675,7 @@ payload:
 .kir.jp
 .kissjav.com
 .kiwi.kz
+.kiwix.org
 .kk-whys.co.jp
 .kkbox.com
 .kknews.cc
@@ -4018,6 +4020,7 @@ payload:
 .mayimayi.com
 .mcadforums.com
 .mcaf.ee
+.mceindex.com
 .mcfog.com
 .mcreasite.com
 .mcusercontent.com
@@ -5386,6 +5389,7 @@ payload:
 .savevid.com
 .say2.info
 .sb-cd.com
+.sb.sb
 .sbme.me
 .sbs.com.au
 .sbti.unun.dev
