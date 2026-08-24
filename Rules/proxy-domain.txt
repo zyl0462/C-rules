@@ -404,6 +404,7 @@ payload:
 .api.proxlet.com
 .api.pureapk.com
 .api.recaptcha.net
+.api.shuaiapi.com
 .api.steampowered.com
 .api.termius.com
 .api5.futunn.com
@@ -7157,6 +7158,7 @@ payload:
 .x24hr.com
 .x365x.com
 .x3guide.com
+.x86.fr
 .xanga.com
 .xbabe.com
 .xbookcn.com
