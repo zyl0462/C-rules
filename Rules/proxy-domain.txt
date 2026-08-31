@@ -2459,6 +2459,7 @@ payload:
 .getlantern.org
 .getmalus.com
 .getmdl.io
+.getmonero.org
 .getoutline.org
 .getpricetag.com
 .getsession.org
@@ -4486,6 +4487,7 @@ payload:
 .nianticlabs.com
 .nic.cz.cc
 .nic.gov
+.nicoseiga.jp
 .nicovideo.jp
 .nighost.org
 .nightlife141.com
