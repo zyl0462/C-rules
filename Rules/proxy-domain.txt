@@ -393,13 +393,10 @@ payload:
 .apartments.com
 .apat1989.org
 .apetube.com
-.api-gl.lbkrs.com
 .api-secure.recaptcha.net
 .api-verify.recaptcha.net
 .api.ai
 .api.amplitude.com
-.api.futunn.com
-.api.lbkrs.com
 .api.mixpanel.com
 .api.moomoobull.com
 .api.palworldgame.com
@@ -409,7 +406,6 @@ payload:
 .api.shuaiapi.com
 .api.steampowered.com
 .api.termius.com
-.api5.futunn.com
 .apiary.io
 .apigee.com
 .apk-dl.com
@@ -1083,7 +1079,6 @@ payload:
 .cdn-telegram.org
 .cdn.angruo.com
 .cdn.arstechnica.net
-.cdn.futustatic.com
 .cdn.jwplayer.com
 .cdn.printfriendly.com
 .cdn.seatguru.com
@@ -1338,7 +1333,6 @@ payload:
 .cn.sandscotaicentral.com
 .cn.shafaqna.com
 .cn.theaustralian.com.au
-.cn.uptodown.com
 .cn6.eu
 .cna.com.tw
 .cnabc.com
@@ -1720,7 +1714,6 @@ payload:
 .dowjones.com
 .dowjones.io
 .download.dappcdn.com
-.download.futunn.com
 .dphk.org
 .dpool.top
 .dpp.org.tw
@@ -3937,7 +3930,6 @@ payload:
 .lzjscript.com
 .lzmtnews.org
 .m-sport.co.uk
-.m.hkgalden.com
 .m.me
 .m.moegirl.org
 .m.plixi.com
@@ -4707,12 +4699,8 @@ payload:
 .openai.com
 .openallweb.com
 .openapi-quote.longbridge.cn
-.openapi-quote.longbridge.com
 .openapi-trade.longbridge.cn
-.openapi-trade.longbridge.com
-.openapi.futunn.com
 .openapi.longbridge.cn
-.openapi.longbridge.com
 .openart.ai
 .openbase.com
 .opencritic.com
@@ -5145,10 +5133,9 @@ payload:
 .qpoe.com
 .qq.co.za
 .qstatus.com
-.qtcard.futunn.com
-.qtcardfthk.futufin.com
 .qtrac.eu
 .qtweeter.com
+.quakemachinex.com
 .quannengshen.org
 .quantumbooter.net
 .quay.io
@@ -5877,7 +5864,6 @@ payload:
 .superzooi.com
 .supjav.com
 .suppig.net
-.support.futunn.com
 .supremecourt.gov
 .suprememastertv.com
 .surfeasy.com
@@ -6331,8 +6317,6 @@ payload:
 .tparents.org
 .tpi.org.tw
 .tracfone.com
-.trade.futunn.com
-.trade.longportapp.com
 .tradeup.com
 .tradingview.com
 .trakt.tv
