@@ -1084,6 +1084,7 @@ payload:
   - DOMAIN-SUFFIX,c-span.org
   - DOMAIN-SUFFIX,c-spanvideo.org
   - DOMAIN-SUFFIX,c.gle
+  - DOMAIN-SUFFIX,c.go-mpulse.net
   - DOMAIN-SUFFIX,c.mi.com
   - DOMAIN-SUFFIX,c100tibet.org
   - DOMAIN-SUFFIX,c2cx.com
@@ -5773,6 +5774,7 @@ payload:
   - DOMAIN-SUFFIX,qiwen.lu
   - DOMAIN-SUFFIX,qkshare.com
   - DOMAIN-SUFFIX,qmp4.com
+  - DOMAIN-SUFFIX,qobuz.com
   - DOMAIN-SUFFIX,qoos.com
   - DOMAIN-SUFFIX,qpoe.com
   - DOMAIN-SUFFIX,qpx.googleflights.net
@@ -7351,6 +7353,7 @@ payload:
   - DOMAIN-SUFFIX,vansky.com
   - DOMAIN-SUFFIX,vaticannews.va
   - DOMAIN-SUFFIX,vatn.org
+  - DOMAIN-SUFFIX,vava8.com
   - DOMAIN-SUFFIX,vbstatic.co
   - DOMAIN-SUFFIX,vcf-online.org
   - DOMAIN-SUFFIX,vcfbuilder.org
@@ -8453,6 +8456,8 @@ payload:
   - IP-CIDR,13.250.186.16/29
   - IP-CIDR,13.250.186.192/28
   - IP-CIDR,13.250.186.208/29
+  - IP-CIDR,13.251.24.0/24
+  - IP-CIDR,13.251.41.0/24
   - IP-CIDR,13.32.0.0/15
   - IP-CIDR,13.33.142.0/24
   - IP-CIDR,13.35.0.0/17
@@ -8662,6 +8667,7 @@ payload:
   - IP-CIDR,16.63.77.8/29
   - IP-CIDR,160.1.128.0/24
   - IP-CIDR,169.45.248.118/32
+  - IP-CIDR,17.252.156.0/23
   - IP-CIDR,172.110.32.0/21
   - IP-CIDR,173.192.222.160/27
   - IP-CIDR,173.192.231.32/27
