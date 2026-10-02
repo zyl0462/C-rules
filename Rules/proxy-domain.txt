@@ -6870,6 +6870,7 @@ payload:
 .waiwaier.com
 .walletconnect.com
 .walletconnect.org
+.wallhaven.cc
 .wallmama.com
 .wallornot.org
 .wallpapercasa.com
