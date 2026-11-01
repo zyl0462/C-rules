@@ -410,6 +410,7 @@ payload:
 .api.shuaiapi.com
 .api.steampowered.com
 .api.termius.com
+.api.themoviedb.org
 .apiary.io
 .apigee.com
 .apk-dl.com
@@ -6359,6 +6360,7 @@ payload:
 .torproject.org
 .torrentgalaxy.to
 .torrentkitty.tv
+.torrentleech.org
 .torrentmac.net
 .torrentprivacy.com
 .torrentproject.se
@@ -7424,6 +7426,7 @@ payload:
 .youtubegaming.com
 .youtubekids.com
 .youversion.com
+.youversionapi.com
 .youwin.com
 .youxu.info
 .yoyo.org
